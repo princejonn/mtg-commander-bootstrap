@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "pre-commit": "tsc -p tsconfig.json --noEmit && lint-staged",
+    "pre-push": "npm test"
+  }
+}
