@@ -112,4 +112,14 @@ export const Tutors: TCardArray = [
       [ Color.RED ],
     ],
   },
+  {
+    name: "Vampiric Tutor",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
 ];

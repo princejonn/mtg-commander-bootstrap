@@ -1,7 +1,60 @@
 import { TCardArray } from "../types";
 import { Color } from "../enums";
 
-export const Removals: TCardArray = [
+export const Targeted: TCardArray = [
+  {
+    name: "Defile",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Hero's Downfall",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Swords to Plowshares",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Path to Exile",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Return to Dust",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+];
+
+export const Board: TCardArray = [
   {
     name: "Damnation",
     casual: true,
@@ -38,26 +91,6 @@ export const Removals: TCardArray = [
     competitive: false,
     minColors: 1,
     maxColors: 1,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Defile",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 1,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Hero's Downfall",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
     colorIdentity: [
       [ Color.BLACK ],
     ],

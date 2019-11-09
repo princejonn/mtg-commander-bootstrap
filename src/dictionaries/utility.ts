@@ -1,4 +1,5 @@
 import { TCardArray } from "../types";
+import { Color } from "../enums";
 import { Guild, Shard } from "../constants";
 
 export const Charms: TCardArray = [
@@ -7,7 +8,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.AZORIUS,
     ],
@@ -17,7 +18,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.DIMIR,
     ],
@@ -27,7 +28,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.RAKDOS,
     ],
@@ -37,7 +38,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.GRUUL,
     ],
@@ -47,7 +48,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.SELESNYA,
     ],
@@ -57,7 +58,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.ORZHOV,
     ],
@@ -67,7 +68,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.IZZET,
     ],
@@ -77,7 +78,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.GOLGARI,
     ],
@@ -87,7 +88,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.BOROS,
     ],
@@ -97,7 +98,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.SIMIC,
     ],
@@ -200,6 +201,79 @@ export const Charms: TCardArray = [
     maxColors: 3,
     colorIdentity: [
       Shard.TEMUR,
+    ],
+  },
+];
+
+export const Counters: TCardArray = [
+  {
+    name: "Counterspell",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Brainstorm",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Mana Drain",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Negate",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Swan Song",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Dovin's Veto",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Silence",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
     ],
   },
 ];

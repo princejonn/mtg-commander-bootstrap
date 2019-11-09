@@ -148,7 +148,8 @@ export const buildCardList = (fileName: string, colorList: TColorArray): void =>
   ];
 
   const removalsList: Array<string> = [
-    ...getMatchingCards(colorList, removals.Removals),
+    ...getMatchingCards(colorList, removals.Targeted),
+    ...getMatchingCards(colorList, removals.Board),
   ];
 
   const tutorsList: Array<string> = [
@@ -157,6 +158,7 @@ export const buildCardList = (fileName: string, colorList: TColorArray): void =>
 
   const utilityList: Array<string> = [
     ...getMatchingCards(colorList, utility.Charms),
+    ...getMatchingCards(colorList, utility.Counters),
   ];
 
   const totalList: Array<string> = [

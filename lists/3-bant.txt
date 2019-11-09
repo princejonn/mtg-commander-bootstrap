@@ -46,6 +46,10 @@
 1 Land Tax
 1 Smothering Tithe
 1 Plains
+1 Ponder
+1 Swords to Plowshares
+1 Path to Exile
+1 Return to Dust
 1 Wrath of God
 1 Enlightened Tutor
 1 Idyllic Tutor
@@ -55,4 +59,14 @@
 1 Kodama's Reach
 1 Farhaven Elf
 1 Cultivate
+1 Azorius Charm
+1 Selesnya Charm
+1 Simic Charm
 1 Bant Charm
+1 Counterspell
+1 Brainstorm
+1 Mana Drain
+1 Negate
+1 Swan Song
+1 Dovin's Veto
+1 Silence

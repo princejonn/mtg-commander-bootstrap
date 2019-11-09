@@ -50,10 +50,14 @@
 1 Phyrexian Arena
 1 Night's Whisper
 1 Sign in Blood
+1 Ponder
+1 Hero's Downfall
+1 Swords to Plowshares
+1 Path to Exile
+1 Return to Dust
 1 Damnation
 1 Wrath of God
 1 Toxic Deluge
-1 Hero's Downfall
 1 Enlightened Tutor
 1 Idyllic Tutor
 1 Merchant Scroll
@@ -61,4 +65,15 @@
 1 Spellseeker
 1 Demonic Tutor
 1 Imperial Seal
+1 Vampiric Tutor
+1 Azorius Charm
+1 Dimir Charm
+1 Orzhov Charm
 1 Esper Charm
+1 Counterspell
+1 Brainstorm
+1 Mana Drain
+1 Negate
+1 Swan Song
+1 Dovin's Veto
+1 Silence
