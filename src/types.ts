@@ -1,23 +1,18 @@
-export type TColorInput = {
-  [key: string]: boolean;
-}
+import { Color } from "./enums";
 
-export type TCardColors = {
-  [key: string]: boolean;
-  any?: boolean;
-  white?: boolean;
-  blue?: boolean;
-  black?: boolean;
-  green?: boolean;
-  red?: boolean;
-}
+export type TColorArray = Array<Color>;
 
 export type TCard = {
   name: string;
   casual: boolean;
+  competitive: boolean;
   minColors: number;
   maxColors: number;
-  colors: TCardColors;
+  colorIdentity: Array<TColorArray>;
 }
 
-export type TCardArray = Array<TCard>
+export type TCardArray = Array<TCard>;
+
+export type TBasicLandList = {
+  [key: string]: number;
+}
