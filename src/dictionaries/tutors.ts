@@ -23,16 +23,6 @@ export const Tutors: TCardArray = [
     ],
   },
   {
-    name: "Land Tax",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-    ],
-  },
-  {
     name: "Merchant Scroll",
     casual: true,
     competitive: false,

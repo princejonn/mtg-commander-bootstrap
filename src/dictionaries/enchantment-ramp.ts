@@ -2,6 +2,39 @@ import { TCardArray } from "../types";
 import { Color } from "../enums";
 import { Guild } from "../constants";
 
+export const DefaultEnchantments: TCardArray = [
+  {
+    name: "Land Tax",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Smothering Tithe",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Black Market",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+];
+
 export const TransformLand: TCardArray = [
   {
     name: "Legion's Landing",

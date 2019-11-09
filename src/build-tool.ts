@@ -132,6 +132,7 @@ export const buildCardList = (fileName: string, colorList: TColorArray): void =>
   ];
 
   const enchantmentList: Array<string> = [
+    ...getMatchingCards(colorList, enchantmentRamp.DefaultEnchantments),
     ...getMatchingCards(colorList, enchantmentRamp.TransformLand),
   ];
 

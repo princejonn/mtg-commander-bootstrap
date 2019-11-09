@@ -77,7 +77,7 @@ export const DefaultArtifacts: TCardArray = [
     name: "Commander's Sphere",
     casual: true,
     competitive: false,
-    minColors: 1,
+    minColors: 2,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -105,7 +105,7 @@ export const DefaultArtifacts: TCardArray = [
     name: "Expedition Map",
     casual: true,
     competitive: false,
-    minColors: 1,
+    minColors: 2,
     maxColors: 3,
     colorIdentity: [
       [ Color.WHITE ],
@@ -119,7 +119,7 @@ export const DefaultArtifacts: TCardArray = [
     name: "Wayfarer's Bauble",
     casual: true,
     competitive: false,
-    minColors: 1,
+    minColors: 2,
     maxColors: 3,
     colorIdentity: [
       [ Color.WHITE ],
