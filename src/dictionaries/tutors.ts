@@ -43,16 +43,6 @@ export const Tutors: TCardArray = [
     ],
   },
   {
-    name: "Spellseeker",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
     name: "Demonic Tutor",
     casual: true,
     competitive: false,
@@ -63,7 +53,7 @@ export const Tutors: TCardArray = [
     ],
   },
   {
-    name: "Imperial Seal",
+    name: "Vampiric Tutor",
     casual: true,
     competitive: false,
     minColors: 1,
@@ -74,16 +64,6 @@ export const Tutors: TCardArray = [
   },
   {
     name: "Kodama's Reach",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
-  {
-    name: "Farhaven Elf",
     casual: true,
     competitive: false,
     minColors: 1,
@@ -110,16 +90,6 @@ export const Tutors: TCardArray = [
     maxColors: 5,
     colorIdentity: [
       [ Color.RED ],
-    ],
-  },
-  {
-    name: "Vampiric Tutor",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.BLACK ],
     ],
   },
 ];

@@ -43,14 +43,12 @@
 1 Storm the Vault UR
 3 Island
 2 Mountain
+1 Brainstorm
 1 Ponder
 1 Merchant Scroll
 1 Mystical Tutor
-1 Spellseeker
 1 Gamble
 1 Izzet Charm
 1 Counterspell
-1 Brainstorm
-1 Mana Drain
 1 Negate
 1 Swan Song

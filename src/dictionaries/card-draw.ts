@@ -23,7 +23,7 @@ export const CardDraw: TCardArray = [
     ],
   },
   {
-    name: "Night's Whisper",
+    name: "Sign in Blood",
     casual: true,
     competitive: false,
     minColors: 1,
@@ -33,13 +33,13 @@ export const CardDraw: TCardArray = [
     ],
   },
   {
-    name: "Sign in Blood",
+    name: "Brainstorm",
     casual: true,
     competitive: false,
     minColors: 1,
     maxColors: 5,
     colorIdentity: [
-      [ Color.BLACK ],
+      [ Color.BLUE ],
     ],
   },
   {

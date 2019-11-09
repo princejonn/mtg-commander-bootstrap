@@ -19,12 +19,10 @@
 1 Sapphire Medallion
 1 Search for Azcanta
 28 Island
+1 Brainstorm
 1 Ponder
 1 Merchant Scroll
 1 Mystical Tutor
-1 Spellseeker
 1 Counterspell
-1 Brainstorm
-1 Mana Drain
 1 Negate
 1 Swan Song

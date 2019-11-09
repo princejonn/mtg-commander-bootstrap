@@ -46,6 +46,7 @@
 1 Legion's Landing
 1 Search for Azcanta
 1 Plains
+1 Brainstorm
 1 Ponder
 1 Swords to Plowshares
 1 Path to Exile
@@ -55,11 +56,8 @@
 1 Idyllic Tutor
 1 Merchant Scroll
 1 Mystical Tutor
-1 Spellseeker
 1 Azorius Charm
 1 Counterspell
-1 Brainstorm
-1 Mana Drain
 1 Negate
 1 Swan Song
 1 Dovin's Veto

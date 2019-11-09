@@ -25,7 +25,6 @@
 24 Swamp
 1 Greed
 1 Phyrexian Arena
-1 Night's Whisper
 1 Sign in Blood
 1 Defile
 1 Hero's Downfall
@@ -33,5 +32,4 @@
 1 Toxic Deluge
 1 Mutilate
 1 Demonic Tutor
-1 Imperial Seal
 1 Vampiric Tutor

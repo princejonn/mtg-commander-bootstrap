@@ -46,7 +46,6 @@
 1 Mountain
 1 Greed
 1 Phyrexian Arena
-1 Night's Whisper
 1 Sign in Blood
 1 Hero's Downfall
 1 Swords to Plowshares
@@ -58,9 +57,8 @@
 1 Enlightened Tutor
 1 Idyllic Tutor
 1 Demonic Tutor
-1 Imperial Seal
-1 Gamble
 1 Vampiric Tutor
+1 Gamble
 1 Rakdos Charm
 1 Orzhov Charm
 1 Boros Charm

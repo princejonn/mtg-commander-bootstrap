@@ -217,26 +217,6 @@ export const Counters: TCardArray = [
     ],
   },
   {
-    name: "Brainstorm",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Mana Drain",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
     name: "Negate",
     casual: true,
     competitive: false,

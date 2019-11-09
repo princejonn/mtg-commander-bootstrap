@@ -48,8 +48,8 @@
 1 Land Tax
 1 Greed
 1 Phyrexian Arena
-1 Night's Whisper
 1 Sign in Blood
+1 Brainstorm
 1 Ponder
 1 Hero's Downfall
 1 Swords to Plowshares
@@ -62,14 +62,10 @@
 1 Idyllic Tutor
 1 Merchant Scroll
 1 Mystical Tutor
-1 Spellseeker
 1 Demonic Tutor
-1 Imperial Seal
-1 Gamble
 1 Vampiric Tutor
+1 Gamble
 1 Counterspell
-1 Brainstorm
-1 Mana Drain
 1 Negate
 1 Swan Song
 1 Dovin's Veto
