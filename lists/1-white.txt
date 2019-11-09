@@ -20,3 +20,6 @@
 1 Smothering Tithe
 1 Legion's Landing
 27 Plains
+1 Wrath of God
+1 Enlightened Tutor
+1 Idyllic Tutor

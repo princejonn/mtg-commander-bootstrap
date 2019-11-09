@@ -18,3 +18,4 @@
 1 Ruby Medallion
 1 Vance's Blasting Cannons
 29 Mountain
+1 Gamble

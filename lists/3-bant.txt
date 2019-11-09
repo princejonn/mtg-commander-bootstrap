@@ -46,3 +46,13 @@
 1 Land Tax
 1 Smothering Tithe
 1 Plains
+1 Wrath of God
+1 Enlightened Tutor
+1 Idyllic Tutor
+1 Merchant Scroll
+1 Mystical Tutor
+1 Spellseeker
+1 Kodama's Reach
+1 Farhaven Elf
+1 Cultivate
+1 Bant Charm

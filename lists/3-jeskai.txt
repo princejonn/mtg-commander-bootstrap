@@ -43,3 +43,11 @@
 2 Plains
 2 Island
 2 Mountain
+1 Wrath of God
+1 Enlightened Tutor
+1 Idyllic Tutor
+1 Merchant Scroll
+1 Mystical Tutor
+1 Spellseeker
+1 Gamble
+1 Jeskai Charm

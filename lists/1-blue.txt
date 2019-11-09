@@ -19,3 +19,6 @@
 1 Sapphire Medallion
 1 Search for Azcanta
 28 Island
+1 Merchant Scroll
+1 Mystical Tutor
+1 Spellseeker
