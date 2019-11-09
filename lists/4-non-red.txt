@@ -46,3 +46,4 @@
 1 Obelisk of Esper
 1 Sultai Banner
 1 Abzan Banner
+1 Land Tax

@@ -45,4 +45,4 @@
 1 Obelisk of Esper
 1 Mardu Banner
 1 Jeskai Banner
-1 Plains
+1 Land Tax

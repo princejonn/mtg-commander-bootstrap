@@ -44,5 +44,5 @@
 1 Obelisk of Naya
 1 Obelisk of Grixis
 1 Obelisk of Esper
+1 Land Tax
 1 Plains
-1 Island

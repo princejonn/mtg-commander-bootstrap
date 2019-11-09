@@ -39,8 +39,10 @@
 1 Wayfarer's Bauble
 1 Orzhov Signet
 1 Talisman of Hierarchy
+1 Land Tax
+1 Smothering Tithe
 1 Legion's Landing
 1 Arguel's Blood Fast
 1 Profane Procession
-2 Plains
-2 Swamp
+1 Plains
+1 Swamp

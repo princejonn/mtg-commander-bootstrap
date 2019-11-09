@@ -38,6 +38,8 @@
 1 Talisman of Resilience
 1 Talisman of Creativity
 1 Jeskai Banner
-3 Plains
-3 Island
+1 Land Tax
+1 Smothering Tithe
+2 Plains
+2 Island
 2 Mountain

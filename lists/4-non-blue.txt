@@ -46,3 +46,4 @@
 1 Obelisk of Naya
 1 Mardu Banner
 1 Abzan Banner
+1 Land Tax
