@@ -1,6 +1,10 @@
 import * as artifactRamp from "./dictionaries/artifact-ramp";
+import * as cardDraw from "./dictionaries/card-draw";
 import * as enchantmentRamp from "./dictionaries/enchantment-ramp";
 import * as lands from "./dictionaries/lands";
+import * as removals from "./dictionaries/removals";
+import * as tutors from "./dictionaries/tutors";
+import * as utility from "./dictionaries/utility";
 import { TBasicLandList, TCard, TCardArray, TColorArray } from "./types";
 import { Color } from "./enums";
 import { saveListToFile } from "./file-tool";
@@ -139,11 +143,31 @@ export const buildCardList = (fileName: string, colorList: TColorArray): void =>
   const total = landList.length + artifactList.length + enchantmentList.length;
   const missingBasicLands = 48 - total;
 
+  const cardDrawList: Array<string> = [
+    ...getMatchingCards(colorList, cardDraw.CardDraw),
+  ];
+
+  const removalsList: Array<string> = [
+    ...getMatchingCards(colorList, removals.Removals),
+  ];
+
+  const tutorsList: Array<string> = [
+    ...getMatchingCards(colorList, tutors.Tutors),
+  ];
+
+  const utilityList: Array<string> = [
+    ...getMatchingCards(colorList, utility.Charms),
+  ];
+
   const totalList: Array<string> = [
     ...landList,
     ...artifactList,
     ...enchantmentList,
     ...getBasicLands(colorList, missingBasicLands),
+    ...cardDrawList,
+    ...removalsList,
+    ...tutorsList,
+    ...utilityList,
   ];
 
   saveListToFile(fileName, totalList);
