@@ -2,7 +2,7 @@ import { appendFileSync, existsSync, mkdirSync, unlinkSync } from "fs";
 import { join } from "path";
 
 export const saveListToFile = (fileName: string, cardList: Array<string>) => {
-  const cwd = join(__dirname, "..", "lists");
+  const cwd = join(__dirname, "..", "..", "output");
   const file = join(cwd, `${fileName}.txt`);
 
   if (!existsSync(cwd)) {

@@ -1,0 +1,63 @@
+1 Command Tower
+1 Exotic Orchard
+1 Ancient Tomb
+1 Bojuka Bog
+1 Cavern of Souls
+1 Rogue's Passage
+1 Buried Ruin
+1 Reliquary Tower
+1 Painted Bluffs
+1 Unknown Shores
+1 Shimmering Grotto
+1 Urborg, Tomb of Yawgmoth
+1 Smoldering Marsh
+1 Luxury Suite
+1 Blood Crypt
+1 Godless Shrine
+1 Sacred Foundry
+1 Prismatic Vista
+1 Myriad Landscape
+1 Terramorphic Expanse
+1 Evolving Wilds
+1 Shadowblood Ridge
+1 Graven Cairns
+1 Fetid Heath
+1 Rugged Prairie
+1 Nomad Outpost
+1 Plains
+1 Swamp
+1 Mountain
+1 Sol Ring
+1 Mind Stone
+1 Thought Vessel
+1 Arcane Signet
+1 Commander's Sphere
+1 Chromatic Lantern
+1 Expedition Map
+1 Wayfarer's Bauble
+1 Rakdos Signet
+1 Orzhov Signet
+1 Boros Signet
+1 Talisman of Indulgence
+1 Talisman of Hierarchy
+1 Talisman of Creativity
+1 Mardu Banner
+1 Land Tax
+1 Smothering Tithe
+1 Hero's Downfall
+1 Swords to Plowshares
+1 Path to Exile
+1 Return to Dust
+1 Damnation
+1 Wrath of God
+1 Toxic Deluge
+1 Enlightened Tutor
+1 Idyllic Tutor
+1 Demonic Tutor
+1 Vampiric Tutor
+1 Gamble
+1 Rakdos Charm
+1 Orzhov Charm
+1 Boros Charm
+1 Mardu Charm
+1 Silence
