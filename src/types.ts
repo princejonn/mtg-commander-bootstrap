@@ -13,6 +13,13 @@ export type TCard = {
 
 export type TCardArray = Array<TCard>;
 
-export type TBasicLandList = {
+export type TNumberValueObject = {
   [key: string]: number;
 }
+
+export type TSimpleCard = {
+  name: string;
+  amount: number;
+}
+
+export type TSimpleCardList = Array<TSimpleCard>;

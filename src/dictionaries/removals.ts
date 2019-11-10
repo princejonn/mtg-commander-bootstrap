@@ -95,4 +95,104 @@ export const Board: TCardArray = [
       [ Color.BLACK ],
     ],
   },
+  {
+    name: "Acidic Slime",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Krosan Grip",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Naturalize",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Oblivion Ring",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Murder",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Doom Blade",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Chaos Warp",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Lightning Bolt",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Red Elemental Blast",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Butcher of Malakir",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
 ];

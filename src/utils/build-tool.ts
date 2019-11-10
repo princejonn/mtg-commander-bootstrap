@@ -1,15 +1,21 @@
-import * as artifactRamp from "./dictionaries/artifact-ramp";
-import * as cardDraw from "./dictionaries/card-draw";
-import * as enchantmentRamp from "./dictionaries/enchantment-ramp";
-import * as lands from "./dictionaries/lands";
-import * as removals from "./dictionaries/removals";
-import * as tutors from "./dictionaries/tutors";
-import * as utility from "./dictionaries/utility";
-import { TBasicLandList, TCard, TCardArray, TColorArray } from "./types";
-import { Color } from "./enums";
+import * as artifactRamp from "../dictionaries/artifact-ramp";
+import * as cardDraw from "../dictionaries/card-draw";
+import * as creatureRamp from "../dictionaries/creature-ramp";
+import * as enchantmentRamp from "../dictionaries/enchantment-ramp";
+import * as lands from "../dictionaries/lands";
+import * as removals from "../dictionaries/removals";
+import * as tutors from "../dictionaries/tutors";
+import * as utility from "../dictionaries/utility";
+import { TNumberValueObject, TCard, TCardArray, TColorArray, TSimpleCardList } from "../types";
+import { Color } from "../enums";
 import { saveListToFile } from "./file-tool";
+import winstonLogger from "./logger";
+
+const logger = winstonLogger.createChildLogger("build-tool");
 
 export const isCardAmountValid = (colorList: TColorArray, card: TCard): boolean => {
+  logger.debug("isCardAmountValid", colorList, { min: card.minColors, max: card.maxColors });
+
   return (
     colorList.length >= card.minColors &&
     colorList.length <= card.maxColors
@@ -17,6 +23,8 @@ export const isCardAmountValid = (colorList: TColorArray, card: TCard): boolean 
 };
 
 export const isSimilarColorIdentity = (colorList: TColorArray, identityArray: TColorArray): boolean => {
+  logger.debug("isSimilarColorIdentity", colorList, identityArray);
+
   const expect = identityArray.length;
   let actual = 0;
 
@@ -32,6 +40,8 @@ export const isSimilarColorIdentity = (colorList: TColorArray, identityArray: TC
 export const isCardColorIdentityValid = (colorList: TColorArray, card: TCard): boolean => {
   const { colorIdentity } = card;
 
+  logger.debug("isCardColorIdentityValid", colorList, colorIdentity);
+
   for (const identityArray of colorIdentity) {
     if (isSimilarColorIdentity(colorList, identityArray)) {
       return true;
@@ -41,8 +51,8 @@ export const isCardColorIdentityValid = (colorList: TColorArray, card: TCard): b
   return false;
 };
 
-export const getMatchingCards = (colorList: TColorArray, cardList: TCardArray): Array<string> => {
-  const result: Array<string> = [];
+export const getMatchingCards = (colorList: TColorArray, cardList: TCardArray): TSimpleCardList => {
+  const result: TSimpleCardList = [];
 
   for (const card of cardList) {
     if (
@@ -50,7 +60,12 @@ export const getMatchingCards = (colorList: TColorArray, cardList: TCardArray): 
       isCardAmountValid(colorList, card) &&
       isCardColorIdentityValid(colorList, card)
     ) {
-      result.push(`1 ${card.name}`);
+      logger.debug("getMatchingCards result.push", card);
+
+      result.push({
+        name: card.name,
+        amount: 1,
+      });
     }
   }
 
@@ -60,6 +75,7 @@ export const getMatchingCards = (colorList: TColorArray, cardList: TCardArray): 
 export const getBasicLand = (color: Color): TCard => {
   for (const land of lands.BasicLands) {
     if (isCardColorIdentityValid([color], land)) {
+      logger.debug("getBasicLand", color, land);
       return land;
     }
   }
@@ -67,10 +83,10 @@ export const getBasicLand = (color: Color): TCard => {
   throw new Error(`land not found for color identity: ${color}`);
 };
 
-export const getBasicLandsList = (colorList: TColorArray, missingBasicLands: number): TBasicLandList => {
+export const getBasicLands = (colorList: TColorArray, missingBasicLands: number): TSimpleCardList => {
   let landsLeft = missingBasicLands;
-  const list: TBasicLandList = {};
-  const result: TBasicLandList = {};
+  const list: TNumberValueObject = {};
+  const result: TSimpleCardList = [];
 
   for (const color of colorList) {
     const land = getBasicLand(color);
@@ -88,25 +104,29 @@ export const getBasicLandsList = (colorList: TColorArray, missingBasicLands: num
 
   for (const key in list) {
     if (list[key] === 0) continue;
-    result[key] = list[key];
+    result.push({
+      name: key,
+      amount: list[key],
+    });
   }
+
+  logger.debug("getBasicLands", result);
 
   return result;
 };
 
-export const getBasicLands = (colorList: TColorArray, missingBasicLands: number): Array<string> => {
-  const basicLands: TBasicLandList = getBasicLandsList(colorList, missingBasicLands);
+export const getCardText = (cardList: TSimpleCardList): Array<string> => {
   const result: Array<string> = [];
 
-  for (const key in basicLands) {
-    result.push(`${basicLands[key]} ${key}`);
+  for (const card of cardList) {
+    result.push(`${card.amount} ${card.name}`);
   }
 
   return result;
 };
 
-export const buildCardList = (fileName: string, colorList: TColorArray): void => {
-  const landList: Array<string> = [
+export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
+  const landList: TSimpleCardList = [
     ...getMatchingCards(colorList, lands.DefaultLands),
     ...getMatchingCards(colorList, lands.LegendaryLands),
     ...getMatchingCards(colorList, lands.DualLands),
@@ -125,7 +145,7 @@ export const buildCardList = (fileName: string, colorList: TColorArray): void =>
     ...getMatchingCards(colorList, lands.ArtifactLands),
   ];
 
-  const artifactList: Array<string> = [
+  const artifactRampList: TSimpleCardList = [
     ...getMatchingCards(colorList, artifactRamp.DefaultArtifacts),
     ...getMatchingCards(colorList, artifactRamp.Diamonds),
     ...getMatchingCards(colorList, artifactRamp.Medallions),
@@ -135,42 +155,49 @@ export const buildCardList = (fileName: string, colorList: TColorArray): void =>
     ...getMatchingCards(colorList, artifactRamp.Banners),
   ];
 
-  const enchantmentList: Array<string> = [
+  const creatureRampList: TSimpleCardList = [
+    ...getMatchingCards(colorList, creatureRamp.CreatureRamp),
+  ];
+
+  const enchantmentRampList: TSimpleCardList = [
     ...getMatchingCards(colorList, enchantmentRamp.DefaultEnchantments),
     ...getMatchingCards(colorList, enchantmentRamp.TransformLand),
   ];
 
-  const total = landList.length + artifactList.length + enchantmentList.length;
-  const missingBasicLands = 48 - total;
+  const total = landList.length + artifactRampList.length + creatureRampList.length + enchantmentRampList.length;
+  const missingBasicLands = 46 - total;
 
-  const cardDrawList: Array<string> = [
+  const cardDrawList: TSimpleCardList = [
     ...getMatchingCards(colorList, cardDraw.CardDraw),
   ];
 
-  const removalsList: Array<string> = [
+  const removalsList: TSimpleCardList = [
     ...getMatchingCards(colorList, removals.Targeted),
     ...getMatchingCards(colorList, removals.Board),
   ];
 
-  const tutorsList: Array<string> = [
+  const tutorsList: TSimpleCardList = [
     ...getMatchingCards(colorList, tutors.Tutors),
   ];
 
-  const utilityList: Array<string> = [
+  const utilityList: TSimpleCardList = [
     ...getMatchingCards(colorList, utility.Charms),
     ...getMatchingCards(colorList, utility.Counters),
   ];
 
-  const totalList: Array<string> = [
+  return [
     ...landList,
-    ...artifactList,
-    ...enchantmentList,
     ...getBasicLands(colorList, missingBasicLands),
+    ...artifactRampList,
+    ...enchantmentRampList,
+    ...creatureRampList,
     ...cardDrawList,
     ...removalsList,
     ...tutorsList,
     ...utilityList,
   ];
+};
 
-  saveListToFile(fileName, totalList);
+export const buildToFile = (fileName: string, colorList: TColorArray) => {
+  saveListToFile(fileName, getCardText(buildCardList(colorList)));
 };

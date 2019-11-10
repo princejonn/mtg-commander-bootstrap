@@ -7,8 +7,9 @@ describe("build.ts", () => {
     expect(typeof buildTool.isCardColorIdentityValid).toBe("function");
     expect(typeof buildTool.getMatchingCards).toBe("function");
     expect(typeof buildTool.getBasicLand).toBe("function");
-    expect(typeof buildTool.getBasicLandsList).toBe("function");
     expect(typeof buildTool.getBasicLands).toBe("function");
+    expect(typeof buildTool.getCardText).toBe("function");
     expect(typeof buildTool.buildCardList).toBe("function");
+    expect(typeof buildTool.buildToFile).toBe("function");
   });
 });

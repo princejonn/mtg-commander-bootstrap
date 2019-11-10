@@ -7,7 +7,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 1,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -17,7 +17,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 1,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -27,7 +27,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 1,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -37,7 +37,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 1,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -47,7 +47,127 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Rhystic Study",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Mystic Remora",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Preordain",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Night's Whipser",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Read the Bones",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Ambition's Cost",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Cathartic Reunion",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Faithless Looting",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Harmonize",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Gamble",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Mulldrifter",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Opt",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
     colorIdentity: [
       [ Color.BLUE ],
     ],

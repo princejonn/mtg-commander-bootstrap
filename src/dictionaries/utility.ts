@@ -227,6 +227,16 @@ export const Counters: TCardArray = [
     ],
   },
   {
+    name: "Mana Drain",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
     name: "Swan Song",
     casual: true,
     competitive: false,
