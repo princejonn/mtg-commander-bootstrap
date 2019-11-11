@@ -33,10 +33,10 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "simple-winston": "0.0.2"
+    "simple-winston": "^0.1.0"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.144",
+    "@types/lodash": "^4.14.146",
     "@typescript-eslint/eslint-plugin": "^2.6.1",
     "@typescript-eslint/parser": "^2.6.1",
     "eslint": "^6.6.0",
@@ -46,6 +46,6 @@
     "npm-check": "^5.9.0",
     "rimraf": "^3.0.0",
     "ts-jest": "^24.1.0",
-    "typescript": "^3.6.4"
+    "typescript": "^3.7.2"
   }
 }
