@@ -43,6 +43,11 @@
 1 Search for Azcanta
 1 Vance's Blasting Cannons
 1 Storm the Vault UR
+1 Brainstorm
+1 Ponder
+1 Rhystic Study
+1 Chaos Warp
+1 Lightning Bolt
 1 Merchant Scroll
 1 Mystical Tutor
 1 Gamble

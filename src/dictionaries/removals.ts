@@ -7,7 +7,7 @@ export const Targeted: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -17,7 +17,7 @@ export const Targeted: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -27,7 +27,7 @@ export const Targeted: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.WHITE ],
     ],
@@ -37,7 +37,7 @@ export const Targeted: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.WHITE ],
     ],
@@ -47,7 +47,7 @@ export const Targeted: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.WHITE ],
     ],
@@ -60,7 +60,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -70,7 +70,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.WHITE ],
     ],
@@ -80,7 +80,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -90,7 +90,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -100,7 +100,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.GREEN ],
     ],
@@ -110,7 +110,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.GREEN ],
     ],
@@ -120,7 +120,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.GREEN ],
     ],
@@ -130,7 +130,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.WHITE ],
     ],
@@ -140,7 +140,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -150,7 +150,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -160,7 +160,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.RED ],
     ],
@@ -170,17 +170,7 @@ export const Board: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
-    colorIdentity: [
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Red Elemental Blast",
-    casual: false,
-    competitive: true,
-    minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.RED ],
     ],
@@ -190,7 +180,7 @@ export const Board: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],

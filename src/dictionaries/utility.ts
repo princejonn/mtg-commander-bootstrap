@@ -217,11 +217,21 @@ export const Counters: TCardArray = [
     ],
   },
   {
+    name: "Red Elemental Blast",
+    casual: false,
+    competitive: true,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+  {
     name: "Negate",
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -241,7 +251,7 @@ export const Counters: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],

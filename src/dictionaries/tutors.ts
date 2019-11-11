@@ -17,7 +17,7 @@ export const Tutors: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 3,
     colorIdentity: [
       [ Color.WHITE ],
     ],
@@ -27,7 +27,7 @@ export const Tutors: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -67,7 +67,7 @@ export const Tutors: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 3,
     colorIdentity: [
       [ Color.GREEN ],
     ],
@@ -77,7 +77,7 @@ export const Tutors: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 3,
     colorIdentity: [
       [ Color.GREEN ],
     ],
@@ -87,7 +87,7 @@ export const Tutors: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
+    maxColors: 2,
     colorIdentity: [
       [ Color.RED ],
     ],

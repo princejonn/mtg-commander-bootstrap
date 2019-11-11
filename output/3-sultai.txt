@@ -44,10 +44,6 @@
 1 Talisman of Curiosity
 1 Talisman of Conviction
 1 Sultai Banner
-1 Hero's Downfall
-1 Damnation
-1 Toxic Deluge
-1 Merchant Scroll
 1 Mystical Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
@@ -58,5 +54,3 @@
 1 Simic Charm
 1 Sultai Charm
 1 Counterspell
-1 Negate
-1 Swan Song

@@ -47,23 +47,10 @@
 1 Sultai Banner
 1 Abzan Banner
 1 Land Tax
-1 Hero's Downfall
-1 Swords to Plowshares
-1 Path to Exile
-1 Return to Dust
-1 Damnation
-1 Wrath of God
-1 Toxic Deluge
 1 Enlightened Tutor
-1 Idyllic Tutor
-1 Merchant Scroll
 1 Mystical Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
-1 Kodama's Reach
-1 Cultivate
 1 Counterspell
-1 Negate
-1 Swan Song
 1 Dovin's Veto
 1 Silence

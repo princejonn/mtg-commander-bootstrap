@@ -45,18 +45,11 @@
 1 Talisman of Indulgence
 1 Talisman of Resilience
 1 Obelisk of Grixis
-1 Hero's Downfall
-1 Damnation
-1 Toxic Deluge
-1 Merchant Scroll
 1 Mystical Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
-1 Gamble
 1 Dimir Charm
 1 Rakdos Charm
 1 Izzet Charm
 1 Grixis Charm
 1 Counterspell
-1 Negate
-1 Swan Song

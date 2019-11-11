@@ -7,7 +7,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -17,7 +17,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -27,7 +27,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -37,7 +37,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -47,7 +47,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -57,7 +57,7 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -67,7 +67,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -77,7 +77,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -87,7 +87,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -97,7 +97,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -107,7 +107,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -117,7 +117,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.RED ],
     ],
@@ -127,7 +127,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.RED ],
     ],
@@ -137,7 +137,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.GREEN ],
     ],
@@ -147,7 +147,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.RED ],
     ],
@@ -157,7 +157,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -167,7 +167,7 @@ export const CardDraw: TCardArray = [
     casual: false,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],

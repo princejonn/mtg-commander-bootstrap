@@ -43,6 +43,12 @@
 1 Search for Azcanta
 1 Growing Rites of Itlimoc
 1 Hadana's Climb UG
+1 Brainstorm
+1 Ponder
+1 Rhystic Study
+1 Acidic Slime
+1 Krosan Grip
+1 Naturalize
 1 Merchant Scroll
 1 Mystical Tutor
 1 Kodama's Reach
