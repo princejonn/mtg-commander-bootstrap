@@ -45,11 +45,28 @@
 1 Talisman of Indulgence
 1 Talisman of Resilience
 1 Obelisk of Grixis
+1 Brainstorm
+1 Rhystic Study
+1 Mulldrifter
+1 Night's Whipser
+1 Sign in Blood
+1 Faithless Looting
 1 Mystical Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
+1 Pongify
+1 Rapid Hybridization
+1 Hero's Downfall
+1 Murder
+1 Chaos Warp
+1 Terminate
+1 Cyclonic Rift
+1 Damnation
+1 Dread Return
 1 Dimir Charm
 1 Rakdos Charm
 1 Izzet Charm
 1 Grixis Charm
 1 Counterspell
+1 Mana Drain
+1 Swan Song

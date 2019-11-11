@@ -45,25 +45,26 @@
 1 Talisman of Dominance
 1 Search for Azcanta
 1 Arguel's Blood Fast
-1 Greed
-1 Phyrexian Arena
-1 Sign in Blood
 1 Brainstorm
-1 Ponder
 1 Rhystic Study
-1 Defile
-1 Hero's Downfall
-1 Damnation
-1 Toxic Deluge
-1 Mutilate
-1 Murder
-1 Doom Blade
-1 Merchant Scroll
+1 Mulldrifter
+1 Night's Whipser
+1 Sign in Blood
+1 Phyrexian Arena
 1 Mystical Tutor
+1 Merchant Scroll
 1 Demonic Tutor
 1 Vampiric Tutor
+1 Pongify
+1 Rapid Hybridization
+1 Hero's Downfall
+1 Murder
+1 Cyclonic Rift
+1 Damnation
+1 Toxic Deluge
+1 Dread Return
 1 Dimir Charm
 1 Counterspell
-1 Negate
 1 Mana Drain
 1 Swan Song
+1 Negate

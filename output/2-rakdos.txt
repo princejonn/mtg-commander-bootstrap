@@ -44,19 +44,20 @@
 1 Talisman of Indulgence
 1 Arguel's Blood Fast
 1 Vance's Blasting Cannons
-1 Greed
-1 Phyrexian Arena
+1 Night's Whipser
 1 Sign in Blood
-1 Defile
-1 Hero's Downfall
-1 Damnation
-1 Toxic Deluge
-1 Mutilate
-1 Murder
-1 Doom Blade
-1 Chaos Warp
-1 Lightning Bolt
+1 Phyrexian Arena
+1 Faithless Looting
+1 Cathartic Reunion
 1 Demonic Tutor
 1 Vampiric Tutor
-1 Gamble
+1 Hero's Downfall
+1 Murder
+1 Chaos Warp
+1 Lightning Bolt
+1 Terminate
+1 Dreadbore
+1 Damnation
+1 Toxic Deluge
+1 Dread Return
 1 Rakdos Charm

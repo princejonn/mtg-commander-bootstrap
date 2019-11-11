@@ -4,7 +4,6 @@ import * as creatureRamp from "../dictionaries/creature-ramp";
 import * as enchantmentRamp from "../dictionaries/enchantment-ramp";
 import * as lands from "../dictionaries/lands";
 import * as removals from "../dictionaries/removals";
-import * as tutors from "../dictionaries/tutors";
 import * as utility from "../dictionaries/utility";
 import { TNumberValueObject, TCard, TCardArray, TColorArray, TSimpleCardList } from "../types";
 import { Color } from "../enums";
@@ -169,6 +168,7 @@ export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
 
   const cardDrawList: TSimpleCardList = [
     ...getMatchingCards(colorList, cardDraw.CardDraw),
+    ...getMatchingCards(colorList, cardDraw.Tutors),
   ];
 
   const removalsList: TSimpleCardList = [
@@ -176,11 +176,8 @@ export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
     ...getMatchingCards(colorList, removals.Board),
   ];
 
-  const tutorsList: TSimpleCardList = [
-    ...getMatchingCards(colorList, tutors.Tutors),
-  ];
-
   const utilityList: TSimpleCardList = [
+    ...getMatchingCards(colorList, utility.DefaultUtility),
     ...getMatchingCards(colorList, utility.Charms),
     ...getMatchingCards(colorList, utility.Counters),
   ];
@@ -193,7 +190,6 @@ export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
     ...creatureRampList,
     ...cardDrawList,
     ...removalsList,
-    ...tutorsList,
     ...utilityList,
   ];
 };

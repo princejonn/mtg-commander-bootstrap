@@ -2,7 +2,60 @@ import { TCardArray } from "../types";
 import { Color } from "../enums";
 import { Guild, Shard } from "../constants";
 
+export const DefaultUtility: TCardArray = [
+
+  // WHITE
+
+
+  // BLUE
+
+
+  // BLACK
+
+  {
+    name: "Dread Return",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+
+  // GREEN
+
+  {
+    name: "Eternal Witness",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Regrowth",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+
+  // RED
+
+
+  // MULTI-COLORED
+];
+
 export const Charms: TCardArray = [
+
+  // GUILDS
+
   {
     name: "Azorius Charm",
     casual: true,
@@ -103,6 +156,9 @@ export const Charms: TCardArray = [
       Guild.SIMIC,
     ],
   },
+
+  // SHARDS
+
   {
     name: "Bant Charm",
     casual: true,
@@ -206,6 +262,22 @@ export const Charms: TCardArray = [
 ];
 
 export const Counters: TCardArray = [
+
+  // WHITE
+
+  {
+    name: "Silence",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+
+  // BLUE
+
   {
     name: "Counterspell",
     casual: true,
@@ -217,13 +289,23 @@ export const Counters: TCardArray = [
     ],
   },
   {
-    name: "Red Elemental Blast",
-    casual: false,
-    competitive: true,
+    name: "Mana Drain",
+    casual: true,
+    competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 5,
     colorIdentity: [
-      [ Color.RED ],
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Swan Song",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLUE ],
     ],
   },
   {
@@ -236,26 +318,28 @@ export const Counters: TCardArray = [
       [ Color.BLUE ],
     ],
   },
+
+  // BLACK
+
+
+  // GREEN
+
+
+  // RED
+
   {
-    name: "Mana Drain",
-    casual: true,
-    competitive: false,
+    name: "Red Elemental Blast",
+    casual: false,
+    competitive: true,
     minColors: 1,
-    maxColors: 2,
+    maxColors: 1,
     colorIdentity: [
-      [ Color.BLUE ],
+      [ Color.RED ],
     ],
   },
-  {
-    name: "Swan Song",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
+
+  // MULTI-COLORED
+
   {
     name: "Dovin's Veto",
     casual: true,
@@ -264,16 +348,6 @@ export const Counters: TCardArray = [
     maxColors: 5,
     colorIdentity: [
       Guild.AZORIUS,
-    ],
-  },
-  {
-    name: "Silence",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
     ],
   },
 ];

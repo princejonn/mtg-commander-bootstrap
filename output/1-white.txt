@@ -20,11 +20,12 @@
 1 Land Tax
 1 Smothering Tithe
 1 Legion's Landing
-1 Swords to Plowshares
-1 Path to Exile
-1 Return to Dust
-1 Wrath of God
-1 Oblivion Ring
+1 Well of Lost Dreams
 1 Enlightened Tutor
 1 Idyllic Tutor
+1 Path to Exile
+1 Swords to Plowshares
+1 Return to Dust
+1 Oblivion Ring
+1 Wrath of God
 1 Silence

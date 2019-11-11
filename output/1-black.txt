@@ -23,15 +23,20 @@
 1 Jet Medallion
 1 Black Market
 1 Arguel's Blood Fast
-1 Greed
-1 Phyrexian Arena
+1 Night's Whipser
 1 Sign in Blood
-1 Defile
+1 Phyrexian Arena
+1 Read the Bones
+1 Greed
+1 Ambition's Cost
+1 Demonic Tutor
+1 Vampiric Tutor
+1 Diabolic Tutor
 1 Hero's Downfall
+1 Murder
+1 Doom Blade
+1 Defile
 1 Damnation
 1 Toxic Deluge
 1 Mutilate
-1 Murder
-1 Doom Blade
-1 Demonic Tutor
-1 Vampiric Tutor
+1 Dread Return

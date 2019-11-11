@@ -18,6 +18,8 @@
 1 Fire Diamond
 1 Ruby Medallion
 1 Vance's Blasting Cannons
+1 Faithless Looting
+1 Cathartic Reunion
+1 Gamble
 1 Chaos Warp
 1 Lightning Bolt
-1 Gamble

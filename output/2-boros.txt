@@ -44,15 +44,14 @@
 1 Legion's Landing
 1 Vance's Blasting Cannons
 1 Path of Mettle WR
-1 Swords to Plowshares
+1 Faithless Looting
+1 Cathartic Reunion
 1 Path to Exile
+1 Swords to Plowshares
 1 Return to Dust
-1 Wrath of God
 1 Oblivion Ring
 1 Chaos Warp
 1 Lightning Bolt
-1 Enlightened Tutor
-1 Idyllic Tutor
-1 Gamble
+1 Wrath of God
 1 Boros Charm
 1 Silence

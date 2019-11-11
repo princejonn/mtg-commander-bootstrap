@@ -44,17 +44,21 @@
 1 Smothering Tithe
 1 Legion's Landing
 1 Growing Rites of Itlimoc
-1 Swords to Plowshares
-1 Path to Exile
-1 Return to Dust
-1 Wrath of God
-1 Acidic Slime
-1 Krosan Grip
-1 Naturalize
-1 Oblivion Ring
-1 Enlightened Tutor
-1 Idyllic Tutor
+1 Harmonize
+1 Sylvan Library
 1 Kodama's Reach
 1 Cultivate
+1 Eladamri's Call
+1 Path to Exile
+1 Swords to Plowshares
+1 Return to Dust
+1 Oblivion Ring
+1 Beast Within
+1 Krosan Grip
+1 Naturalize
+1 Acidic Slime
+1 Wrath of God
+1 Eternal Witness
+1 Regrowth
 1 Selesnya Charm
 1 Silence

@@ -45,10 +45,26 @@
 1 Obelisk of Grixis
 1 Obelisk of Esper
 1 Land Tax
-1 Enlightened Tutor
+1 Brainstorm
+1 Night's Whipser
+1 Harmonize
+1 Faithless Looting
 1 Mystical Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
-1 Counterspell
-1 Dovin's Veto
+1 Kodama's Reach
+1 Cultivate
+1 Path to Exile
+1 Swords to Plowshares
+1 Hero's Downfall
+1 Beast Within
+1 Krosan Grip
+1 Chaos Warp
+1 Wrath of God
+1 Cyclonic Rift
+1 Damnation
 1 Silence
+1 Counterspell
+1 Mana Drain
+1 Swan Song
+1 Dovin's Veto

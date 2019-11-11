@@ -44,12 +44,18 @@
 1 Talisman of Impulse
 1 Growing Rites of Itlimoc
 1 Vance's Blasting Cannons
-1 Acidic Slime
-1 Krosan Grip
-1 Naturalize
-1 Chaos Warp
-1 Lightning Bolt
+1 Harmonize
+1 Sylvan Library
+1 Faithless Looting
+1 Cathartic Reunion
 1 Kodama's Reach
 1 Cultivate
-1 Gamble
+1 Beast Within
+1 Krosan Grip
+1 Naturalize
+1 Acidic Slime
+1 Chaos Warp
+1 Lightning Bolt
+1 Eternal Witness
+1 Regrowth
 1 Gruul Charm

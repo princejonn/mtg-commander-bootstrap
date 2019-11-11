@@ -44,21 +44,26 @@
 1 Arguel's Blood Fast
 1 Growing Rites of Itlimoc
 1 Journey to Eternity BG
-1 Greed
-1 Phyrexian Arena
+1 Night's Whipser
 1 Sign in Blood
-1 Defile
-1 Hero's Downfall
-1 Damnation
-1 Toxic Deluge
-1 Mutilate
-1 Acidic Slime
-1 Krosan Grip
-1 Naturalize
-1 Murder
-1 Doom Blade
+1 Phyrexian Arena
+1 Harmonize
+1 Sylvan Library
 1 Demonic Tutor
 1 Vampiric Tutor
 1 Kodama's Reach
 1 Cultivate
+1 Hero's Downfall
+1 Murder
+1 Beast Within
+1 Krosan Grip
+1 Naturalize
+1 Acidic Slime
+1 Maelstrom Pulse
+1 Putrefy
+1 Damnation
+1 Toxic Deluge
+1 Dread Return
+1 Eternal Witness
+1 Regrowth
 1 Golgari Charm

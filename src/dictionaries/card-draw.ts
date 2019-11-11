@@ -1,13 +1,93 @@
 import { TCardArray } from "../types";
 import { Color } from "../enums";
+import { Guild, Shard } from "../constants";
 
 export const CardDraw: TCardArray = [
+
+  // WHITE
+
   {
-    name: "Greed",
+    name: "Well of Lost Dreams",
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 2,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+
+  // BLUE
+
+  {
+    name: "Brainstorm",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Rhystic Study",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 4,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Mulldrifter",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Ponder",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Preordain",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+
+  // BLACK
+
+  {
+    name: "Night's Whipser",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Sign in Blood",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
     colorIdentity: [
       [ Color.BLACK ],
     ],
@@ -23,153 +103,260 @@ export const CardDraw: TCardArray = [
     ],
   },
   {
-    name: "Sign in Blood",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Brainstorm",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Ponder",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Rhystic Study",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Mystic Remora",
-    casual: false,
-    competitive: true,
-    minColors: 1,
-    maxColors: 3,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Preordain",
-    casual: false,
-    competitive: true,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Night's Whipser",
-    casual: false,
-    competitive: true,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
     name: "Read the Bones",
-    casual: false,
-    competitive: true,
+    casual: true,
+    competitive: false,
     minColors: 1,
-    maxColors: 2,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Greed",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
     colorIdentity: [
       [ Color.BLACK ],
     ],
   },
   {
     name: "Ambition's Cost",
-    casual: false,
-    competitive: true,
+    casual: true,
+    competitive: false,
     minColors: 1,
-    maxColors: 2,
+    maxColors: 1,
     colorIdentity: [
       [ Color.BLACK ],
     ],
   },
-  {
-    name: "Cathartic Reunion",
-    casual: false,
-    competitive: true,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Faithless Looting",
-    casual: false,
-    competitive: true,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.RED ],
-    ],
-  },
+
+  // GREEN
+
   {
     name: "Harmonize",
-    casual: false,
-    competitive: true,
+    casual: true,
+    competitive: false,
     minColors: 1,
-    maxColors: 2,
+    maxColors: 5,
     colorIdentity: [
       [ Color.GREEN ],
     ],
   },
   {
-    name: "Gamble",
-    casual: false,
-    competitive: true,
+    name: "Sylvan Library",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Momentous Fall",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+
+  // RED
+
+  {
+    name: "Faithless Looting",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Cathartic Reunion",
+    casual: true,
+    competitive: false,
     minColors: 1,
     maxColors: 2,
     colorIdentity: [
       [ Color.RED ],
     ],
   },
+];
+
+export const Tutors: TCardArray = [
+
+  // WHITE
+
   {
-    name: "Mulldrifter",
-    casual: false,
-    competitive: true,
+    name: "Enlightened Tutor",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Idyllic Tutor",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+
+  // BLUE
+
+  {
+    name: "Mystical Tutor",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Merchant Scroll",
+    casual: true,
+    competitive: false,
     minColors: 1,
     maxColors: 2,
     colorIdentity: [
       [ Color.BLUE ],
     ],
   },
+
+  // BLACK
+
   {
-    name: "Opt",
-    casual: false,
-    competitive: true,
+    name: "Demonic Tutor",
+    casual: true,
+    competitive: false,
     minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Vampiric Tutor",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Diabolic Tutor",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+
+  // GREEN
+
+  {
+    name: "Kodama's Reach",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Cultivate",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Fauna Shaman",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Natural Order",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Chord of Calling",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+
+  // RED
+
+  {
+    name: "Gamble",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+
+  // MULTI-COLOR
+
+  {
+    name: "Eladamri's Call",
+    casual: true,
+    competitive: false,
+    minColors: 2,
     maxColors: 2,
     colorIdentity: [
-      [ Color.BLUE ],
+      Guild.SELESNYA,
+    ],
+  },
+  {
+    name: "Wargate",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 3,
+    colorIdentity: [
+      Shard.BANT,
     ],
   },
 ];
