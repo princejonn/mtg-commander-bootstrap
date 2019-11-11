@@ -57,6 +57,7 @@
 1 Pongify
 1 Rapid Hybridization
 1 Wrath of God
+1 Day of Judgment
 1 Cyclonic Rift
 1 Azorius Charm
 1 Silence

@@ -267,6 +267,26 @@ export const Board: TCardArray = [
       [ Color.WHITE ],
     ],
   },
+  {
+    name: "Day of Judgment",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Terminus",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
 
   // BLUE
 
@@ -316,10 +336,40 @@ export const Board: TCardArray = [
 
   // GREEN
 
+  {
+    name: "Whirlwind",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
 
   // RED
 
+  {
+    name: "Blasphemous Act",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
 
   // MULTI-COLORED
 
+  {
+    name: "Merciless Eviction",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
 ];

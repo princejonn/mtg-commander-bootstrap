@@ -58,8 +58,10 @@
 1 Vindicate
 1 Mortify
 1 Wrath of God
+1 Day of Judgment
 1 Damnation
 1 Toxic Deluge
+1 Merciless Eviction
 1 Dread Return
 1 Orzhov Charm
 1 Silence

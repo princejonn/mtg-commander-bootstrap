@@ -23,3 +23,4 @@
 1 Gamble
 1 Chaos Warp
 1 Lightning Bolt
+1 Blasphemous Act

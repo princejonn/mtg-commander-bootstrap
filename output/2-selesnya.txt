@@ -58,6 +58,7 @@
 1 Naturalize
 1 Acidic Slime
 1 Wrath of God
+1 Day of Judgment
 1 Eternal Witness
 1 Regrowth
 1 Selesnya Charm
