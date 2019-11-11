@@ -194,6 +194,6 @@ export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
   ];
 };
 
-export const buildToFile = (fileName: string, colorList: TColorArray) => {
+export const buildToFile = (fileName: string, colorList: TColorArray): void => {
   saveListToFile(fileName, getCardText(buildCardList(colorList)));
 };
