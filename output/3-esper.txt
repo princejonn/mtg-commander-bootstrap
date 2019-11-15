@@ -69,7 +69,7 @@
 1 Dimir Charm
 1 Orzhov Charm
 1 Esper Charm
-1 Silence
+1 Teferi's Protection
 1 Counterspell
 1 Mana Drain
 1 Swan Song

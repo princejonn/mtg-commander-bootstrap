@@ -63,4 +63,4 @@
 1 Orzhov Charm
 1 Boros Charm
 1 Mardu Charm
-1 Silence
+1 Teferi's Protection

@@ -62,4 +62,4 @@
 1 Selesnya Charm
 1 Boros Charm
 1 Naya Charm
-1 Silence
+1 Teferi's Protection

@@ -266,7 +266,7 @@ export const Counters: TCardArray = [
   // WHITE
 
   {
-    name: "Silence",
+    name: "Teferi's Protection",
     casual: true,
     competitive: false,
     minColors: 1,

@@ -63,7 +63,7 @@
 1 Wrath of God
 1 Cyclonic Rift
 1 Damnation
-1 Silence
+1 Teferi's Protection
 1 Counterspell
 1 Mana Drain
 1 Swan Song

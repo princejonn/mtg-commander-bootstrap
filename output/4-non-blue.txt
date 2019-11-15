@@ -63,4 +63,4 @@
 1 Chaos Warp
 1 Wrath of God
 1 Damnation
-1 Silence
+1 Teferi's Protection
