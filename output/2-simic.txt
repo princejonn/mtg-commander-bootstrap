@@ -25,7 +25,8 @@
 1 Seat of the Synod
 1 Tree of Tales
 1 Darksteel Citadel
-4 Island
+1 Mosswort Bridge
+3 Island
 3 Forest
 1 Sol Ring
 1 Mind Stone

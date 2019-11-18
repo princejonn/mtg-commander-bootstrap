@@ -19,9 +19,10 @@
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Arcane Sanctum
+1 Windbrisk Heights
 4 Plains
 4 Island
-4 Swamp
+3 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

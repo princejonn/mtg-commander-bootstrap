@@ -26,8 +26,10 @@
 1 Ancient Den
 1 Tree of Tales
 1 Darksteel Citadel
-3 Plains
-2 Forest
+1 Windbrisk Heights
+1 Mosswort Bridge
+2 Plains
+1 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

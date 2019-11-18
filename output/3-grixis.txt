@@ -19,8 +19,9 @@
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Crumbling Necropolis
+1 Spinerock Knoll
 5 Island
-5 Swamp
+4 Swamp
 4 Mountain
 1 Sol Ring
 1 Mind Stone

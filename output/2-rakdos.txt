@@ -28,7 +28,8 @@
 1 Vault of Whispers
 1 Great Furnace
 1 Darksteel Citadel
-3 Swamp
+1 Spinerock Knoll
+2 Swamp
 2 Mountain
 1 Sol Ring
 1 Mind Stone

@@ -10,7 +10,8 @@
 1 Kher Keep
 1 Great Furnace
 1 Darksteel Citadel
-27 Mountain
+1 Spinerock Knoll
+26 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

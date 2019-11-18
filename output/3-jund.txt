@@ -19,8 +19,10 @@
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Savage Lands
-5 Swamp
-5 Forest
+1 Mosswort Bridge
+1 Spinerock Knoll
+4 Swamp
+4 Forest
 4 Mountain
 1 Sol Ring
 1 Mind Stone

@@ -27,8 +27,9 @@
 1 Nomad Outpost
 1 Mystic Monastery
 1 Sandsteppe Citadel
-1 Plains
-1 Island
+1 Windbrisk Heights
+1 Mosswort Bridge
+1 Spinerock Knoll
 1 Sol Ring
 1 Arcane Signet
 1 Commander's Sphere

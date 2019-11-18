@@ -24,8 +24,10 @@
 1 Ancient Den
 1 Great Furnace
 1 Darksteel Citadel
-3 Plains
-3 Mountain
+1 Windbrisk Heights
+1 Spinerock Knoll
+2 Plains
+2 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

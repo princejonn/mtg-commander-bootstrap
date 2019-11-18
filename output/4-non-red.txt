@@ -27,6 +27,8 @@
 1 Arcane Sanctum
 1 Opulent Palace
 1 Sandsteppe Citadel
+1 Windbrisk Heights
+1 Mosswort Bridge
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

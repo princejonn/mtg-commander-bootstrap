@@ -26,8 +26,9 @@
 1 Vault of Whispers
 1 Tree of Tales
 1 Darksteel Citadel
+1 Mosswort Bridge
 3 Swamp
-3 Forest
+2 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

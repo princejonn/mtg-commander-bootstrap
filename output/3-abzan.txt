@@ -17,8 +17,10 @@
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Sandsteppe Citadel
-5 Plains
-5 Swamp
+1 Windbrisk Heights
+1 Mosswort Bridge
+4 Plains
+4 Swamp
 4 Forest
 1 Sol Ring
 1 Mind Stone

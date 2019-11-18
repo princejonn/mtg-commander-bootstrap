@@ -27,6 +27,9 @@
 1 Jungle Shrine
 1 Nomad Outpost
 1 Sandsteppe Citadel
+1 Windbrisk Heights
+1 Mosswort Bridge
+1 Spinerock Knoll
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

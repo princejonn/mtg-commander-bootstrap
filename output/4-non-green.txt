@@ -26,7 +26,8 @@
 1 Arcane Sanctum
 1 Nomad Outpost
 1 Mystic Monastery
-1 Plains
+1 Windbrisk Heights
+1 Spinerock Knoll
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

@@ -16,8 +16,10 @@
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Frontier Bivouac
-6 Island
-6 Forest
+1 Mosswort Bridge
+1 Spinerock Knoll
+5 Island
+5 Forest
 5 Mountain
 1 Sol Ring
 1 Mind Stone

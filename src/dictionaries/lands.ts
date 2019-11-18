@@ -1621,3 +1621,36 @@ export const ArtifactLands: TCardArray = [
     ],
   },
 ];
+
+export const HideawayLands: TCardArray = [
+  {
+    name: "Windbrisk Heights",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Mosswort Bridge",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Spinerock Knoll",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+];

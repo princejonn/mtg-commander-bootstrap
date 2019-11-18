@@ -25,7 +25,8 @@
 1 Seat of the Synod
 1 Great Furnace
 1 Darksteel Citadel
-4 Island
+1 Spinerock Knoll
+3 Island
 3 Mountain
 1 Sol Ring
 1 Mind Stone
