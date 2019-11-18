@@ -48,7 +48,7 @@
 1 Temur Banner
 1 Brainstorm
 1 Rhystic Study
-1 Night's Whipser
+1 Night's Whisper
 1 Harmonize
 1 Faithless Looting
 1 Mystical Tutor

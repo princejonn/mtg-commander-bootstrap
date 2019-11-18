@@ -73,7 +73,7 @@ export const CardDraw: TCardArray = [
   // BLACK
 
   {
-    name: "Night's Whipser",
+    name: "Night's Whisper",
     casual: true,
     competitive: false,
     minColors: 1,
