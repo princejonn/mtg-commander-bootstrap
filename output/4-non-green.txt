@@ -6,9 +6,6 @@
 1 Rogue's Passage
 1 Buried Ruin
 1 Reliquary Tower
-1 Painted Bluffs
-1 Unknown Shores
-1 Shimmering Grotto
 1 Urborg, Tomb of Yawgmoth
 1 Sea of Clouds
 1 Morphic Pool
@@ -29,6 +26,7 @@
 1 Arcane Sanctum
 1 Nomad Outpost
 1 Mystic Monastery
+1 Plains
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

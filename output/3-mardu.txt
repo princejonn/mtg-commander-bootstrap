@@ -6,11 +6,7 @@
 1 Rogue's Passage
 1 Buried Ruin
 1 Reliquary Tower
-1 Painted Bluffs
-1 Unknown Shores
-1 Shimmering Grotto
 1 Urborg, Tomb of Yawgmoth
-1 Smoldering Marsh
 1 Luxury Suite
 1 Blood Crypt
 1 Godless Shrine
@@ -24,9 +20,9 @@
 1 Fetid Heath
 1 Rugged Prairie
 1 Nomad Outpost
-1 Plains
-1 Swamp
-1 Mountain
+3 Plains
+2 Swamp
+2 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

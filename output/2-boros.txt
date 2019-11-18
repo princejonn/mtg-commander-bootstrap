@@ -5,9 +5,6 @@
 1 Rogue's Passage
 1 Buried Ruin
 1 Reliquary Tower
-1 Painted Bluffs
-1 Unknown Shores
-1 Shimmering Grotto
 1 Serra's Sanctum
 1 Eiganjo Castle
 1 Flagstones of Trokair
@@ -28,8 +25,8 @@
 1 Ancient Den
 1 Great Furnace
 1 Darksteel Citadel
-1 Plains
-1 Mountain
+3 Plains
+2 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

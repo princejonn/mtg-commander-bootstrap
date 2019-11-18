@@ -156,48 +156,6 @@ export const DefaultLands: TCardArray = [
     ],
   },
   {
-    name: "Painted Bluffs",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Unknown Shores",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Shimmering Grotto",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
     name: "Tolaria West",
     casual: true,
     competitive: false,
@@ -677,7 +635,7 @@ export const BattleLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.AZORIUS,
     ],
@@ -687,7 +645,7 @@ export const BattleLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.DIMIR,
     ],
@@ -697,7 +655,7 @@ export const BattleLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.RAKDOS,
     ],
@@ -707,7 +665,7 @@ export const BattleLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.GRUUL,
     ],
@@ -717,7 +675,7 @@ export const BattleLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.SELESNYA,
     ],

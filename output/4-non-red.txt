@@ -6,9 +6,6 @@
 1 Rogue's Passage
 1 Buried Ruin
 1 Reliquary Tower
-1 Painted Bluffs
-1 Unknown Shores
-1 Shimmering Grotto
 1 Urborg, Tomb of Yawgmoth
 1 Gaea's Cradle
 1 Sea of Clouds
