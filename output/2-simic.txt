@@ -21,12 +21,11 @@
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Flooded Grove
 1 Novijen, Heart of Progress
 1 Seat of the Synod
 1 Tree of Tales
 1 Darksteel Citadel
-3 Island
+4 Island
 3 Forest
 1 Sol Ring
 1 Mind Stone

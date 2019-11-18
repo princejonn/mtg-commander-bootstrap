@@ -137,7 +137,6 @@ export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
     ...getMatchingCards(colorList, lands.RevealLands),
     ...getMatchingCards(colorList, lands.ShockLands),
     ...getMatchingCards(colorList, lands.FetchLands),
-    ...getMatchingCards(colorList, lands.FilterLands),
     ...getMatchingCards(colorList, lands.GuildHalls),
     ...getMatchingCards(colorList, lands.TaintedLands),
     ...getMatchingCards(colorList, lands.ShardLands),

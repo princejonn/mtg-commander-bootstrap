@@ -24,15 +24,13 @@
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Darkwater Catacombs
-1 Sunken Ruins
 1 Duskmantle, House of Shadow
 1 Tainted Isle
 1 Seat of the Synod
 1 Vault of Whispers
 1 Darksteel Citadel
-1 Island
-1 Swamp
+2 Island
+2 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

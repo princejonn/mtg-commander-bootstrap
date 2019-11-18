@@ -21,12 +21,11 @@
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Cascade Bluffs
 1 Nivix, Aerie of the Firemind
 1 Seat of the Synod
 1 Great Furnace
 1 Darksteel Citadel
-3 Island
+4 Island
 3 Mountain
 1 Sol Ring
 1 Mind Stone

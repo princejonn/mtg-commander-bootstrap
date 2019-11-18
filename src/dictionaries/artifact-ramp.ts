@@ -63,7 +63,7 @@ export const DefaultArtifacts: TCardArray = [
     name: "Fellwar Stone",
     casual: false,
     competitive: true,
-    minColors: 3,
+    minColors: 4,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -91,7 +91,7 @@ export const DefaultArtifacts: TCardArray = [
     name: "Chromatic Lantern",
     casual: true,
     competitive: false,
-    minColors: 3,
+    minColors: 4,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -346,7 +346,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.AZORIUS,
     ],
@@ -356,7 +356,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.DIMIR,
     ],
@@ -366,7 +366,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.RAKDOS,
     ],
@@ -376,7 +376,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.GRUUL,
     ],
@@ -386,7 +386,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.SELESNYA,
     ],
@@ -396,7 +396,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.ORZHOV,
     ],
@@ -406,7 +406,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.IZZET,
     ],
@@ -416,7 +416,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.GOLGARI,
     ],
@@ -426,7 +426,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.BOROS,
     ],
@@ -436,7 +436,7 @@ export const Talismans: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.SIMIC,
     ],

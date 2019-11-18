@@ -21,14 +21,13 @@
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Fetid Heath
 1 Orzhova, the Church of Deals
 1 Tainted Field
 1 Ancient Den
 1 Vault of Whispers
 1 Darksteel Citadel
 2 Plains
-1 Swamp
+2 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

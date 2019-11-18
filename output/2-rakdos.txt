@@ -23,15 +23,13 @@
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Shadowblood Ridge
-1 Graven Cairns
 1 Rix Maadi, Dungeon Palace
 1 Tainted Peak
 1 Vault of Whispers
 1 Great Furnace
 1 Darksteel Citadel
-2 Swamp
-1 Mountain
+3 Swamp
+2 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

@@ -22,14 +22,12 @@
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Mossfire Valley
-1 Fire-lit Thicket
 1 Skarrg, the Rage Pits
 1 Tree of Tales
 1 Great Furnace
 1 Darksteel Citadel
-3 Forest
-2 Mountain
+4 Forest
+3 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
