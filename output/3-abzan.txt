@@ -55,8 +55,5 @@
 1 Dread Return
 1 Eternal Witness
 1 Regrowth
-1 Selesnya Charm
-1 Orzhov Charm
-1 Golgari Charm
 1 Abzan Charm
 1 Teferi's Protection

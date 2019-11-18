@@ -54,9 +54,6 @@
 1 Cyclonic Rift
 1 Eternal Witness
 1 Regrowth
-1 Azorius Charm
-1 Selesnya Charm
-1 Simic Charm
 1 Bant Charm
 1 Teferi's Protection
 1 Counterspell

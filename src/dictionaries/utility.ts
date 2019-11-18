@@ -61,7 +61,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.AZORIUS,
     ],
@@ -71,7 +71,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.DIMIR,
     ],
@@ -81,7 +81,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.RAKDOS,
     ],
@@ -91,7 +91,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.GRUUL,
     ],
@@ -101,7 +101,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.SELESNYA,
     ],
@@ -111,7 +111,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.ORZHOV,
     ],
@@ -121,7 +121,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.IZZET,
     ],
@@ -131,7 +131,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.GOLGARI,
     ],
@@ -141,7 +141,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.BOROS,
     ],
@@ -151,7 +151,7 @@ export const Charms: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.SIMIC,
     ],

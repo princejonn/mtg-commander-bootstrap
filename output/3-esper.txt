@@ -54,9 +54,6 @@
 1 Cyclonic Rift
 1 Damnation
 1 Dread Return
-1 Azorius Charm
-1 Dimir Charm
-1 Orzhov Charm
 1 Esper Charm
 1 Teferi's Protection
 1 Counterspell

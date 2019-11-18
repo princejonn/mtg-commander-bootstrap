@@ -47,8 +47,5 @@
 1 Wrath of God
 1 Damnation
 1 Dread Return
-1 Rakdos Charm
-1 Orzhov Charm
-1 Boros Charm
 1 Mardu Charm
 1 Teferi's Protection

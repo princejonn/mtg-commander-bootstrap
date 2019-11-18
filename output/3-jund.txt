@@ -54,7 +54,4 @@
 1 Dread Return
 1 Eternal Witness
 1 Regrowth
-1 Rakdos Charm
-1 Gruul Charm
-1 Golgari Charm
 1 Jund Charm

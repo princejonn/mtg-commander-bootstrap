@@ -43,9 +43,6 @@
 1 Chaos Warp
 1 Wrath of God
 1 Cyclonic Rift
-1 Azorius Charm
-1 Izzet Charm
-1 Boros Charm
 1 Jeskai Charm
 1 Teferi's Protection
 1 Counterspell

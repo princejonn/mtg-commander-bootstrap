@@ -48,9 +48,6 @@
 1 Cyclonic Rift
 1 Eternal Witness
 1 Regrowth
-1 Gruul Charm
-1 Izzet Charm
-1 Simic Charm
 1 Temur Charm
 1 Counterspell
 1 Mana Drain

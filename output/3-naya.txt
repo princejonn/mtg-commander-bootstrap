@@ -47,8 +47,5 @@
 1 Wrath of God
 1 Eternal Witness
 1 Regrowth
-1 Gruul Charm
-1 Selesnya Charm
-1 Boros Charm
 1 Naya Charm
 1 Teferi's Protection

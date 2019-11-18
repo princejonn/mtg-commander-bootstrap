@@ -57,9 +57,6 @@
 1 Dread Return
 1 Eternal Witness
 1 Regrowth
-1 Dimir Charm
-1 Golgari Charm
-1 Simic Charm
 1 Sultai Charm
 1 Counterspell
 1 Mana Drain
