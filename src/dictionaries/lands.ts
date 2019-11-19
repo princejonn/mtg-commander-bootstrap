@@ -1654,3 +1654,106 @@ export const HideawayLands: TCardArray = [
     ],
   },
 ];
+
+export const BounceLands: TCardArray = [
+  {
+    name: "Azorius Chancery",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Dimir Aqueduct",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Rakdos Carnarium",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Gruul Turf",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Selesnya Sanctuary",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+  {
+    name: "Orzhov Basilica",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "Izzet Boilerworks",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.IZZET,
+    ],
+  },
+  {
+    name: "Golgari Rot Farm",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.GOLGARI,
+    ],
+  },
+  {
+    name: "Boros Garrison",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.BOROS,
+    ],
+  },
+  {
+    name: "Simic Growth Chamber",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.SIMIC,
+    ],
+  },
+];

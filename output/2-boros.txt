@@ -26,8 +26,9 @@
 1 Darksteel Citadel
 1 Windbrisk Heights
 1 Spinerock Knoll
+1 Boros Garrison
 2 Plains
-2 Mountain
+1 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

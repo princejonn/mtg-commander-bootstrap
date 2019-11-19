@@ -28,7 +28,8 @@
 1 Darksteel Citadel
 1 Mosswort Bridge
 1 Spinerock Knoll
-3 Forest
+1 Gruul Turf
+2 Forest
 2 Mountain
 1 Sol Ring
 1 Mind Stone

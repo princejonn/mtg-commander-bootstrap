@@ -20,9 +20,12 @@
 1 Seaside Citadel
 1 Windbrisk Heights
 1 Mosswort Bridge
-4 Plains
-4 Island
-3 Forest
+1 Azorius Chancery
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+3 Plains
+3 Island
+2 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

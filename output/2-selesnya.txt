@@ -28,7 +28,8 @@
 1 Darksteel Citadel
 1 Windbrisk Heights
 1 Mosswort Bridge
-2 Plains
+1 Selesnya Sanctuary
+1 Plains
 1 Forest
 1 Sol Ring
 1 Mind Stone

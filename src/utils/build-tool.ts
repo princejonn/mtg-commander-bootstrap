@@ -142,6 +142,7 @@ export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
     ...getMatchingCards(colorList, lands.ShardLands),
     ...getMatchingCards(colorList, lands.ArtifactLands),
     ...getMatchingCards(colorList, lands.HideawayLands),
+    ...getMatchingCards(colorList, lands.BounceLands),
   ];
 
   const artifactRampList: TSimpleCardList = [

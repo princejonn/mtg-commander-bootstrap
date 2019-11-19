@@ -26,8 +26,9 @@
 1 Tree of Tales
 1 Darksteel Citadel
 1 Mosswort Bridge
+1 Simic Growth Chamber
 3 Island
-3 Forest
+2 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

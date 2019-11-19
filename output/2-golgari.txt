@@ -27,7 +27,8 @@
 1 Tree of Tales
 1 Darksteel Citadel
 1 Mosswort Bridge
-3 Swamp
+1 Golgari Rot Farm
+2 Swamp
 2 Forest
 1 Sol Ring
 1 Mind Stone

@@ -27,7 +27,8 @@
 1 Vault of Whispers
 1 Darksteel Citadel
 1 Windbrisk Heights
-2 Plains
+1 Orzhov Basilica
+1 Plains
 1 Swamp
 1 Sol Ring
 1 Mind Stone

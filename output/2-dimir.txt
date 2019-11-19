@@ -29,8 +29,9 @@
 1 Seat of the Synod
 1 Vault of Whispers
 1 Darksteel Citadel
+1 Dimir Aqueduct
 2 Island
-2 Swamp
+1 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

@@ -20,9 +20,12 @@
 1 Evolving Wilds
 1 Arcane Sanctum
 1 Windbrisk Heights
-4 Plains
-4 Island
-3 Swamp
+1 Azorius Chancery
+1 Dimir Aqueduct
+1 Orzhov Basilica
+3 Plains
+3 Island
+2 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

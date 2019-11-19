@@ -19,9 +19,12 @@
 1 Sandsteppe Citadel
 1 Windbrisk Heights
 1 Mosswort Bridge
-4 Plains
-4 Swamp
-4 Forest
+1 Selesnya Sanctuary
+1 Orzhov Basilica
+1 Golgari Rot Farm
+3 Plains
+3 Swamp
+3 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

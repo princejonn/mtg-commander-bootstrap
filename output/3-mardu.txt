@@ -18,9 +18,12 @@
 1 Nomad Outpost
 1 Windbrisk Heights
 1 Spinerock Knoll
-5 Plains
-4 Swamp
-4 Mountain
+1 Rakdos Carnarium
+1 Orzhov Basilica
+1 Boros Garrison
+4 Plains
+3 Swamp
+3 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
