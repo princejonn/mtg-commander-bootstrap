@@ -25,14 +25,9 @@ Utility: 5
 1 Sandsteppe Citadel
 1 Windbrisk Heights
 1 Mosswort Bridge
-1 Selesnya Sanctuary
-1 Orzhov Basilica
-1 Golgari Rot Farm
-1 Wooded Bastion
-1 Fetid Heath
-1 Twilight Mire
-1 Plains
-1 Swamp
+3 Plains
+3 Swamp
+2 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

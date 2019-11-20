@@ -26,13 +26,9 @@ Utility: 8
 1 Seaside Citadel
 1 Windbrisk Heights
 1 Mosswort Bridge
-1 Azorius Chancery
-1 Selesnya Sanctuary
-1 Simic Growth Chamber
-1 Mystic Gate
-1 Wooded Bastion
-1 Flooded Grove
-1 Plains
+3 Plains
+2 Island
+2 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

@@ -27,14 +27,9 @@ Utility: 4
 1 Savage Lands
 1 Mosswort Bridge
 1 Spinerock Knoll
-1 Rakdos Carnarium
-1 Gruul Turf
-1 Golgari Rot Farm
-1 Graven Cairns
-1 Fire-lit Thicket
-1 Twilight Mire
-1 Swamp
-1 Forest
+3 Swamp
+3 Forest
+2 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

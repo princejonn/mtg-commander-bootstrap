@@ -26,14 +26,9 @@ Utility: 7
 1 Evolving Wilds
 1 Arcane Sanctum
 1 Windbrisk Heights
-1 Azorius Chancery
-1 Dimir Aqueduct
-1 Orzhov Basilica
-1 Mystic Gate
-1 Sunken Ruins
-1 Fetid Heath
-1 Plains
-1 Island
+3 Plains
+3 Island
+2 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

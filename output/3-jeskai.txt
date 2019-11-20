@@ -23,15 +23,9 @@ Utility: 6
 1 Mystic Monastery
 1 Windbrisk Heights
 1 Spinerock Knoll
-1 Azorius Chancery
-1 Izzet Boilerworks
-1 Boros Garrison
-1 Mystic Gate
-1 Cascade Bluffs
-1 Rugged Prairie
-2 Plains
-2 Island
-1 Mountain
+4 Plains
+4 Island
+3 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
