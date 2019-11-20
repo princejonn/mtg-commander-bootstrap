@@ -242,16 +242,6 @@ export const LegendaryLands: TCardArray = [
     ],
   },
   {
-    name: "Flagstones of Trokair",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.WHITE ],
-    ],
-  },
-  {
     name: "Minamo, School at Water's Edge",
     casual: true,
     competitive: false,
@@ -322,37 +312,7 @@ export const LegendaryLands: TCardArray = [
     ],
   },
   {
-    name: "Pendelhaven",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
-  {
-    name: "Shivan Gorge",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.RED ],
-    ],
-  },
-  {
     name: "Shinka, the Bloodsoaked Keep",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Kher Keep",
     casual: true,
     competitive: false,
     minColors: 1,

@@ -13,7 +13,6 @@ Utility: 3
 1 Reliquary Tower
 1 Serra's Sanctum
 1 Eiganjo Castle
-1 Flagstones of Trokair
 1 Phyrexian Tower
 1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
@@ -27,7 +26,7 @@ Utility: 3
 1 Orzhov Basilica
 1 Fetid Heath
 5 Plains
-4 Swamp
+5 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

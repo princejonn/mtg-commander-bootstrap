@@ -13,9 +13,7 @@ Utility: 5
 1 Tolaria West
 1 Minamo, School at Water's Edge
 1 Academy Ruins
-1 Shivan Gorge
 1 Shinka, the Bloodsoaked Keep
-1 Kher Keep
 1 Steam Vents
 1 Prismatic Vista
 1 Myriad Landscape
@@ -25,8 +23,8 @@ Utility: 5
 1 Spinerock Knoll
 1 Izzet Boilerworks
 1 Cascade Bluffs
-6 Island
-5 Mountain
+7 Island
+6 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

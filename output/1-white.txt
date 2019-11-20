@@ -12,13 +12,12 @@ Utility: 1
 1 Reliquary Tower
 1 Serra's Sanctum
 1 Eiganjo Castle
-1 Flagstones of Trokair
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Windbrisk Heights
-20 Plains
+21 Plains
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

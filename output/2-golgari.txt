@@ -16,7 +16,6 @@ Utility: 4
 1 Urborg, Tomb of Yawgmoth
 1 Gaea's Cradle
 1 Okina, Temple to the Grandfathers
-1 Pendelhaven
 1 Overgrown Tomb
 1 Prismatic Vista
 1 Myriad Landscape
@@ -26,7 +25,7 @@ Utility: 4
 1 Mosswort Bridge
 1 Golgari Rot Farm
 1 Twilight Mire
-5 Swamp
+6 Swamp
 5 Forest
 1 Sol Ring
 1 Mind Stone
