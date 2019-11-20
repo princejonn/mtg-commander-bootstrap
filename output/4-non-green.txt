@@ -12,11 +12,6 @@ Creatures: 2
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Flooded Strand
-1 Polluted Delta
-1 Bloodstained Mire
-1 Grixis Panorama
-1 Esper Panorama
 1 Shimmering Grotto
 1 Unknown Shores
 1 Crypt of the Eternals

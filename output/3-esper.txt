@@ -7,14 +7,13 @@ Creatures: 3
 
 1 Sea of Clouds
 1 Morphic Pool
+1 Azorius Chancery
+1 Dimir Aqueduct
+1 Orzhov Basilica
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Flooded Strand
-1 Polluted Delta
-1 Marsh Flats
-1 Esper Panorama
 1 Windbrisk Heights
 1 Urborg, Tomb of Yawgmoth
 1 Command Tower
@@ -24,13 +23,15 @@ Creatures: 3
 1 Hallowed Fountain
 1 Watery Grave
 1 Godless Shrine
+1 Tainted Field
+1 Tainted Isle
 1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
-3 Plains
+2 Plains
 2 Island
 2 Swamp
 1 Sol Ring

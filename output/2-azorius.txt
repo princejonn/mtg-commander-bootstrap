@@ -11,7 +11,6 @@ Creatures: 3
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Flooded Strand
 1 Mystic Gate
 1 Prahv, Spires of Order
 1 Windbrisk Heights
@@ -28,7 +27,7 @@ Creatures: 3
 1 Reliquary Tower
 1 Tolaria West
 7 Plains
-6 Island
+7 Island
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

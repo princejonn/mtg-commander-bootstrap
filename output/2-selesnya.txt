@@ -12,7 +12,6 @@ Creatures: 3
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Blighted Woodland
-1 Windswept Heath
 1 Wooded Bastion
 1 Vitu-Ghazi, the City-Tree
 1 Windbrisk Heights
@@ -28,7 +27,7 @@ Creatures: 3
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-6 Plains
+7 Plains
 6 Forest
 1 Sol Ring
 1 Mind Stone

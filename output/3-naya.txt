@@ -7,15 +7,14 @@ Creatures: 3
 
 1 Spire Garden
 1 Bountiful Promenade
+1 Gruul Turf
+1 Selesnya Sanctuary
+1 Boros Garrison
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Blighted Woodland
-1 Wooded Foothills
-1 Windswept Heath
-1 Arid Mesa
-1 Naya Panorama
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Spinerock Knoll
@@ -31,7 +30,7 @@ Creatures: 3
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-2 Plains
+3 Plains
 2 Forest
 2 Mountain
 1 Sol Ring

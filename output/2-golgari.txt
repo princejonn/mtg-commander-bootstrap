@@ -11,7 +11,6 @@ Creatures: 3
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Blighted Woodland
-1 Verdant Catacombs
 1 Twilight Mire
 1 Svogthos, the Restless Tomb
 1 Mosswort Bridge
@@ -30,7 +29,7 @@ Creatures: 3
 1 Rogue's Passage
 1 Reliquary Tower
 7 Swamp
-6 Forest
+7 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

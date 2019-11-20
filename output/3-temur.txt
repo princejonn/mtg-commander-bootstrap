@@ -6,14 +6,14 @@ Utility: 6
 Creatures: 4
 
 1 Spire Garden
+1 Gruul Turf
+1 Izzet Boilerworks
+1 Simic Growth Chamber
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Blighted Woodland
-1 Wooded Foothills
-1 Scalding Tarn
-1 Misty Rainforest
 1 Mosswort Bridge
 1 Spinerock Knoll
 1 Gaea's Cradle

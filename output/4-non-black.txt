@@ -13,11 +13,6 @@ Creatures: 3
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Blighted Woodland
-1 Flooded Strand
-1 Wooded Foothills
-1 Windswept Heath
-1 Bant Panorama
-1 Naya Panorama
 1 Shimmering Grotto
 1 Unknown Shores
 1 Crypt of the Eternals

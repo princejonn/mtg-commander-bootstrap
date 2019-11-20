@@ -6,14 +6,14 @@ Utility: 7
 Creatures: 4
 
 1 Morphic Pool
+1 Dimir Aqueduct
+1 Golgari Rot Farm
+1 Simic Growth Chamber
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Blighted Woodland
-1 Polluted Delta
-1 Verdant Catacombs
-1 Misty Rainforest
 1 Mosswort Bridge
 1 Urborg, Tomb of Yawgmoth
 1 Gaea's Cradle
@@ -24,6 +24,8 @@ Creatures: 4
 1 Watery Grave
 1 Overgrown Tomb
 1 Breeding Pool
+1 Tainted Isle
+1 Tainted Wood
 1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin
@@ -31,8 +33,8 @@ Creatures: 4
 1 Reliquary Tower
 1 Tolaria West
 3 Island
-3 Swamp
-3 Forest
+2 Swamp
+2 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

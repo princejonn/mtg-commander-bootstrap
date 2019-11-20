@@ -6,14 +6,14 @@ Utility: 5
 Creatures: 3
 
 1 Bountiful Promenade
+1 Selesnya Sanctuary
+1 Orzhov Basilica
+1 Golgari Rot Farm
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Blighted Woodland
-1 Windswept Heath
-1 Marsh Flats
-1 Verdant Catacombs
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Urborg, Tomb of Yawgmoth
@@ -25,14 +25,16 @@ Creatures: 3
 1 Temple Garden
 1 Godless Shrine
 1 Overgrown Tomb
+1 Tainted Field
+1 Tainted Wood
 1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-3 Plains
+2 Plains
 2 Swamp
-2 Forest
+1 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

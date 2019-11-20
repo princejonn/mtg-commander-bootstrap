@@ -114,7 +114,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.AZORIUS,
     ],
@@ -124,7 +124,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.DIMIR,
     ],
@@ -134,7 +134,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.RAKDOS,
     ],
@@ -144,7 +144,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.GRUUL,
     ],
@@ -154,7 +154,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.SELESNYA,
     ],
@@ -164,7 +164,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.ORZHOV,
     ],
@@ -174,7 +174,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.IZZET,
     ],
@@ -184,7 +184,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.GOLGARI,
     ],
@@ -194,7 +194,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.BOROS,
     ],
@@ -204,7 +204,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.SIMIC,
     ],
@@ -386,7 +386,7 @@ export const FetchLands: TCardArray = [
 export const FetchLandsGuild: TCardArray = [
   {
     name: "Flooded Strand",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -396,7 +396,7 @@ export const FetchLandsGuild: TCardArray = [
   },
   {
     name: "Polluted Delta",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -406,7 +406,7 @@ export const FetchLandsGuild: TCardArray = [
   },
   {
     name: "Bloodstained Mire",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -416,7 +416,7 @@ export const FetchLandsGuild: TCardArray = [
   },
   {
     name: "Wooded Foothills",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -426,7 +426,7 @@ export const FetchLandsGuild: TCardArray = [
   },
   {
     name: "Windswept Heath",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -436,7 +436,7 @@ export const FetchLandsGuild: TCardArray = [
   },
   {
     name: "Marsh Flats",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -446,7 +446,7 @@ export const FetchLandsGuild: TCardArray = [
   },
   {
     name: "Scalding Tarn",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -456,7 +456,7 @@ export const FetchLandsGuild: TCardArray = [
   },
   {
     name: "Verdant Catacombs",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -466,7 +466,7 @@ export const FetchLandsGuild: TCardArray = [
   },
   {
     name: "Arid Mesa",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -476,7 +476,7 @@ export const FetchLandsGuild: TCardArray = [
   },
   {
     name: "Misty Rainforest",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -489,8 +489,8 @@ export const FetchLandsGuild: TCardArray = [
 export const FetchLandsShard: TCardArray = [
   {
     name: "Jund Panorama",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 3,
     maxColors: 5,
     colorIdentity: [
@@ -499,40 +499,40 @@ export const FetchLandsShard: TCardArray = [
   },
   {
     name: "Bant Panorama",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 3,
-    maxColors: 4,
+    maxColors: 5,
     colorIdentity: [
       Shard.BANT,
     ],
   },
   {
     name: "Naya Panorama",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 3,
-    maxColors: 4,
+    maxColors: 5,
     colorIdentity: [
       Shard.NAYA,
     ],
   },
   {
     name: "Grixis Panorama",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 3,
-    maxColors: 4,
+    maxColors: 5,
     colorIdentity: [
       Shard.GRIXIS,
     ],
   },
   {
     name: "Esper Panorama",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 3,
-    maxColors: 4,
+    maxColors: 5,
     colorIdentity: [
       Shard.ESPER,
     ],
@@ -1178,7 +1178,7 @@ export const TaintedLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.ORZHOV,
     ],
@@ -1188,7 +1188,7 @@ export const TaintedLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.DIMIR,
     ],
@@ -1198,7 +1198,7 @@ export const TaintedLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.RAKDOS,
     ],
@@ -1208,7 +1208,7 @@ export const TaintedLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       Guild.GOLGARI,
     ],
