@@ -1,3 +1,9 @@
+Lands: 33
+Mana Ramp: 13
+Card Draw: 5
+Removals: 9
+Utility: 7
+
 1 Command Tower
 1 Exotic Orchard
 1 Ancient Tomb
@@ -9,7 +15,6 @@
 1 Serra's Sanctum
 1 Eiganjo Castle
 1 Flagstones of Trokair
-1 Tolarian Academy
 1 Minamo, School at Water's Edge
 1 Academy Ruins
 1 Adarkar Wastes
@@ -29,6 +34,7 @@
 1 Darksteel Citadel
 1 Windbrisk Heights
 1 Azorius Chancery
+1 Mystic Gate
 1 Plains
 1 Island
 1 Sol Ring

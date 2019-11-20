@@ -1,3 +1,9 @@
+Lands: 38
+Mana Ramp: 8
+Card Draw: 9
+Removals: 7
+Utility: 1
+
 1 Command Tower
 1 Ancient Tomb
 1 Bojuka Bog

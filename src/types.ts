@@ -23,3 +23,13 @@ export type TSimpleCard = {
 }
 
 export type TSimpleCardList = Array<TSimpleCard>;
+
+export type TBuildCardListResult = {
+  metadata: {
+    [key: string]: {
+      title: string;
+      amount: number;
+    };
+  };
+  cards: TSimpleCardList;
+}

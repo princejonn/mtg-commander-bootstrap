@@ -1,3 +1,9 @@
+Lands: 32
+Mana Ramp: 14
+Card Draw: 2
+Removals: 8
+Utility: 2
+
 1 Command Tower
 1 Exotic Orchard
 1 Ancient Tomb
@@ -27,7 +33,8 @@
 1 Windbrisk Heights
 1 Spinerock Knoll
 1 Boros Garrison
-2 Plains
+1 Rugged Prairie
+1 Plains
 1 Mountain
 1 Sol Ring
 1 Mind Stone

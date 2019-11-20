@@ -252,16 +252,6 @@ export const LegendaryLands: TCardArray = [
     ],
   },
   {
-    name: "Tolarian Academy",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
     name: "Minamo, School at Water's Edge",
     casual: true,
     competitive: false,
@@ -1754,6 +1744,149 @@ export const BounceLands: TCardArray = [
     maxColors: 3,
     colorIdentity: [
       Guild.SIMIC,
+    ],
+  },
+];
+
+export const FilterLands: TCardArray = [
+  {
+    name: "Mystic Gate",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Sunken Ruins",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Graven Cairns",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Fire-lit Thicket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Wooded Bastion",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+  {
+    name: "Fetid Heath",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "Cascade Bluffs",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.IZZET,
+    ],
+  },
+  {
+    name: "Twilight Mire",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.GOLGARI,
+    ],
+  },
+  {
+    name: "Rugged Prairie",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.BOROS,
+    ],
+  },
+  {
+    name: "Flooded Grove",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.SIMIC,
+    ],
+  },
+  {
+    name: "Shimmering Grotto",
+    casual: true,
+    competitive: false,
+    minColors: 4,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Unknown Shores",
+    casual: true,
+    competitive: false,
+    minColors: 4,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Crypt of the Eternals",
+    casual: true,
+    competitive: false,
+    minColors: 4,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.RED ],
     ],
   },
 ];

@@ -1,3 +1,9 @@
+Lands: 34
+Mana Ramp: 12
+Card Draw: 7
+Removals: 5
+Utility: 5
+
 1 Command Tower
 1 Exotic Orchard
 1 Ancient Tomb
@@ -6,7 +12,6 @@
 1 Buried Ruin
 1 Reliquary Tower
 1 Tolaria West
-1 Tolarian Academy
 1 Minamo, School at Water's Edge
 1 Academy Ruins
 1 Shivan Gorge
@@ -27,6 +32,7 @@
 1 Darksteel Citadel
 1 Spinerock Knoll
 1 Izzet Boilerworks
+1 Cascade Bluffs
 3 Island
 2 Mountain
 1 Sol Ring

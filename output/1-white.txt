@@ -1,3 +1,9 @@
+Lands: 37
+Mana Ramp: 9
+Card Draw: 3
+Removals: 7
+Utility: 1
+
 1 Command Tower
 1 Ancient Tomb
 1 Cavern of Souls

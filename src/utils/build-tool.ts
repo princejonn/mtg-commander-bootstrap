@@ -5,7 +5,7 @@ import * as enchantmentRamp from "../dictionaries/enchantment-ramp";
 import * as lands from "../dictionaries/lands";
 import * as removals from "../dictionaries/removals";
 import * as utility from "../dictionaries/utility";
-import { TNumberValueObject, TCard, TCardArray, TColorArray, TSimpleCardList } from "../types";
+import { TNumberValueObject, TCard, TCardArray, TColorArray, TSimpleCardList, TBuildCardListResult } from "../types";
 import { Color } from "../enums";
 import { saveListToFile } from "./file-tool";
 import winstonLogger from "./logger";
@@ -124,7 +124,7 @@ export const getCardText = (cardList: TSimpleCardList): Array<string> => {
   return result;
 };
 
-export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
+export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
   const landList: TSimpleCardList = [
     ...getMatchingCards(colorList, lands.DefaultLands),
     ...getMatchingCards(colorList, lands.LegendaryLands),
@@ -143,6 +143,7 @@ export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
     ...getMatchingCards(colorList, lands.ArtifactLands),
     ...getMatchingCards(colorList, lands.HideawayLands),
     ...getMatchingCards(colorList, lands.BounceLands),
+    ...getMatchingCards(colorList, lands.FilterLands),
   ];
 
   const artifactRampList: TSimpleCardList = [
@@ -183,18 +184,42 @@ export const buildCardList = (colorList: TColorArray): TSimpleCardList => {
     ...getMatchingCards(colorList, utility.Counters),
   ];
 
-  return [
-    ...landList,
-    ...getBasicLands(colorList, missingBasicLands),
-    ...artifactRampList,
-    ...enchantmentRampList,
-    ...creatureRampList,
-    ...cardDrawList,
-    ...removalsList,
-    ...utilityList,
-  ];
+  return {
+    metadata: {
+      lands: {
+        title: "Lands",
+        amount: landList.length + missingBasicLands,
+      },
+      manaRamp: {
+        title: "Mana Ramp",
+        amount: artifactRampList.length + creatureRampList.length + enchantmentRampList.length,
+      },
+      cardDraw: {
+        title: "Card Draw",
+        amount: cardDrawList.length,
+      },
+      removals: {
+        title: "Removals",
+        amount: removalsList.length,
+      },
+      utility: {
+        title: "Utility",
+        amount: utilityList.length,
+      },
+    },
+    cards: [
+      ...landList,
+      ...getBasicLands(colorList, missingBasicLands),
+      ...artifactRampList,
+      ...enchantmentRampList,
+      ...creatureRampList,
+      ...cardDrawList,
+      ...removalsList,
+      ...utilityList,
+    ],
+  };
 };
 
 export const buildToFile = (fileName: string, colorList: TColorArray): void => {
-  saveListToFile(fileName, getCardText(buildCardList(colorList)));
+  saveListToFile(fileName, buildCardList(colorList));
 };

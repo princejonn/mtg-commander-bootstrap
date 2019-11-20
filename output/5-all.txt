@@ -1,3 +1,9 @@
+Lands: 31
+Mana Ramp: 15
+Card Draw: 9
+Removals: 9
+Utility: 5
+
 1 Command Tower
 1 Exotic Orchard
 1 Ancient Tomb
@@ -30,6 +36,9 @@
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Spinerock Knoll
+1 Shimmering Grotto
+1 Unknown Shores
+1 Crypt of the Eternals
 1 Sol Ring
 1 Arcane Signet
 1 Commander's Sphere

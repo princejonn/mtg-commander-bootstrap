@@ -1,3 +1,9 @@
+Lands: 30
+Mana Ramp: 16
+Card Draw: 10
+Removals: 7
+Utility: 3
+
 1 Command Tower
 1 Exotic Orchard
 1 Ancient Tomb
@@ -29,6 +35,9 @@
 1 Frontier Bivouac
 1 Mosswort Bridge
 1 Spinerock Knoll
+1 Shimmering Grotto
+1 Unknown Shores
+1 Crypt of the Eternals
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

@@ -1,3 +1,9 @@
+Lands: 35
+Mana Ramp: 11
+Card Draw: 7
+Removals: 8
+Utility: 2
+
 1 Command Tower
 1 Exotic Orchard
 1 Ancient Tomb
@@ -30,7 +36,8 @@
 1 Darksteel Citadel
 1 Spinerock Knoll
 1 Rakdos Carnarium
-2 Swamp
+1 Graven Cairns
+1 Swamp
 1 Mountain
 1 Sol Ring
 1 Mind Stone

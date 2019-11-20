@@ -1,3 +1,9 @@
+Lands: 29
+Mana Ramp: 17
+Card Draw: 9
+Removals: 9
+Utility: 5
+
 1 Command Tower
 1 Exotic Orchard
 1 Ancient Tomb
@@ -29,6 +35,9 @@
 1 Sandsteppe Citadel
 1 Windbrisk Heights
 1 Mosswort Bridge
+1 Shimmering Grotto
+1 Unknown Shores
+1 Crypt of the Eternals
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

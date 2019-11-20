@@ -1,3 +1,9 @@
+Lands: 33
+Mana Ramp: 13
+Card Draw: 5
+Removals: 7
+Utility: 4
+
 1 Command Tower
 1 Exotic Orchard
 1 Ancient Tomb
@@ -23,9 +29,12 @@
 1 Gruul Turf
 1 Selesnya Sanctuary
 1 Boros Garrison
-3 Plains
-3 Forest
-2 Mountain
+1 Fire-lit Thicket
+1 Wooded Bastion
+1 Rugged Prairie
+2 Plains
+2 Forest
+1 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
