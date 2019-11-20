@@ -7,7 +7,7 @@ export const DefaultLands: TCardArray = [
     name: "Command Tower",
     casual: true,
     competitive: false,
-    minColors: 1,
+    minColors: 2,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],

@@ -4,7 +4,6 @@ Card Draw: 8
 Removals: 5
 Utility: 2
 
-1 Command Tower
 1 Ancient Tomb
 1 Cavern of Souls
 1 Rogue's Passage
@@ -17,7 +16,7 @@ Utility: 2
 1 Tree of Tales
 1 Darksteel Citadel
 1 Mosswort Bridge
-25 Forest
+26 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

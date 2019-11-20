@@ -4,7 +4,6 @@ Card Draw: 3
 Removals: 7
 Utility: 1
 
-1 Command Tower
 1 Ancient Tomb
 1 Cavern of Souls
 1 Rogue's Passage
@@ -17,7 +16,7 @@ Utility: 1
 1 Ancient Den
 1 Darksteel Citadel
 1 Windbrisk Heights
-24 Plains
+25 Plains
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

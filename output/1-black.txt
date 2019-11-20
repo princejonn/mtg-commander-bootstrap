@@ -4,7 +4,6 @@ Card Draw: 9
 Removals: 7
 Utility: 1
 
-1 Command Tower
 1 Ancient Tomb
 1 Bojuka Bog
 1 Cavern of Souls
@@ -20,7 +19,7 @@ Utility: 1
 1 Urborg, Tomb of Yawgmoth
 1 Vault of Whispers
 1 Darksteel Citadel
-22 Swamp
+23 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
