@@ -1256,7 +1256,7 @@ export const FetchLands: TCardArray = [
     name: "Myriad Landscape",
     casual: true,
     competitive: false,
-    minColors: 2,
+    minColors: 1,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],

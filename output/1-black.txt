@@ -17,9 +17,10 @@ Utility: 1
 1 Phyrexian Tower
 1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
+1 Myriad Landscape
 1 Vault of Whispers
 1 Darksteel Citadel
-23 Swamp
+22 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

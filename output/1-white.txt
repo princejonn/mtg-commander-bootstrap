@@ -13,10 +13,11 @@ Utility: 1
 1 Serra's Sanctum
 1 Eiganjo Castle
 1 Flagstones of Trokair
+1 Myriad Landscape
 1 Ancient Den
 1 Darksteel Citadel
 1 Windbrisk Heights
-25 Plains
+24 Plains
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

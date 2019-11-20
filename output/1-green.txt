@@ -13,10 +13,11 @@ Utility: 2
 1 Gaea's Cradle
 1 Okina, Temple to the Grandfathers
 1 Pendelhaven
+1 Myriad Landscape
 1 Tree of Tales
 1 Darksteel Citadel
 1 Mosswort Bridge
-26 Forest
+25 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
