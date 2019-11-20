@@ -582,157 +582,7 @@ export const ShockLands: TCardArray = [
   },
 ];
 
-export const FetchLands: TCardArray = [
-  {
-    name: "Flooded Strand",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.AZORIUS,
-    ],
-  },
-  {
-    name: "Polluted Delta",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.DIMIR,
-    ],
-  },
-  {
-    name: "Bloodstained Mire",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.RAKDOS,
-    ],
-  },
-  {
-    name: "Wooded Foothills",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.GRUUL,
-    ],
-  },
-  {
-    name: "Windswept Heath",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.SELESNYA,
-    ],
-  },
-  {
-    name: "Marsh Flats",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 3,
-    colorIdentity: [
-      Guild.ORZHOV,
-    ],
-  },
-  {
-    name: "Scalding Tarn",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 3,
-    colorIdentity: [
-      Guild.IZZET,
-    ],
-  },
-  {
-    name: "Verdant Catacombs",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 3,
-    colorIdentity: [
-      Guild.GOLGARI,
-    ],
-  },
-  {
-    name: "Arid Mesa",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 3,
-    colorIdentity: [
-      Guild.BOROS,
-    ],
-  },
-  {
-    name: "Misty Rainforest",
-    casual: false,
-    competitive: true,
-    minColors: 2,
-    maxColors: 3,
-    colorIdentity: [
-      Guild.SIMIC,
-    ],
-  },
-  {
-    name: "Jund Panorama",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.JUND,
-    ],
-  },
-  {
-    name: "Bant Panorama",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.BANT,
-    ],
-  },
-  {
-    name: "Naya Panorama",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.NAYA,
-    ],
-  },
-  {
-    name: "Grixis Panorama",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.GRIXIS,
-    ],
-  },
-  {
-    name: "Esper Panorama",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.ESPER,
-    ],
-  },
+export const DefaultFetchLands: TCardArray = [
   {
     name: "Prismatic Vista",
     casual: true,
@@ -787,6 +637,162 @@ export const FetchLands: TCardArray = [
       [ Color.BLACK ],
       [ Color.GREEN ],
       [ Color.RED ],
+    ],
+  },
+];
+
+export const GuildFetchLands: TCardArray = [
+  {
+    name: "Flooded Strand",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Polluted Delta",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Bloodstained Mire",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Wooded Foothills",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Windswept Heath",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+  {
+    name: "Marsh Flats",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "Scalding Tarn",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.IZZET,
+    ],
+  },
+  {
+    name: "Verdant Catacombs",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.GOLGARI,
+    ],
+  },
+  {
+    name: "Arid Mesa",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.BOROS,
+    ],
+  },
+  {
+    name: "Misty Rainforest",
+    casual: true,
+    competitive: true,
+    minColors: 2,
+    maxColors: 3,
+    colorIdentity: [
+      Guild.SIMIC,
+    ],
+  },
+];
+
+export const ShardFetchLands: TCardArray = [
+  {
+    name: "Jund Panorama",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.JUND,
+    ],
+  },
+  {
+    name: "Bant Panorama",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 4,
+    colorIdentity: [
+      Shard.BANT,
+    ],
+  },
+  {
+    name: "Naya Panorama",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 4,
+    colorIdentity: [
+      Shard.NAYA,
+    ],
+  },
+  {
+    name: "Grixis Panorama",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 4,
+    colorIdentity: [
+      Shard.GRIXIS,
+    ],
+  },
+  {
+    name: "Esper Panorama",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 4,
+    colorIdentity: [
+      Shard.ESPER,
     ],
   },
 ];

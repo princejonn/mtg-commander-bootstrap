@@ -1,8 +1,9 @@
-Lands: 26
-Mana Ramp: 20
+Lands: 29
+Mana Ramp: 17
 Card Draw: 9
 Removals: 9
 Utility: 5
+Creatures: 3
 
 1 Command Tower
 1 Exotic Orchard
@@ -23,12 +24,15 @@ Utility: 5
 1 Godless Shrine
 1 Overgrown Tomb
 1 Breeding Pool
-1 Bant Panorama
-1 Esper Panorama
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Bant Panorama
+1 Esper Panorama
 1 Seaside Citadel
 1 Arcane Sanctum
 1 Opulent Palace
@@ -55,9 +59,6 @@ Utility: 5
 1 Sultai Banner
 1 Abzan Banner
 1 Land Tax
-1 Birds of Paradise
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper
@@ -81,3 +82,6 @@ Utility: 5
 1 Mana Drain
 1 Swan Song
 1 Dovin's Veto
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart

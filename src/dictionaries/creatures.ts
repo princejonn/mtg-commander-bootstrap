@@ -1,7 +1,29 @@
 import { TCardArray } from "../types";
 import { Color } from "../enums";
 
-export const CreatureRamp: TCardArray = [
+export const Creatures: TCardArray = [
+
+  // WHITE
+
+
+  // BLUE
+
+  {
+    name: "Mulldrifter",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+
+  // BLACK
+
+
+  // GREEN
+
   {
     name: "Birds of Paradise",
     casual: true,
@@ -12,6 +34,12 @@ export const CreatureRamp: TCardArray = [
       [ Color.GREEN ],
     ],
   },
+
+  // RED
+
+
+  // UNCOLORED
+
   {
     name: "Solemn Simulacrum",
     casual: true,
@@ -40,4 +68,7 @@ export const CreatureRamp: TCardArray = [
       [ Color.RED ],
     ],
   },
+
+  // MULTI-COLORED
+
 ];

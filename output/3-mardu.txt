@@ -1,8 +1,9 @@
-Lands: 30
-Mana Ramp: 16
+Lands: 32
+Mana Ramp: 14
 Card Draw: 5
 Removals: 9
 Utility: 3
+Creatures: 2
 
 1 Command Tower
 1 Exotic Orchard
@@ -21,10 +22,13 @@ Utility: 3
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Bloodstained Mire
+1 Marsh Flats
+1 Arid Mesa
 1 Nomad Outpost
 1 Windbrisk Heights
 1 Spinerock Knoll
-4 Plains
+3 Plains
 3 Swamp
 3 Mountain
 1 Sol Ring
@@ -41,8 +45,6 @@ Utility: 3
 1 Mardu Banner
 1 Land Tax
 1 Smothering Tithe
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Faithless Looting
@@ -60,3 +62,5 @@ Utility: 3
 1 Dread Return
 1 Mardu Charm
 1 Teferi's Protection
+1 Solemn Simulacrum
+1 Burnished Hart

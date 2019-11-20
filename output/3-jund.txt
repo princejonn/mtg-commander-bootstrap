@@ -1,8 +1,9 @@
-Lands: 31
-Mana Ramp: 15
+Lands: 34
+Mana Ramp: 12
 Card Draw: 9
 Removals: 9
 Utility: 4
+Creatures: 3
 
 1 Command Tower
 1 Exotic Orchard
@@ -19,11 +20,14 @@ Utility: 4
 1 Blood Crypt
 1 Stomping Ground
 1 Overgrown Tomb
-1 Jund Panorama
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Verdant Catacombs
+1 Jund Panorama
 1 Savage Lands
 1 Mosswort Bridge
 1 Spinerock Knoll
@@ -42,9 +46,6 @@ Utility: 4
 1 Gruul Signet
 1 Golgari Signet
 1 Obelisk of Jund
-1 Birds of Paradise
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Harmonize
@@ -67,3 +68,6 @@ Utility: 4
 1 Eternal Witness
 1 Regrowth
 1 Jund Charm
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart

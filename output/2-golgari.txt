@@ -1,8 +1,9 @@
-Lands: 32
-Mana Ramp: 14
+Lands: 37
+Mana Ramp: 9
 Card Draw: 9
 Removals: 10
-Utility: 4
+Utility: 6
+Creatures: 3
 
 1 Command Tower
 1 Ancient Tomb
@@ -21,12 +22,13 @@ Utility: 4
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Verdant Catacombs
 1 Svogthos, the Restless Tomb
 1 Mosswort Bridge
 1 Golgari Rot Farm
 1 Twilight Mire
-6 Swamp
-5 Forest
+8 Swamp
+7 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -36,11 +38,6 @@ Utility: 4
 1 Wayfarer's Bauble
 1 Golgari Signet
 1 Talisman of Curiosity
-1 Growing Rites of Itlimoc
-1 Journey to Eternity BG
-1 Birds of Paradise
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Phyrexian Arena
@@ -64,3 +61,8 @@ Utility: 4
 1 Eternal Witness
 1 Regrowth
 1 Golgari Charm
+1 Growing Rites of Itlimoc
+1 Journey to Eternity BG
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart

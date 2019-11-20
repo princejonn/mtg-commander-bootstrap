@@ -1,8 +1,9 @@
-Lands: 29
-Mana Ramp: 17
-Card Draw: 9
+Lands: 32
+Mana Ramp: 14
+Card Draw: 8
 Removals: 9
 Utility: 8
+Creatures: 4
 
 1 Command Tower
 1 Exotic Orchard
@@ -18,11 +19,14 @@ Utility: 8
 1 Hallowed Fountain
 1 Temple Garden
 1 Breeding Pool
-1 Bant Panorama
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Flooded Strand
+1 Windswept Heath
+1 Misty Rainforest
+1 Bant Panorama
 1 Seaside Citadel
 1 Windbrisk Heights
 1 Mosswort Bridge
@@ -43,12 +47,8 @@ Utility: 8
 1 Obelisk of Bant
 1 Land Tax
 1 Smothering Tithe
-1 Birds of Paradise
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
-1 Mulldrifter
 1 Harmonize
 1 Sylvan Library
 1 Mystical Tutor
@@ -72,3 +72,7 @@ Utility: 8
 1 Mana Drain
 1 Swan Song
 1 Dovin's Veto
+1 Mulldrifter
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart

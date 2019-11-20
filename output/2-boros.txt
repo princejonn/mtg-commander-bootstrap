@@ -1,8 +1,9 @@
-Lands: 30
-Mana Ramp: 16
+Lands: 35
+Mana Ramp: 11
 Card Draw: 2
 Removals: 8
-Utility: 2
+Utility: 5
+Creatures: 2
 
 1 Command Tower
 1 Ancient Tomb
@@ -18,13 +19,14 @@ Utility: 2
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Arid Mesa
 1 Sunhome, Fortress of the Legion
 1 Windbrisk Heights
 1 Spinerock Knoll
 1 Boros Garrison
 1 Rugged Prairie
-6 Plains
-5 Mountain
+8 Plains
+7 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -36,11 +38,6 @@ Utility: 2
 1 Talisman of Creativity
 1 Land Tax
 1 Smothering Tithe
-1 Legion's Landing
-1 Vance's Blasting Cannons
-1 Path of Mettle WR
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Faithless Looting
 1 Cathartic Reunion
 1 Path to Exile
@@ -53,3 +50,8 @@ Utility: 2
 1 Day of Judgment
 1 Boros Charm
 1 Teferi's Protection
+1 Legion's Landing
+1 Vance's Blasting Cannons
+1 Path of Mettle WR
+1 Solemn Simulacrum
+1 Burnished Hart

@@ -40,16 +40,6 @@ export const CardDraw: TCardArray = [
     ],
   },
   {
-    name: "Mulldrifter",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 3,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
     name: "Ponder",
     casual: true,
     competitive: false,

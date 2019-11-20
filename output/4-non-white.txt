@@ -1,8 +1,9 @@
-Lands: 27
-Mana Ramp: 19
+Lands: 30
+Mana Ramp: 16
 Card Draw: 10
 Removals: 7
 Utility: 3
+Creatures: 3
 
 1 Command Tower
 1 Exotic Orchard
@@ -23,12 +24,15 @@ Utility: 3
 1 Steam Vents
 1 Overgrown Tomb
 1 Breeding Pool
-1 Jund Panorama
-1 Grixis Panorama
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Polluted Delta
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Jund Panorama
+1 Grixis Panorama
 1 Savage Lands
 1 Crumbling Necropolis
 1 Opulent Palace
@@ -54,9 +58,6 @@ Utility: 3
 1 Obelisk of Grixis
 1 Sultai Banner
 1 Temur Banner
-1 Birds of Paradise
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper
@@ -77,3 +78,6 @@ Utility: 3
 1 Counterspell
 1 Mana Drain
 1 Swan Song
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart

@@ -1,8 +1,9 @@
-Lands: 30
-Mana Ramp: 16
-Card Draw: 5
+Lands: 32
+Mana Ramp: 14
+Card Draw: 4
 Removals: 7
 Utility: 6
+Creatures: 3
 
 1 Command Tower
 1 Exotic Orchard
@@ -20,11 +21,14 @@ Utility: 6
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Flooded Strand
+1 Scalding Tarn
+1 Arid Mesa
 1 Mystic Monastery
 1 Windbrisk Heights
 1 Spinerock Knoll
 4 Plains
-4 Island
+3 Island
 3 Mountain
 1 Sol Ring
 1 Mind Stone
@@ -40,11 +44,8 @@ Utility: 6
 1 Jeskai Banner
 1 Land Tax
 1 Smothering Tithe
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
-1 Mulldrifter
 1 Faithless Looting
 1 Mystical Tutor
 1 Path to Exile
@@ -60,3 +61,6 @@ Utility: 6
 1 Mana Drain
 1 Swan Song
 1 Dovin's Veto
+1 Mulldrifter
+1 Solemn Simulacrum
+1 Burnished Hart

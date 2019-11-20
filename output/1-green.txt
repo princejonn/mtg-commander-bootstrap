@@ -1,8 +1,9 @@
-Lands: 35
-Mana Ramp: 11
+Lands: 39
+Mana Ramp: 7
 Card Draw: 8
 Removals: 5
-Utility: 2
+Utility: 3
+Creatures: 3
 
 1 Ancient Tomb
 1 Cavern of Souls
@@ -17,7 +18,7 @@ Utility: 2
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Mosswort Bridge
-22 Forest
+26 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -25,10 +26,6 @@ Utility: 2
 1 Expedition Map
 1 Moss Diamond
 1 Emerald Medallion
-1 Growing Rites of Itlimoc
-1 Birds of Paradise
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Harmonize
 1 Sylvan Library
 1 Momentous Fall
@@ -44,3 +41,7 @@ Utility: 2
 1 Whirlwind
 1 Eternal Witness
 1 Regrowth
+1 Growing Rites of Itlimoc
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart

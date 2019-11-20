@@ -1,8 +1,9 @@
-Lands: 32
-Mana Ramp: 14
-Card Draw: 9
+Lands: 34
+Mana Ramp: 12
+Card Draw: 8
 Removals: 8
 Utility: 5
+Creatures: 3
 
 1 Command Tower
 1 Exotic Orchard
@@ -19,14 +20,17 @@ Utility: 5
 1 Watery Grave
 1 Blood Crypt
 1 Steam Vents
-1 Grixis Panorama
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Polluted Delta
+1 Bloodstained Mire
+1 Scalding Tarn
+1 Grixis Panorama
 1 Crumbling Necropolis
 1 Spinerock Knoll
-4 Island
+3 Island
 3 Swamp
 3 Mountain
 1 Sol Ring
@@ -41,11 +45,8 @@ Utility: 5
 1 Rakdos Signet
 1 Izzet Signet
 1 Obelisk of Grixis
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
-1 Mulldrifter
 1 Night's Whisper
 1 Sign in Blood
 1 Faithless Looting
@@ -65,3 +66,6 @@ Utility: 5
 1 Counterspell
 1 Mana Drain
 1 Swan Song
+1 Mulldrifter
+1 Solemn Simulacrum
+1 Burnished Hart

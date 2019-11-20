@@ -1,8 +1,9 @@
-Lands: 31
-Mana Ramp: 15
-Card Draw: 12
+Lands: 34
+Mana Ramp: 12
+Card Draw: 11
 Removals: 10
 Utility: 7
+Creatures: 4
 
 1 Command Tower
 1 Exotic Orchard
@@ -23,6 +24,9 @@ Utility: 7
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Polluted Delta
+1 Verdant Catacombs
+1 Misty Rainforest
 1 Opulent Palace
 1 Mosswort Bridge
 4 Island
@@ -40,12 +44,8 @@ Utility: 7
 1 Golgari Signet
 1 Simic Signet
 1 Sultai Banner
-1 Birds of Paradise
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
-1 Mulldrifter
 1 Night's Whisper
 1 Sign in Blood
 1 Harmonize
@@ -72,3 +72,7 @@ Utility: 7
 1 Counterspell
 1 Mana Drain
 1 Swan Song
+1 Mulldrifter
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart

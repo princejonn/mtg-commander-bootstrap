@@ -1,8 +1,9 @@
-Lands: 34
-Mana Ramp: 12
+Lands: 37
+Mana Ramp: 9
 Card Draw: 3
 Removals: 7
-Utility: 1
+Utility: 2
+Creatures: 2
 
 1 Ancient Tomb
 1 Cavern of Souls
@@ -17,7 +18,7 @@ Utility: 1
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Windbrisk Heights
-21 Plains
+24 Plains
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -27,9 +28,6 @@ Utility: 1
 1 Pearl Medallion
 1 Land Tax
 1 Smothering Tithe
-1 Legion's Landing
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Well of Lost Dreams
 1 Enlightened Tutor
 1 Idyllic Tutor
@@ -41,3 +39,6 @@ Utility: 1
 1 Day of Judgment
 1 Terminus
 1 Teferi's Protection
+1 Legion's Landing
+1 Solemn Simulacrum
+1 Burnished Hart

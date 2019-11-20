@@ -1,8 +1,9 @@
-Lands: 28
-Mana Ramp: 18
+Lands: 31
+Mana Ramp: 15
 Card Draw: 9
 Removals: 9
 Utility: 5
+Creatures: 3
 
 1 Command Tower
 1 Exotic Orchard
@@ -23,6 +24,12 @@ Utility: 5
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Flooded Strand
+1 Polluted Delta
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Windswept Heath
+1 Jund Panorama
 1 Savage Lands
 1 Seaside Citadel
 1 Jungle Shrine
@@ -54,9 +61,6 @@ Utility: 5
 1 Obelisk of Grixis
 1 Obelisk of Esper
 1 Land Tax
-1 Birds of Paradise
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Brainstorm
 1 Night's Whisper
 1 Harmonize
@@ -80,3 +84,6 @@ Utility: 5
 1 Mana Drain
 1 Swan Song
 1 Dovin's Veto
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart

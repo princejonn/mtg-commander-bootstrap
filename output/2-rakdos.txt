@@ -1,8 +1,9 @@
-Lands: 34
-Mana Ramp: 12
+Lands: 37
+Mana Ramp: 9
 Card Draw: 7
 Removals: 8
-Utility: 2
+Utility: 3
+Creatures: 2
 
 1 Command Tower
 1 Ancient Tomb
@@ -21,12 +22,13 @@ Utility: 2
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Bloodstained Mire
 1 Rix Maadi, Dungeon Palace
 1 Spinerock Knoll
 1 Rakdos Carnarium
 1 Graven Cairns
-7 Swamp
-6 Mountain
+8 Swamp
+7 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -36,9 +38,6 @@ Utility: 2
 1 Wayfarer's Bauble
 1 Rakdos Signet
 1 Talisman of Indulgence
-1 Vance's Blasting Cannons
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Phyrexian Arena
@@ -56,3 +55,6 @@ Utility: 2
 1 Toxic Deluge
 1 Dread Return
 1 Rakdos Charm
+1 Vance's Blasting Cannons
+1 Solemn Simulacrum
+1 Burnished Hart

@@ -1,8 +1,9 @@
-Lands: 31
-Mana Ramp: 15
-Card Draw: 5
+Lands: 35
+Mana Ramp: 11
+Card Draw: 4
 Removals: 9
-Utility: 7
+Utility: 9
+Creatures: 3
 
 1 Command Tower
 1 Ancient Tomb
@@ -21,12 +22,13 @@ Utility: 7
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Flooded Strand
 1 Prahv, Spires of Order
 1 Windbrisk Heights
 1 Azorius Chancery
 1 Mystic Gate
-5 Plains
-5 Island
+7 Plains
+6 Island
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -38,13 +40,8 @@ Utility: 7
 1 Talisman of Progress
 1 Land Tax
 1 Smothering Tithe
-1 Legion's Landing
-1 Search for Azcanta
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
-1 Mulldrifter
 1 Mystical Tutor
 1 Merchant Scroll
 1 Path to Exile
@@ -63,3 +60,8 @@ Utility: 7
 1 Swan Song
 1 Negate
 1 Dovin's Veto
+1 Legion's Landing
+1 Search for Azcanta
+1 Mulldrifter
+1 Solemn Simulacrum
+1 Burnished Hart

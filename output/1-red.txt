@@ -1,8 +1,9 @@
-Lands: 36
-Mana Ramp: 10
+Lands: 39
+Mana Ramp: 7
 Card Draw: 3
 Removals: 3
-Utility: 0
+Utility: 1
+Creatures: 2
 
 1 Ancient Tomb
 1 Cavern of Souls
@@ -16,7 +17,7 @@ Utility: 0
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Spinerock Knoll
-24 Mountain
+27 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -24,12 +25,12 @@ Utility: 0
 1 Expedition Map
 1 Fire Diamond
 1 Ruby Medallion
-1 Vance's Blasting Cannons
-1 Solemn Simulacrum
-1 Burnished Hart
 1 Faithless Looting
 1 Cathartic Reunion
 1 Gamble
 1 Chaos Warp
 1 Lightning Bolt
 1 Blasphemous Act
+1 Vance's Blasting Cannons
+1 Solemn Simulacrum
+1 Burnished Hart
