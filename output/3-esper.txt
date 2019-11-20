@@ -5,21 +5,8 @@ Removals: 10
 Utility: 7
 Creatures: 3
 
-1 Command Tower
-1 Exotic Orchard
-1 Ancient Tomb
-1 Bojuka Bog
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Tolaria West
-1 Urborg, Tomb of Yawgmoth
 1 Sea of Clouds
 1 Morphic Pool
-1 Hallowed Fountain
-1 Watery Grave
-1 Godless Shrine
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -28,8 +15,21 @@ Creatures: 3
 1 Polluted Delta
 1 Marsh Flats
 1 Esper Panorama
-1 Arcane Sanctum
 1 Windbrisk Heights
+1 Urborg, Tomb of Yawgmoth
+1 Command Tower
+1 Exotic Orchard
+1 Cavern of Souls
+1 Arcane Sanctum
+1 Hallowed Fountain
+1 Watery Grave
+1 Godless Shrine
+1 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
+1 Tolaria West
 3 Plains
 2 Island
 2 Swamp

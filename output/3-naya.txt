@@ -5,19 +5,8 @@ Removals: 7
 Utility: 4
 Creatures: 3
 
-1 Command Tower
-1 Exotic Orchard
-1 Ancient Tomb
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Gaea's Cradle
 1 Spire Garden
 1 Bountiful Promenade
-1 Stomping Ground
-1 Temple Garden
-1 Sacred Foundry
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -27,10 +16,21 @@ Creatures: 3
 1 Windswept Heath
 1 Arid Mesa
 1 Naya Panorama
-1 Jungle Shrine
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Spinerock Knoll
+1 Gaea's Cradle
+1 Command Tower
+1 Exotic Orchard
+1 Cavern of Souls
+1 Jungle Shrine
+1 Stomping Ground
+1 Temple Garden
+1 Sacred Foundry
+1 Ancient Tomb
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
 2 Plains
 2 Forest
 2 Mountain

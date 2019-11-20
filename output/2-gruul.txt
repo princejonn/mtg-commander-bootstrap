@@ -5,28 +5,28 @@ Removals: 6
 Utility: 5
 Creatures: 3
 
-1 Command Tower
-1 Ancient Tomb
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Gaea's Cradle
-1 Okina, Temple to the Grandfathers
-1 Shinka, the Bloodsoaked Keep
 1 Spire Garden
-1 Stomping Ground
+1 Gruul Turf
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Blighted Woodland
 1 Wooded Foothills
+1 Fire-lit Thicket
 1 Skarrg, the Rage Pits
 1 Mosswort Bridge
 1 Spinerock Knoll
-1 Gruul Turf
-1 Fire-lit Thicket
+1 Gaea's Cradle
+1 Okina, Temple to the Grandfathers
+1 Shinka, the Bloodsoaked Keep
+1 Command Tower
+1 Cavern of Souls
+1 Stomping Ground
+1 Ancient Tomb
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
 8 Forest
 7 Mountain
 1 Sol Ring

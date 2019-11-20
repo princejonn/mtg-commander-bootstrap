@@ -5,24 +5,9 @@ Removals: 8
 Utility: 5
 Creatures: 2
 
-1 Command Tower
-1 Exotic Orchard
-1 Ancient Tomb
-1 Bojuka Bog
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Urborg, Tomb of Yawgmoth
 1 Sea of Clouds
 1 Morphic Pool
 1 Luxury Suite
-1 Hallowed Fountain
-1 Watery Grave
-1 Blood Crypt
-1 Godless Shrine
-1 Steam Vents
-1 Sacred Foundry
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -32,15 +17,30 @@ Creatures: 2
 1 Bloodstained Mire
 1 Grixis Panorama
 1 Esper Panorama
+1 Shimmering Grotto
+1 Unknown Shores
+1 Crypt of the Eternals
+1 Windbrisk Heights
+1 Spinerock Knoll
+1 Urborg, Tomb of Yawgmoth
+1 Command Tower
+1 Exotic Orchard
+1 Cavern of Souls
 1 Crumbling Necropolis
 1 Arcane Sanctum
 1 Nomad Outpost
 1 Mystic Monastery
-1 Windbrisk Heights
-1 Spinerock Knoll
-1 Shimmering Grotto
-1 Unknown Shores
-1 Crypt of the Eternals
+1 Hallowed Fountain
+1 Watery Grave
+1 Blood Crypt
+1 Godless Shrine
+1 Steam Vents
+1 Sacred Foundry
+1 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

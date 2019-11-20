@@ -5,21 +5,7 @@ Removals: 10
 Utility: 7
 Creatures: 4
 
-1 Command Tower
-1 Exotic Orchard
-1 Ancient Tomb
-1 Bojuka Bog
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Tolaria West
-1 Urborg, Tomb of Yawgmoth
-1 Gaea's Cradle
 1 Morphic Pool
-1 Watery Grave
-1 Overgrown Tomb
-1 Breeding Pool
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -28,8 +14,22 @@ Creatures: 4
 1 Polluted Delta
 1 Verdant Catacombs
 1 Misty Rainforest
-1 Opulent Palace
 1 Mosswort Bridge
+1 Urborg, Tomb of Yawgmoth
+1 Gaea's Cradle
+1 Command Tower
+1 Exotic Orchard
+1 Cavern of Souls
+1 Opulent Palace
+1 Watery Grave
+1 Overgrown Tomb
+1 Breeding Pool
+1 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
+1 Tolaria West
 3 Island
 3 Swamp
 3 Forest

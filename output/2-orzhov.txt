@@ -5,29 +5,30 @@ Removals: 13
 Utility: 5
 Creatures: 2
 
-1 Command Tower
-1 Ancient Tomb
-1 Bojuka Bog
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Serra's Sanctum
-1 Eiganjo Castle
-1 Phyrexian Tower
-1 Shizo, Death's Storehouse
-1 Urborg, Tomb of Yawgmoth
-1 Godless Shrine
+1 Orzhov Basilica
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Marsh Flats
+1 Fetid Heath
 1 Orzhova, the Church of Deals
 1 Windbrisk Heights
-1 Orzhov Basilica
-1 Fetid Heath
-7 Plains
+1 Serra's Sanctum
+1 Eiganjo Castle
+1 Phyrexian Tower
+1 Shizo, Death's Storehouse
+1 Urborg, Tomb of Yawgmoth
+1 Command Tower
+1 Cavern of Souls
+1 Godless Shrine
+1 Tainted Field
+1 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
+6 Plains
 6 Swamp
 1 Sol Ring
 1 Mind Stone

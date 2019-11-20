@@ -2,171 +2,6 @@ import { TCardArray } from "../types";
 import { Color } from "../enums";
 import { Guild, Shard } from "../constants";
 
-export const DefaultLands: TCardArray = [
-  {
-    name: "Command Tower",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Exotic Orchard",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Ancient Tomb",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Bojuka Bog",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Cavern of Souls",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Rogue's Passage",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Buried Ruin",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Lake of the Dead",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 1,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Nykthos, Shrine to Nyx",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 1,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Reliquary Tower",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Cabal Stronghold",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 1,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Cabal Coffers",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 1,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Tolaria West",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 3,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-];
-
 export const BasicLands: TCardArray = [
   {
     name: "Plains",
@@ -220,105 +55,158 @@ export const BasicLands: TCardArray = [
   },
 ];
 
-export const LegendaryLands: TCardArray = [
+export const BondLands: TCardArray = [
   {
-    name: "Serra's Sanctum",
+    name: "Sea of Clouds",
     casual: true,
     competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.WHITE ],
-    ],
-  },
-  {
-    name: "Eiganjo Castle",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.WHITE ],
-    ],
-  },
-  {
-    name: "Minamo, School at Water's Edge",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Academy Ruins",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Phyrexian Tower",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Shizo, Death's Storehouse",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Urborg, Tomb of Yawgmoth",
-    casual: true,
-    competitive: false,
-    minColors: 1,
+    minColors: 2,
     maxColors: 5,
     colorIdentity: [
-      [ Color.BLACK ],
+      Guild.AZORIUS,
     ],
   },
   {
-    name: "Gaea's Cradle",
+    name: "Morphic Pool",
     casual: true,
     competitive: false,
-    minColors: 1,
+    minColors: 2,
     maxColors: 5,
     colorIdentity: [
-      [ Color.GREEN ],
+      Guild.DIMIR,
     ],
   },
   {
-    name: "Okina, Temple to the Grandfathers",
+    name: "Luxury Suite",
     casual: true,
     competitive: false,
-    minColors: 1,
-    maxColors: 2,
+    minColors: 2,
+    maxColors: 5,
     colorIdentity: [
-      [ Color.GREEN ],
+      Guild.RAKDOS,
     ],
   },
   {
-    name: "Shinka, the Bloodsoaked Keep",
+    name: "Spire Garden",
     casual: true,
     competitive: false,
-    minColors: 1,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Bountiful Promenade",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+];
+
+export const BounceLands: TCardArray = [
+  {
+    name: "Azorius Chancery",
+    casual: true,
+    competitive: false,
+    minColors: 2,
     maxColors: 2,
     colorIdentity: [
-      [ Color.RED ],
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Dimir Aqueduct",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Rakdos Carnarium",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Gruul Turf",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Selesnya Sanctuary",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+  {
+    name: "Orzhov Basilica",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "Izzet Boilerworks",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.IZZET,
+    ],
+  },
+  {
+    name: "Golgari Rot Farm",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GOLGARI,
+    ],
+  },
+  {
+    name: "Boros Garrison",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.BOROS,
+    ],
+  },
+  {
+    name: "Simic Growth Chamber",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SIMIC,
     ],
   },
 ];
@@ -426,163 +314,7 @@ export const DualLands: TCardArray = [
   },
 ];
 
-export const BondLands: TCardArray = [
-  {
-    name: "Sea of Clouds",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.AZORIUS,
-    ],
-  },
-  {
-    name: "Morphic Pool",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.DIMIR,
-    ],
-  },
-  {
-    name: "Luxury Suite",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.RAKDOS,
-    ],
-  },
-  {
-    name: "Spire Garden",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.GRUUL,
-    ],
-  },
-  {
-    name: "Bountiful Promenade",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 5,
-    colorIdentity: [
-      Guild.SELESNYA,
-    ],
-  },
-];
-
-export const ShockLands: TCardArray = [
-  {
-    name: "Hallowed Fountain",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.AZORIUS,
-    ],
-  },
-  {
-    name: "Watery Grave",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.DIMIR,
-    ],
-  },
-  {
-    name: "Blood Crypt",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.RAKDOS,
-    ],
-  },
-  {
-    name: "Stomping Ground",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.GRUUL,
-    ],
-  },
-  {
-    name: "Temple Garden",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.SELESNYA,
-    ],
-  },
-  {
-    name: "Godless Shrine",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.ORZHOV,
-    ],
-  },
-  {
-    name: "Steam Vents",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.IZZET,
-    ],
-  },
-  {
-    name: "Overgrown Tomb",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.GOLGARI,
-    ],
-  },
-  {
-    name: "Sacred Foundry",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.BOROS,
-    ],
-  },
-  {
-    name: "Breeding Pool",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 4,
-    colorIdentity: [
-      Guild.SIMIC,
-    ],
-  },
-];
-
-export const DefaultFetchLands: TCardArray = [
+export const FetchLands: TCardArray = [
   {
     name: "Prismatic Vista",
     casual: true,
@@ -651,7 +383,7 @@ export const DefaultFetchLands: TCardArray = [
   },
 ];
 
-export const GuildFetchLands: TCardArray = [
+export const FetchLandsGuild: TCardArray = [
   {
     name: "Flooded Strand",
     casual: true,
@@ -754,7 +486,7 @@ export const GuildFetchLands: TCardArray = [
   },
 ];
 
-export const ShardFetchLands: TCardArray = [
+export const FetchLandsShard: TCardArray = [
   {
     name: "Jund Panorama",
     casual: true,
@@ -803,348 +535,6 @@ export const ShardFetchLands: TCardArray = [
     maxColors: 4,
     colorIdentity: [
       Shard.ESPER,
-    ],
-  },
-];
-
-export const GuildHalls: TCardArray = [
-  {
-    name: "Sunhome, Fortress of the Legion",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.BOROS,
-    ],
-  },
-  {
-    name: "Duskmantle, House of Shadow",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.DIMIR,
-    ],
-  },
-  {
-    name: "Svogthos, the Restless Tomb",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GOLGARI,
-    ],
-  },
-  {
-    name: "Vitu-Ghazi, the City-Tree",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SELESNYA,
-    ],
-  },
-  {
-    name: "Orzhova, the Church of Deals",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.ORZHOV,
-    ],
-  },
-  {
-    name: "Nivix, Aerie of the Firemind",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.IZZET,
-    ],
-  },
-  {
-    name: "Skarrg, the Rage Pits",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GRUUL,
-    ],
-  },
-  {
-    name: "Prahv, Spires of Order",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.AZORIUS,
-    ],
-  },
-  {
-    name: "Novijen, Heart of Progress",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SIMIC,
-    ],
-  },
-  {
-    name: "Rix Maadi, Dungeon Palace",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.RAKDOS,
-    ],
-  },
-];
-
-export const ShardLands: TCardArray = [
-  {
-    name: "Savage Lands",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.JUND,
-    ],
-  },
-  {
-    name: "Seaside Citadel",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.BANT,
-    ],
-  },
-  {
-    name: "Jungle Shrine",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.NAYA,
-    ],
-  },
-  {
-    name: "Crumbling Necropolis",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.GRIXIS,
-    ],
-  },
-  {
-    name: "Arcane Sanctum",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.ESPER,
-    ],
-  },
-  {
-    name: "Opulent Palace",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.SULTAI,
-    ],
-  },
-  {
-    name: "Frontier Bivouac",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.TEMUR,
-    ],
-  },
-  {
-    name: "Nomad Outpost",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.MARDU,
-    ],
-  },
-  {
-    name: "Mystic Monastery",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.JESKAI,
-    ],
-  },
-  {
-    name: "Sandsteppe Citadel",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.ABZAN,
-    ],
-  },
-];
-
-export const HideawayLands: TCardArray = [
-  {
-    name: "Windbrisk Heights",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-    ],
-  },
-  {
-    name: "Mosswort Bridge",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
-  {
-    name: "Spinerock Knoll",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.RED ],
-    ],
-  },
-];
-
-export const BounceLands: TCardArray = [
-  {
-    name: "Azorius Chancery",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.AZORIUS,
-    ],
-  },
-  {
-    name: "Dimir Aqueduct",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.DIMIR,
-    ],
-  },
-  {
-    name: "Rakdos Carnarium",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.RAKDOS,
-    ],
-  },
-  {
-    name: "Gruul Turf",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GRUUL,
-    ],
-  },
-  {
-    name: "Selesnya Sanctuary",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SELESNYA,
-    ],
-  },
-  {
-    name: "Orzhov Basilica",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.ORZHOV,
-    ],
-  },
-  {
-    name: "Izzet Boilerworks",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.IZZET,
-    ],
-  },
-  {
-    name: "Golgari Rot Farm",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GOLGARI,
-    ],
-  },
-  {
-    name: "Boros Garrison",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.BOROS,
-    ],
-  },
-  {
-    name: "Simic Growth Chamber",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SIMIC,
     ],
   },
 ];
@@ -1288,6 +678,665 @@ export const FilterLands: TCardArray = [
       [ Color.BLUE ],
       [ Color.BLACK ],
       [ Color.RED ],
+    ],
+  },
+];
+
+export const GuildHalls: TCardArray = [
+  {
+    name: "Sunhome, Fortress of the Legion",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.BOROS,
+    ],
+  },
+  {
+    name: "Duskmantle, House of Shadow",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Svogthos, the Restless Tomb",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GOLGARI,
+    ],
+  },
+  {
+    name: "Vitu-Ghazi, the City-Tree",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+  {
+    name: "Orzhova, the Church of Deals",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "Nivix, Aerie of the Firemind",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.IZZET,
+    ],
+  },
+  {
+    name: "Skarrg, the Rage Pits",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Prahv, Spires of Order",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Novijen, Heart of Progress",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SIMIC,
+    ],
+  },
+  {
+    name: "Rix Maadi, Dungeon Palace",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+];
+
+export const HideawayLands: TCardArray = [
+  {
+    name: "Windbrisk Heights",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Mosswort Bridge",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Spinerock Knoll",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+];
+
+export const LegendaryLands: TCardArray = [
+  {
+    name: "Serra's Sanctum",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Eiganjo Castle",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Minamo, School at Water's Edge",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Academy Ruins",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Phyrexian Tower",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Shizo, Death's Storehouse",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Urborg, Tomb of Yawgmoth",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Gaea's Cradle",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Okina, Temple to the Grandfathers",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Shinka, the Bloodsoaked Keep",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+];
+
+export const MultiColoredLands: TCardArray = [
+  {
+    name: "Command Tower",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Exotic Orchard",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Cavern of Souls",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+];
+
+export const ShardLands: TCardArray = [
+  {
+    name: "Savage Lands",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.JUND,
+    ],
+  },
+  {
+    name: "Seaside Citadel",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.BANT,
+    ],
+  },
+  {
+    name: "Jungle Shrine",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.NAYA,
+    ],
+  },
+  {
+    name: "Crumbling Necropolis",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.GRIXIS,
+    ],
+  },
+  {
+    name: "Arcane Sanctum",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.ESPER,
+    ],
+  },
+  {
+    name: "Opulent Palace",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.SULTAI,
+    ],
+  },
+  {
+    name: "Frontier Bivouac",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.TEMUR,
+    ],
+  },
+  {
+    name: "Nomad Outpost",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.MARDU,
+    ],
+  },
+  {
+    name: "Mystic Monastery",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.JESKAI,
+    ],
+  },
+  {
+    name: "Sandsteppe Citadel",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.ABZAN,
+    ],
+  },
+];
+
+export const ShockLands: TCardArray = [
+  {
+    name: "Hallowed Fountain",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Watery Grave",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Blood Crypt",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Stomping Ground",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Temple Garden",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+  {
+    name: "Godless Shrine",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "Steam Vents",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.IZZET,
+    ],
+  },
+  {
+    name: "Overgrown Tomb",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.GOLGARI,
+    ],
+  },
+  {
+    name: "Sacred Foundry",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.BOROS,
+    ],
+  },
+  {
+    name: "Breeding Pool",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 4,
+    colorIdentity: [
+      Guild.SIMIC,
+    ],
+  },
+];
+
+export const TaintedLands: TCardArray = [
+  {
+    name: "Tainted Field",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "Tainted Isle",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Tainted Peak",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Tainted Wood",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GOLGARI,
+    ],
+  },
+];
+
+export const UncoloredLands: TCardArray = [
+  {
+    name: "Ancient Tomb",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+];
+
+export const UtilityLands: TCardArray = [
+  {
+    name: "Bojuka Bog",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Buried Ruin",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Rogue's Passage",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Reliquary Tower",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Tolaria West",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Lake of the Dead",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Nykthos, Shrine to Nyx",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Cabal Stronghold",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Cabal Coffers",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
     ],
   },
 ];

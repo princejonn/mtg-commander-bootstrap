@@ -5,19 +5,7 @@ Removals: 9
 Utility: 3
 Creatures: 2
 
-1 Command Tower
-1 Exotic Orchard
-1 Ancient Tomb
-1 Bojuka Bog
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Urborg, Tomb of Yawgmoth
 1 Luxury Suite
-1 Blood Crypt
-1 Godless Shrine
-1 Sacred Foundry
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -25,9 +13,21 @@ Creatures: 2
 1 Bloodstained Mire
 1 Marsh Flats
 1 Arid Mesa
-1 Nomad Outpost
 1 Windbrisk Heights
 1 Spinerock Knoll
+1 Urborg, Tomb of Yawgmoth
+1 Command Tower
+1 Exotic Orchard
+1 Cavern of Souls
+1 Nomad Outpost
+1 Blood Crypt
+1 Godless Shrine
+1 Sacred Foundry
+1 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
 3 Plains
 3 Swamp
 3 Mountain

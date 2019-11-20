@@ -5,16 +5,6 @@ Removals: 9
 Utility: 5
 Creatures: 3
 
-1 Command Tower
-1 Exotic Orchard
-1 Ancient Tomb
-1 Bojuka Bog
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Urborg, Tomb of Yawgmoth
-1 Gaea's Cradle
 1 Sea of Clouds
 1 Morphic Pool
 1 Luxury Suite
@@ -31,6 +21,17 @@ Creatures: 3
 1 Wooded Foothills
 1 Windswept Heath
 1 Jund Panorama
+1 Shimmering Grotto
+1 Unknown Shores
+1 Crypt of the Eternals
+1 Windbrisk Heights
+1 Mosswort Bridge
+1 Spinerock Knoll
+1 Urborg, Tomb of Yawgmoth
+1 Gaea's Cradle
+1 Command Tower
+1 Exotic Orchard
+1 Cavern of Souls
 1 Savage Lands
 1 Seaside Citadel
 1 Jungle Shrine
@@ -41,12 +42,11 @@ Creatures: 3
 1 Nomad Outpost
 1 Mystic Monastery
 1 Sandsteppe Citadel
-1 Windbrisk Heights
-1 Mosswort Bridge
-1 Spinerock Knoll
-1 Shimmering Grotto
-1 Unknown Shores
-1 Crypt of the Eternals
+1 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
 1 Sol Ring
 1 Arcane Signet
 1 Commander's Sphere

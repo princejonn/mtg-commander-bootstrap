@@ -126,19 +126,22 @@ export const getCardText = (cardList: TSimpleCardList): Array<string> => {
 
 export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
   const landList: TSimpleCardList = [
-    ...getMatchingCards(colorList, lands.DefaultLands),
-    ...getMatchingCards(colorList, lands.LegendaryLands),
-    ...getMatchingCards(colorList, lands.DualLands),
     ...getMatchingCards(colorList, lands.BondLands),
-    ...getMatchingCards(colorList, lands.ShockLands),
-    ...getMatchingCards(colorList, lands.DefaultFetchLands),
-    ...getMatchingCards(colorList, lands.GuildFetchLands),
-    ...getMatchingCards(colorList, lands.ShardFetchLands),
-    ...getMatchingCards(colorList, lands.GuildHalls),
-    ...getMatchingCards(colorList, lands.ShardLands),
-    ...getMatchingCards(colorList, lands.HideawayLands),
     ...getMatchingCards(colorList, lands.BounceLands),
+    ...getMatchingCards(colorList, lands.DualLands),
+    ...getMatchingCards(colorList, lands.FetchLands),
+    ...getMatchingCards(colorList, lands.FetchLandsGuild),
+    ...getMatchingCards(colorList, lands.FetchLandsShard),
     ...getMatchingCards(colorList, lands.FilterLands),
+    ...getMatchingCards(colorList, lands.GuildHalls),
+    ...getMatchingCards(colorList, lands.HideawayLands),
+    ...getMatchingCards(colorList, lands.LegendaryLands),
+    ...getMatchingCards(colorList, lands.MultiColoredLands),
+    ...getMatchingCards(colorList, lands.ShardLands),
+    ...getMatchingCards(colorList, lands.ShockLands),
+    ...getMatchingCards(colorList, lands.TaintedLands),
+    ...getMatchingCards(colorList, lands.UncoloredLands),
+    ...getMatchingCards(colorList, lands.UtilityLands),
   ];
 
   const artifactRampList: TSimpleCardList = [

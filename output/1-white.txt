@@ -5,19 +5,19 @@ Removals: 7
 Utility: 2
 Creatures: 2
 
-1 Ancient Tomb
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Nykthos, Shrine to Nyx
-1 Reliquary Tower
-1 Serra's Sanctum
-1 Eiganjo Castle
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Windbrisk Heights
+1 Serra's Sanctum
+1 Eiganjo Castle
+1 Cavern of Souls
+1 Ancient Tomb
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
+1 Nykthos, Shrine to Nyx
 24 Plains
 1 Sol Ring
 1 Mind Stone

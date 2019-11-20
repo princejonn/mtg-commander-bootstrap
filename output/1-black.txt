@@ -5,23 +5,23 @@ Removals: 7
 Utility: 1
 Creatures: 2
 
-1 Ancient Tomb
-1 Bojuka Bog
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Lake of the Dead
-1 Nykthos, Shrine to Nyx
-1 Reliquary Tower
-1 Cabal Stronghold
-1 Cabal Coffers
-1 Phyrexian Tower
-1 Shizo, Death's Storehouse
-1 Urborg, Tomb of Yawgmoth
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Phyrexian Tower
+1 Shizo, Death's Storehouse
+1 Urborg, Tomb of Yawgmoth
+1 Cavern of Souls
+1 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
+1 Lake of the Dead
+1 Nykthos, Shrine to Nyx
+1 Cabal Stronghold
+1 Cabal Coffers
 21 Swamp
 1 Sol Ring
 1 Mind Stone

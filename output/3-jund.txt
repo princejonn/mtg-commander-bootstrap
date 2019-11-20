@@ -5,21 +5,8 @@ Removals: 9
 Utility: 4
 Creatures: 3
 
-1 Command Tower
-1 Exotic Orchard
-1 Ancient Tomb
-1 Bojuka Bog
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Urborg, Tomb of Yawgmoth
-1 Gaea's Cradle
 1 Luxury Suite
 1 Spire Garden
-1 Blood Crypt
-1 Stomping Ground
-1 Overgrown Tomb
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -29,9 +16,22 @@ Creatures: 3
 1 Wooded Foothills
 1 Verdant Catacombs
 1 Jund Panorama
-1 Savage Lands
 1 Mosswort Bridge
 1 Spinerock Knoll
+1 Urborg, Tomb of Yawgmoth
+1 Gaea's Cradle
+1 Command Tower
+1 Exotic Orchard
+1 Cavern of Souls
+1 Savage Lands
+1 Blood Crypt
+1 Stomping Ground
+1 Overgrown Tomb
+1 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
 3 Swamp
 2 Forest
 2 Mountain

@@ -5,26 +5,26 @@ Removals: 8
 Utility: 5
 Creatures: 2
 
-1 Command Tower
-1 Ancient Tomb
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Serra's Sanctum
-1 Eiganjo Castle
-1 Shinka, the Bloodsoaked Keep
-1 Sacred Foundry
+1 Boros Garrison
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
 1 Arid Mesa
+1 Rugged Prairie
 1 Sunhome, Fortress of the Legion
 1 Windbrisk Heights
 1 Spinerock Knoll
-1 Boros Garrison
-1 Rugged Prairie
+1 Serra's Sanctum
+1 Eiganjo Castle
+1 Shinka, the Bloodsoaked Keep
+1 Command Tower
+1 Cavern of Souls
+1 Sacred Foundry
+1 Ancient Tomb
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
 8 Plains
 7 Mountain
 1 Sol Ring

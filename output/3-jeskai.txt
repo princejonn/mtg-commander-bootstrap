@@ -5,18 +5,7 @@ Removals: 7
 Utility: 6
 Creatures: 3
 
-1 Command Tower
-1 Exotic Orchard
-1 Ancient Tomb
-1 Cavern of Souls
-1 Rogue's Passage
-1 Buried Ruin
-1 Reliquary Tower
-1 Tolaria West
 1 Sea of Clouds
-1 Hallowed Fountain
-1 Steam Vents
-1 Sacred Foundry
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -24,9 +13,20 @@ Creatures: 3
 1 Flooded Strand
 1 Scalding Tarn
 1 Arid Mesa
-1 Mystic Monastery
 1 Windbrisk Heights
 1 Spinerock Knoll
+1 Command Tower
+1 Exotic Orchard
+1 Cavern of Souls
+1 Mystic Monastery
+1 Hallowed Fountain
+1 Steam Vents
+1 Sacred Foundry
+1 Ancient Tomb
+1 Buried Ruin
+1 Rogue's Passage
+1 Reliquary Tower
+1 Tolaria West
 4 Plains
 3 Island
 3 Mountain
