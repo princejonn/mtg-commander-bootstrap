@@ -1,5 +1,5 @@
-Lands: 35
-Mana Ramp: 11
+Lands: 31
+Mana Ramp: 15
 Card Draw: 9
 Removals: 7
 Utility: 6
@@ -17,9 +17,6 @@ Utility: 6
 1 Stomping Ground
 1 Steam Vents
 1 Breeding Pool
-1 Wooded Foothills
-1 Scalding Tarn
-1 Misty Rainforest
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -35,18 +32,22 @@ Utility: 6
 1 Flooded Grove
 2 Island
 2 Forest
-2 Mountain
+1 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
 1 Arcane Signet
 1 Commander's Sphere
+1 Chromatic Lantern
 1 Expedition Map
 1 Wayfarer's Bauble
 1 Gruul Signet
 1 Izzet Signet
 1 Simic Signet
 1 Temur Banner
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Mulldrifter

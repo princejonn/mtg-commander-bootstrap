@@ -1,11 +1,10 @@
-Lands: 32
-Mana Ramp: 14
+Lands: 31
+Mana Ramp: 15
 Card Draw: 5
 Removals: 13
 Utility: 3
 
 1 Command Tower
-1 Exotic Orchard
 1 Ancient Tomb
 1 Bojuka Bog
 1 Cavern of Souls
@@ -18,24 +17,19 @@ Utility: 3
 1 Phyrexian Tower
 1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
-1 Caves of Koilos
-1 Silent Clearing
 1 Isolated Chapel
 1 Concealed Courtyard
 1 Godless Shrine
-1 Marsh Flats
 1 Prismatic Vista
 1 Myriad Landscape
+1 Terramorphic Expanse
+1 Evolving Wilds
 1 Orzhova, the Church of Deals
-1 Tainted Field
-1 Ancient Den
-1 Vault of Whispers
-1 Darksteel Citadel
 1 Windbrisk Heights
 1 Orzhov Basilica
 1 Fetid Heath
-1 Plains
-1 Swamp
+4 Plains
+3 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -48,8 +42,9 @@ Utility: 3
 1 Land Tax
 1 Smothering Tithe
 1 Legion's Landing
-1 Arguel's Blood Fast
 1 Profane Procession
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Phyrexian Arena

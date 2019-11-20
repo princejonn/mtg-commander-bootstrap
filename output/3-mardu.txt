@@ -1,5 +1,5 @@
-Lands: 33
-Mana Ramp: 13
+Lands: 30
+Mana Ramp: 16
 Card Draw: 5
 Removals: 9
 Utility: 3
@@ -17,9 +17,6 @@ Utility: 3
 1 Blood Crypt
 1 Godless Shrine
 1 Sacred Foundry
-1 Bloodstained Mire
-1 Marsh Flats
-1 Arid Mesa
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -41,6 +38,7 @@ Utility: 3
 1 Thought Vessel
 1 Arcane Signet
 1 Commander's Sphere
+1 Chromatic Lantern
 1 Expedition Map
 1 Wayfarer's Bauble
 1 Rakdos Signet
@@ -49,6 +47,8 @@ Utility: 3
 1 Mardu Banner
 1 Land Tax
 1 Smothering Tithe
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Faithless Looting

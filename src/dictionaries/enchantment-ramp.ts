@@ -57,16 +57,6 @@ export const TransformLand: TCardArray = [
     ],
   },
   {
-    name: "Arguel's Blood Fast",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
     name: "Growing Rites of Itlimoc",
     casual: true,
     competitive: false,

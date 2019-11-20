@@ -1,5 +1,5 @@
-Lands: 33
-Mana Ramp: 13
+Lands: 30
+Mana Ramp: 16
 Card Draw: 5
 Removals: 7
 Utility: 6
@@ -16,9 +16,6 @@ Utility: 6
 1 Hallowed Fountain
 1 Steam Vents
 1 Sacred Foundry
-1 Flooded Strand
-1 Scalding Tarn
-1 Arid Mesa
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -40,6 +37,7 @@ Utility: 6
 1 Thought Vessel
 1 Arcane Signet
 1 Commander's Sphere
+1 Chromatic Lantern
 1 Expedition Map
 1 Wayfarer's Bauble
 1 Azorius Signet
@@ -48,6 +46,8 @@ Utility: 6
 1 Jeskai Banner
 1 Land Tax
 1 Smothering Tithe
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Mulldrifter

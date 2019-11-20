@@ -7,9 +7,37 @@ export const CreatureRamp: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 5,
     colorIdentity: [
       [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Solemn Simulacrum",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Burnished Hart",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
     ],
   },
 ];

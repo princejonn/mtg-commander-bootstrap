@@ -63,7 +63,7 @@ export const DefaultArtifacts: TCardArray = [
     name: "Fellwar Stone",
     casual: false,
     competitive: true,
-    minColors: 4,
+    minColors: 3,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -91,7 +91,7 @@ export const DefaultArtifacts: TCardArray = [
     name: "Chromatic Lantern",
     casual: true,
     competitive: false,
-    minColors: 4,
+    minColors: 3,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -105,7 +105,7 @@ export const DefaultArtifacts: TCardArray = [
     name: "Expedition Map",
     casual: true,
     competitive: false,
-    minColors: 2,
+    minColors: 1,
     maxColors: 3,
     colorIdentity: [
       [ Color.WHITE ],

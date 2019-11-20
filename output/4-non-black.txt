@@ -1,5 +1,5 @@
-Lands: 29
-Mana Ramp: 17
+Lands: 26
+Mana Ramp: 20
 Card Draw: 7
 Removals: 7
 Utility: 5
@@ -21,9 +21,6 @@ Utility: 5
 1 Steam Vents
 1 Sacred Foundry
 1 Breeding Pool
-1 Flooded Strand
-1 Wooded Foothills
-1 Windswept Heath
 1 Bant Panorama
 1 Naya Panorama
 1 Prismatic Vista
@@ -57,6 +54,9 @@ Utility: 5
 1 Temur Banner
 1 Jeskai Banner
 1 Land Tax
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Harmonize

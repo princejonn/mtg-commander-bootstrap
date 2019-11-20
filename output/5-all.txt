@@ -1,5 +1,5 @@
-Lands: 31
-Mana Ramp: 15
+Lands: 28
+Mana Ramp: 18
 Card Draw: 9
 Removals: 9
 Utility: 5
@@ -19,11 +19,6 @@ Utility: 5
 1 Luxury Suite
 1 Spire Garden
 1 Bountiful Promenade
-1 Flooded Strand
-1 Polluted Delta
-1 Bloodstained Mire
-1 Wooded Foothills
-1 Windswept Heath
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse
@@ -59,6 +54,9 @@ Utility: 5
 1 Obelisk of Grixis
 1 Obelisk of Esper
 1 Land Tax
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Night's Whisper
 1 Harmonize

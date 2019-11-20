@@ -1,5 +1,5 @@
-Lands: 35
-Mana Ramp: 11
+Lands: 31
+Mana Ramp: 15
 Card Draw: 9
 Removals: 9
 Utility: 4
@@ -19,9 +19,6 @@ Utility: 4
 1 Blood Crypt
 1 Stomping Ground
 1 Overgrown Tomb
-1 Bloodstained Mire
-1 Wooded Foothills
-1 Verdant Catacombs
 1 Jund Panorama
 1 Prismatic Vista
 1 Myriad Landscape
@@ -38,18 +35,21 @@ Utility: 4
 1 Twilight Mire
 1 Swamp
 1 Forest
-1 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
 1 Arcane Signet
 1 Commander's Sphere
+1 Chromatic Lantern
 1 Expedition Map
 1 Wayfarer's Bauble
 1 Rakdos Signet
 1 Gruul Signet
 1 Golgari Signet
 1 Obelisk of Jund
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Harmonize

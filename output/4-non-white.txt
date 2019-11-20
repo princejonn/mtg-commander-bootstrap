@@ -1,5 +1,5 @@
-Lands: 30
-Mana Ramp: 16
+Lands: 27
+Mana Ramp: 19
 Card Draw: 10
 Removals: 7
 Utility: 3
@@ -23,9 +23,6 @@ Utility: 3
 1 Steam Vents
 1 Overgrown Tomb
 1 Breeding Pool
-1 Polluted Delta
-1 Bloodstained Mire
-1 Wooded Foothills
 1 Jund Panorama
 1 Grixis Panorama
 1 Prismatic Vista
@@ -57,6 +54,9 @@ Utility: 3
 1 Obelisk of Grixis
 1 Sultai Banner
 1 Temur Banner
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper

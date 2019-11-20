@@ -21,7 +21,7 @@ export const DefaultLands: TCardArray = [
     name: "Exotic Orchard",
     casual: true,
     competitive: false,
-    minColors: 2,
+    minColors: 3,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -466,159 +466,6 @@ export const DualLands: TCardArray = [
   },
 ];
 
-export const PainLands: TCardArray = [
-  {
-    name: "Adarkar Wastes",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.AZORIUS,
-    ],
-  },
-  {
-    name: "Underground River",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.DIMIR,
-    ],
-  },
-  {
-    name: "Sulfurous Springs",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.RAKDOS,
-    ],
-  },
-  {
-    name: "Karplusan Forest",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GRUUL,
-    ],
-  },
-  {
-    name: "Brushland",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SELESNYA,
-    ],
-  },
-  {
-    name: "Caves of Koilos",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.ORZHOV,
-    ],
-  },
-  {
-    name: "Shivan Reef",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.IZZET,
-    ],
-  },
-  {
-    name: "Llanowar Wastes",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GOLGARI,
-    ],
-  },
-  {
-    name: "Battlefield Forge",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.BOROS,
-    ],
-  },
-  {
-    name: "Yavimaya Coast",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SIMIC,
-    ],
-  },
-  {
-    name: "Silent Clearing",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.ORZHOV,
-    ],
-  },
-  {
-    name: "Fiery Islet",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.IZZET,
-    ],
-  },
-  {
-    name: "Nurturing Peatland",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GOLGARI,
-    ],
-  },
-  {
-    name: "Sunbaked Canyon",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.BOROS,
-    ],
-  },
-  {
-    name: "Waterlogged Grove",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SIMIC,
-    ],
-  },
-];
-
 export const BattleLands: TCardArray = [
   {
     name: "Prairie Stream",
@@ -931,59 +778,6 @@ export const FastLands: TCardArray = [
   },
 ];
 
-export const RevealLands: TCardArray = [
-  {
-    name: "Port Town",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.AZORIUS,
-    ],
-  },
-  {
-    name: "Choked Estuary",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.DIMIR,
-    ],
-  },
-  {
-    name: "Foreboding Ruins",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.RAKDOS,
-    ],
-  },
-  {
-    name: "Game Trail",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GRUUL,
-    ],
-  },
-  {
-    name: "Fortified Village",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SELESNYA,
-    ],
-  },
-];
-
 export const ShockLands: TCardArray = [
   {
     name: "Hallowed Fountain",
@@ -1090,7 +884,7 @@ export const ShockLands: TCardArray = [
 export const FetchLands: TCardArray = [
   {
     name: "Flooded Strand",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1100,7 +894,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Polluted Delta",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1110,7 +904,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Bloodstained Mire",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1120,7 +914,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Wooded Foothills",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1130,7 +924,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Windswept Heath",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1140,7 +934,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Marsh Flats",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1150,7 +944,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Scalding Tarn",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1160,7 +954,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Verdant Catacombs",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1170,7 +964,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Arid Mesa",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1180,7 +974,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Misty Rainforest",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1242,7 +1036,7 @@ export const FetchLands: TCardArray = [
     name: "Prismatic Vista",
     casual: true,
     competitive: false,
-    minColors: 2,
+    minColors: 1,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -1270,7 +1064,7 @@ export const FetchLands: TCardArray = [
     name: "Terramorphic Expanse",
     casual: true,
     competitive: false,
-    minColors: 3,
+    minColors: 1,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -1284,7 +1078,7 @@ export const FetchLands: TCardArray = [
     name: "Evolving Wilds",
     casual: true,
     competitive: false,
-    minColors: 3,
+    minColors: 1,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -1399,49 +1193,6 @@ export const GuildHalls: TCardArray = [
   },
 ];
 
-export const TaintedLands: TCardArray = [
-  {
-    name: "Tainted Field",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.ORZHOV,
-    ],
-  },
-  {
-    name: "Tainted Isle",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.DIMIR,
-    ],
-  },
-  {
-    name: "Tainted Peak",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.RAKDOS,
-    ],
-  },
-  {
-    name: "Tainted Wood",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GOLGARI,
-    ],
-  },
-];
-
 export const ShardLands: TCardArray = [
   {
     name: "Savage Lands",
@@ -1541,73 +1292,6 @@ export const ShardLands: TCardArray = [
     maxColors: 5,
     colorIdentity: [
       Shard.ABZAN,
-    ],
-  },
-];
-
-export const ArtifactLands: TCardArray = [
-  {
-    name: "Ancient Den",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.WHITE ],
-    ],
-  },
-  {
-    name: "Seat of the Synod",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Vault of Whispers",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Tree of Tales",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
-  {
-    name: "Great Furnace",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Darksteel Citadel",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
     ],
   },
 ];

@@ -1,11 +1,10 @@
-Lands: 34
-Mana Ramp: 12
+Lands: 31
+Mana Ramp: 15
 Card Draw: 9
 Removals: 7
 Utility: 7
 
 1 Command Tower
-1 Exotic Orchard
 1 Ancient Tomb
 1 Cavern of Souls
 1 Rogue's Passage
@@ -17,23 +16,19 @@ Utility: 7
 1 Gaea's Cradle
 1 Okina, Temple to the Grandfathers
 1 Pendelhaven
-1 Yavimaya Coast
-1 Waterlogged Grove
 1 Hinterland Harbor
 1 Botanical Sanctum
 1 Breeding Pool
-1 Misty Rainforest
 1 Prismatic Vista
 1 Myriad Landscape
+1 Terramorphic Expanse
+1 Evolving Wilds
 1 Novijen, Heart of Progress
-1 Seat of the Synod
-1 Tree of Tales
-1 Darksteel Citadel
 1 Mosswort Bridge
 1 Simic Growth Chamber
 1 Flooded Grove
-3 Island
-3 Forest
+4 Island
+4 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -46,6 +41,9 @@ Utility: 7
 1 Search for Azcanta
 1 Growing Rites of Itlimoc
 1 Hadana's Climb UG
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Mulldrifter

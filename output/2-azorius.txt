@@ -1,11 +1,10 @@
-Lands: 33
-Mana Ramp: 13
+Lands: 31
+Mana Ramp: 15
 Card Draw: 5
 Removals: 9
 Utility: 7
 
 1 Command Tower
-1 Exotic Orchard
 1 Ancient Tomb
 1 Cavern of Souls
 1 Rogue's Passage
@@ -17,25 +16,21 @@ Utility: 7
 1 Flagstones of Trokair
 1 Minamo, School at Water's Edge
 1 Academy Ruins
-1 Adarkar Wastes
 1 Prairie Stream
 1 Sea of Clouds
 1 Glacial Fortress
 1 Seachrome Coast
-1 Port Town
 1 Hallowed Fountain
-1 Flooded Strand
 1 Prismatic Vista
 1 Myriad Landscape
+1 Terramorphic Expanse
+1 Evolving Wilds
 1 Prahv, Spires of Order
-1 Ancient Den
-1 Seat of the Synod
-1 Darksteel Citadel
 1 Windbrisk Heights
 1 Azorius Chancery
 1 Mystic Gate
-2 Plains
-1 Island
+3 Plains
+3 Island
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -49,6 +44,8 @@ Utility: 7
 1 Smothering Tithe
 1 Legion's Landing
 1 Search for Azcanta
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Mulldrifter

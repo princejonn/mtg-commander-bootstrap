@@ -1,5 +1,5 @@
-Lands: 33
-Mana Ramp: 13
+Lands: 30
+Mana Ramp: 16
 Card Draw: 8
 Removals: 10
 Utility: 7
@@ -19,9 +19,6 @@ Utility: 7
 1 Hallowed Fountain
 1 Watery Grave
 1 Godless Shrine
-1 Flooded Strand
-1 Polluted Delta
-1 Marsh Flats
 1 Esper Panorama
 1 Prismatic Vista
 1 Myriad Landscape
@@ -42,6 +39,7 @@ Utility: 7
 1 Thought Vessel
 1 Arcane Signet
 1 Commander's Sphere
+1 Chromatic Lantern
 1 Expedition Map
 1 Wayfarer's Bauble
 1 Azorius Signet
@@ -50,6 +48,8 @@ Utility: 7
 1 Obelisk of Esper
 1 Land Tax
 1 Smothering Tithe
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Mulldrifter

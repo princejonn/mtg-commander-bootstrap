@@ -1,5 +1,5 @@
-Lands: 39
-Mana Ramp: 7
+Lands: 36
+Mana Ramp: 10
 Card Draw: 3
 Removals: 3
 Utility: 0
@@ -13,18 +13,22 @@ Utility: 0
 1 Shivan Gorge
 1 Shinka, the Bloodsoaked Keep
 1 Kher Keep
+1 Prismatic Vista
 1 Myriad Landscape
-1 Great Furnace
-1 Darksteel Citadel
+1 Terramorphic Expanse
+1 Evolving Wilds
 1 Spinerock Knoll
-26 Mountain
+22 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
 1 Arcane Signet
+1 Expedition Map
 1 Fire Diamond
 1 Ruby Medallion
 1 Vance's Blasting Cannons
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Faithless Looting
 1 Cathartic Reunion
 1 Gamble
