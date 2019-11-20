@@ -28,6 +28,7 @@ Creatures: 3
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Blighted Woodland
 1 Flooded Strand
 1 Polluted Delta
 1 Windswept Heath

@@ -639,6 +639,16 @@ export const DefaultFetchLands: TCardArray = [
       [ Color.RED ],
     ],
   },
+  {
+    name: "Blighted Woodland",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
 ];
 
 export const GuildFetchLands: TCardArray = [

@@ -21,13 +21,14 @@ Creatures: 3
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Blighted Woodland
 1 Windswept Heath
 1 Vitu-Ghazi, the City-Tree
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Selesnya Sanctuary
 1 Wooded Bastion
-7 Plains
+6 Plains
 6 Forest
 1 Sol Ring
 1 Mind Stone

@@ -22,6 +22,7 @@ Creatures: 4
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Blighted Woodland
 1 Wooded Foothills
 1 Scalding Tarn
 1 Misty Rainforest
@@ -29,7 +30,7 @@ Creatures: 4
 1 Mosswort Bridge
 1 Spinerock Knoll
 4 Island
-4 Forest
+3 Forest
 3 Mountain
 1 Sol Ring
 1 Mind Stone

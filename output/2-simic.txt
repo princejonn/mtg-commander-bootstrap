@@ -21,13 +21,14 @@ Creatures: 4
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Blighted Woodland
 1 Misty Rainforest
 1 Novijen, Heart of Progress
 1 Mosswort Bridge
 1 Simic Growth Chamber
 1 Flooded Grove
 8 Island
-8 Forest
+7 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

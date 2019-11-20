@@ -24,12 +24,13 @@ Creatures: 4
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Blighted Woodland
 1 Polluted Delta
 1 Verdant Catacombs
 1 Misty Rainforest
 1 Opulent Palace
 1 Mosswort Bridge
-4 Island
+3 Island
 3 Swamp
 3 Forest
 1 Sol Ring
