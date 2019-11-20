@@ -22,6 +22,9 @@ Utility: 5
 1 Godless Shrine
 1 Steam Vents
 1 Sacred Foundry
+1 Flooded Strand
+1 Polluted Delta
+1 Bloodstained Mire
 1 Grixis Panorama
 1 Esper Panorama
 1 Prismatic Vista

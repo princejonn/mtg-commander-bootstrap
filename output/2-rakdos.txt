@@ -25,10 +25,9 @@ Utility: 2
 1 Blackcleave Cliffs
 1 Foreboding Ruins
 1 Blood Crypt
+1 Bloodstained Mire
 1 Prismatic Vista
 1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
 1 Rix Maadi, Dungeon Palace
 1 Tainted Peak
 1 Vault of Whispers
@@ -37,7 +36,7 @@ Utility: 2
 1 Spinerock Knoll
 1 Rakdos Carnarium
 1 Graven Cairns
-1 Swamp
+2 Swamp
 1 Mountain
 1 Sol Ring
 1 Mind Stone

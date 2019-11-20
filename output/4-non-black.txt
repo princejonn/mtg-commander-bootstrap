@@ -21,6 +21,9 @@ Utility: 5
 1 Steam Vents
 1 Sacred Foundry
 1 Breeding Pool
+1 Flooded Strand
+1 Wooded Foothills
+1 Windswept Heath
 1 Bant Panorama
 1 Naya Panorama
 1 Prismatic Vista

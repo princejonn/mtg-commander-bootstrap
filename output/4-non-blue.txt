@@ -23,6 +23,9 @@ Utility: 1
 1 Godless Shrine
 1 Overgrown Tomb
 1 Sacred Foundry
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Windswept Heath
 1 Jund Panorama
 1 Naya Panorama
 1 Prismatic Vista

@@ -1090,7 +1090,7 @@ export const ShockLands: TCardArray = [
 export const FetchLands: TCardArray = [
   {
     name: "Flooded Strand",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1100,7 +1100,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Polluted Delta",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1110,7 +1110,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Bloodstained Mire",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1120,7 +1120,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Wooded Foothills",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1130,7 +1130,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Windswept Heath",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 5,
@@ -1140,7 +1140,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Marsh Flats",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1150,7 +1150,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Scalding Tarn",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1160,7 +1160,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Verdant Catacombs",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1170,7 +1170,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Arid Mesa",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1180,7 +1180,7 @@ export const FetchLands: TCardArray = [
   },
   {
     name: "Misty Rainforest",
-    casual: false,
+    casual: true,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1270,7 +1270,7 @@ export const FetchLands: TCardArray = [
     name: "Terramorphic Expanse",
     casual: true,
     competitive: false,
-    minColors: 2,
+    minColors: 3,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -1284,7 +1284,7 @@ export const FetchLands: TCardArray = [
     name: "Evolving Wilds",
     casual: true,
     competitive: false,
-    minColors: 2,
+    minColors: 3,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],

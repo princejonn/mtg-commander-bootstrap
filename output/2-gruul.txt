@@ -24,10 +24,9 @@ Utility: 3
 1 Copperline Gorge
 1 Game Trail
 1 Stomping Ground
+1 Wooded Foothills
 1 Prismatic Vista
 1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
 1 Skarrg, the Rage Pits
 1 Tree of Tales
 1 Great Furnace
@@ -37,7 +36,7 @@ Utility: 3
 1 Gruul Turf
 1 Fire-lit Thicket
 2 Forest
-1 Mountain
+2 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

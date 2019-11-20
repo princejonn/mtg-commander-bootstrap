@@ -23,6 +23,9 @@ Utility: 3
 1 Steam Vents
 1 Overgrown Tomb
 1 Breeding Pool
+1 Polluted Delta
+1 Bloodstained Mire
+1 Wooded Foothills
 1 Jund Panorama
 1 Grixis Panorama
 1 Prismatic Vista

@@ -17,6 +17,9 @@ Utility: 4
 1 Stomping Ground
 1 Temple Garden
 1 Sacred Foundry
+1 Wooded Foothills
+1 Windswept Heath
+1 Arid Mesa
 1 Naya Panorama
 1 Prismatic Vista
 1 Myriad Landscape
@@ -32,9 +35,8 @@ Utility: 4
 1 Fire-lit Thicket
 1 Wooded Bastion
 1 Rugged Prairie
-2 Plains
-2 Forest
-1 Mountain
+1 Plains
+1 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

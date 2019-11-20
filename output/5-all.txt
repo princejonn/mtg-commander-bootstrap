@@ -19,6 +19,11 @@ Utility: 5
 1 Luxury Suite
 1 Spire Garden
 1 Bountiful Promenade
+1 Flooded Strand
+1 Polluted Delta
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Windswept Heath
 1 Prismatic Vista
 1 Myriad Landscape
 1 Terramorphic Expanse

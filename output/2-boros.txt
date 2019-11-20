@@ -22,10 +22,9 @@ Utility: 2
 1 Clifftop Retreat
 1 Inspiring Vantage
 1 Sacred Foundry
+1 Arid Mesa
 1 Prismatic Vista
 1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
 1 Sunhome, Fortress of the Legion
 1 Ancient Den
 1 Great Furnace
@@ -34,7 +33,7 @@ Utility: 2
 1 Spinerock Knoll
 1 Boros Garrison
 1 Rugged Prairie
-1 Plains
+2 Plains
 1 Mountain
 1 Sol Ring
 1 Mind Stone

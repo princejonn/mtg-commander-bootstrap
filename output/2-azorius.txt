@@ -24,10 +24,9 @@ Utility: 7
 1 Seachrome Coast
 1 Port Town
 1 Hallowed Fountain
+1 Flooded Strand
 1 Prismatic Vista
 1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
 1 Prahv, Spires of Order
 1 Ancient Den
 1 Seat of the Synod
@@ -35,7 +34,7 @@ Utility: 7
 1 Windbrisk Heights
 1 Azorius Chancery
 1 Mystic Gate
-1 Plains
+2 Plains
 1 Island
 1 Sol Ring
 1 Mind Stone
