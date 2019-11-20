@@ -16,10 +16,7 @@ Utility: 4
 1 Gaea's Cradle
 1 Okina, Temple to the Grandfathers
 1 Pendelhaven
-1 Canopy Vista
 1 Bountiful Promenade
-1 Sunpetal Grove
-1 Razorverge Thicket
 1 Temple Garden
 1 Prismatic Vista
 1 Myriad Landscape
@@ -30,8 +27,8 @@ Utility: 4
 1 Mosswort Bridge
 1 Selesnya Sanctuary
 1 Wooded Bastion
-2 Plains
-2 Forest
+4 Plains
+3 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

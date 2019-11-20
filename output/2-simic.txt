@@ -16,8 +16,6 @@ Utility: 7
 1 Gaea's Cradle
 1 Okina, Temple to the Grandfathers
 1 Pendelhaven
-1 Hinterland Harbor
-1 Botanical Sanctum
 1 Breeding Pool
 1 Prismatic Vista
 1 Myriad Landscape
@@ -27,8 +25,8 @@ Utility: 7
 1 Mosswort Bridge
 1 Simic Growth Chamber
 1 Flooded Grove
-4 Island
-4 Forest
+5 Island
+5 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

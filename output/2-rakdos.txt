@@ -17,10 +17,7 @@ Utility: 2
 1 Shivan Gorge
 1 Shinka, the Bloodsoaked Keep
 1 Kher Keep
-1 Smoldering Marsh
 1 Luxury Suite
-1 Dragonskull Summit
-1 Blackcleave Cliffs
 1 Blood Crypt
 1 Prismatic Vista
 1 Myriad Landscape
@@ -30,8 +27,8 @@ Utility: 2
 1 Spinerock Knoll
 1 Rakdos Carnarium
 1 Graven Cairns
-4 Swamp
-4 Mountain
+6 Swamp
+5 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

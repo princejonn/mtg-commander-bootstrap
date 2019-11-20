@@ -16,10 +16,7 @@ Utility: 3
 1 Shivan Gorge
 1 Shinka, the Bloodsoaked Keep
 1 Kher Keep
-1 Cinder Glade
 1 Spire Garden
-1 Rootbound Crag
-1 Copperline Gorge
 1 Stomping Ground
 1 Prismatic Vista
 1 Myriad Landscape
@@ -30,8 +27,8 @@ Utility: 3
 1 Spinerock Knoll
 1 Gruul Turf
 1 Fire-lit Thicket
-3 Forest
-3 Mountain
+5 Forest
+4 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

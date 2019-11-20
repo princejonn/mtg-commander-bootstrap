@@ -17,10 +17,7 @@ Utility: 6
 1 Phyrexian Tower
 1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
-1 Sunken Hollow
 1 Morphic Pool
-1 Drowned Catacomb
-1 Darkslick Shores
 1 Watery Grave
 1 Prismatic Vista
 1 Myriad Landscape
@@ -29,8 +26,8 @@ Utility: 6
 1 Duskmantle, House of Shadow
 1 Dimir Aqueduct
 1 Sunken Ruins
-5 Island
-4 Swamp
+6 Island
+6 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
