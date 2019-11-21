@@ -18,7 +18,6 @@ Creatures: 2
 1 Vitu-Ghazi, the City-Tree
 1 Windbrisk Heights
 1 Mosswort Bridge
-1 Serra's Sanctum
 1 Eiganjo Castle
 1 Gaea's Cradle
 1 Okina, Temple to the Grandfathers
@@ -31,7 +30,7 @@ Creatures: 2
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-3 Plains
+4 Plains
 3 Forest
 1 Sol Ring
 1 Mind Stone

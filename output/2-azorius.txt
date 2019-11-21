@@ -16,7 +16,6 @@ Creatures: 3
 1 Mystic Gate
 1 Prahv, Spires of Order
 1 Windbrisk Heights
-1 Serra's Sanctum
 1 Eiganjo Castle
 1 Minamo, School at Water's Edge
 1 Academy Ruins
@@ -30,7 +29,7 @@ Creatures: 3
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
-5 Plains
+6 Plains
 5 Island
 1 Sol Ring
 1 Mind Stone

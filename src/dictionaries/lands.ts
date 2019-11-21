@@ -879,16 +879,6 @@ export const HideawayLands: TCardArray = [
 
 export const LegendaryLands: TCardArray = [
   {
-    name: "Serra's Sanctum",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.WHITE ],
-    ],
-  },
-  {
     name: "Eiganjo Castle",
     casual: true,
     competitive: false,

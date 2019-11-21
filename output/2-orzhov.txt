@@ -14,7 +14,6 @@ Creatures: 2
 1 Fetid Heath
 1 Orzhova, the Church of Deals
 1 Windbrisk Heights
-1 Serra's Sanctum
 1 Eiganjo Castle
 1 Phyrexian Tower
 1 Shizo, Death's Storehouse
@@ -30,7 +29,7 @@ Creatures: 2
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-5 Plains
+6 Plains
 5 Swamp
 1 Sol Ring
 1 Mind Stone
