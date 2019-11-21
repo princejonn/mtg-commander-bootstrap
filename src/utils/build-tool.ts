@@ -1,7 +1,6 @@
-import * as artifactRamp from "../dictionaries/artifact-ramp";
-import * as cardDraw from "../dictionaries/card-draw";
+import * as artifacts from "../dictionaries/artifacts";
 import * as creatures from "../dictionaries/creatures";
-import * as enchantmentRamp from "../dictionaries/enchantment-ramp";
+import * as enchantments from "../dictionaries/enchantments";
 import * as lands from "../dictionaries/lands";
 import * as removals from "../dictionaries/removals";
 import * as utility from "../dictionaries/utility";
@@ -149,29 +148,27 @@ export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
   ];
 
   const artifactRampList: TSimpleCardList = [
-    ...getMatchingCards(colorList, artifactRamp.DefaultArtifacts),
-    ...getMatchingCards(colorList, artifactRamp.Diamonds),
-    ...getMatchingCards(colorList, artifactRamp.Medallions),
-    ...getMatchingCards(colorList, artifactRamp.Signets),
-    ...getMatchingCards(colorList, artifactRamp.Talismans),
-    ...getMatchingCards(colorList, artifactRamp.Obelisks),
-    ...getMatchingCards(colorList, artifactRamp.Banners),
+    ...getMatchingCards(colorList, artifacts.ArtifactRamp),
+    ...getMatchingCards(colorList, artifacts.BannerRamp),
+    ...getMatchingCards(colorList, artifacts.DiamondRamp),
+    ...getMatchingCards(colorList, artifacts.MedallionRamp),
+    ...getMatchingCards(colorList, artifacts.ObeliskRamp),
+    ...getMatchingCards(colorList, artifacts.SignetRamp),
+    ...getMatchingCards(colorList, artifacts.TalismanRamp),
   ];
 
-  const enchantmentRampList: TSimpleCardList = [
-    ...getMatchingCards(colorList, enchantmentRamp.DefaultEnchantments),
-  ];
-
-  const creatureRampList: TSimpleCardList = [
+  const spellRamp: TSimpleCardList = [
+    ...getMatchingCards(colorList, enchantments.EnchantmentRamp),
     ...getMatchingCards(colorList, creatures.CreatureRamp),
+    ...getMatchingCards(colorList, utility.SpellRamp),
   ];
 
-  const total = landList.length + artifactRampList.length + enchantmentRampList.length + creatureRampList.length;
+  const total = landList.length + artifactRampList.length + spellRamp.length;
   const missingBasicLands = 46 - total;
 
   const cardDrawList: TSimpleCardList = [
-    ...getMatchingCards(colorList, cardDraw.CardDraw),
-    ...getMatchingCards(colorList, cardDraw.Tutors),
+    ...getMatchingCards(colorList, utility.CardDraw),
+    ...getMatchingCards(colorList, utility.Tutors),
   ];
 
   const removalsList: TSimpleCardList = [
@@ -198,7 +195,7 @@ export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
       },
       manaRamp: {
         title: "Mana Ramp",
-        amount: artifactRampList.length + enchantmentRampList.length + creatureRampList.length,
+        amount: artifactRampList.length + spellRamp.length,
       },
       cardDraw: {
         title: "Card Draw",
@@ -221,8 +218,7 @@ export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
       ...landList,
       ...getBasicLands(colorList, missingBasicLands),
       ...artifactRampList,
-      ...enchantmentRampList,
-      ...creatureRampList,
+      ...spellRamp,
       ...cardDrawList,
       ...removalsList,
       ...utilityList,

@@ -42,15 +42,15 @@ Creatures: 2
 1 Chromatic Lantern
 1 Expedition Map
 1 Wayfarer's Bauble
+1 Obelisk of Naya
 1 Gruul Signet
 1 Selesnya Signet
 1 Boros Signet
-1 Obelisk of Naya
 1 Land Tax
 1 Smothering Tithe
+1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
-1 Birds of Paradise
 1 Harmonize
 1 Sylvan Library
 1 Faithless Looting

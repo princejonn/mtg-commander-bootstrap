@@ -1,7 +1,7 @@
 import { TCardArray } from "../types";
 import { Color } from "../enums";
 
-export const DefaultEnchantments: TCardArray = [
+export const EnchantmentRamp: TCardArray = [
 
   // WHITE
 
@@ -44,26 +44,6 @@ export const DefaultEnchantments: TCardArray = [
 
   // GREEN
 
-  {
-    name: "Cultivate",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
-  {
-    name: "Kodama's Reach",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
 
   // RED
 

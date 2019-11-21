@@ -45,19 +45,19 @@ Creatures: 2
 1 Arcane Signet
 1 Commander's Sphere
 1 Chromatic Lantern
+1 Sultai Banner
+1 Temur Banner
+1 Obelisk of Jund
+1 Obelisk of Grixis
 1 Dimir Signet
 1 Rakdos Signet
 1 Gruul Signet
 1 Izzet Signet
 1 Golgari Signet
 1 Simic Signet
-1 Obelisk of Jund
-1 Obelisk of Grixis
-1 Sultai Banner
-1 Temur Banner
+1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
-1 Birds of Paradise
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper

@@ -40,9 +40,9 @@ Creatures: 2
 1 Wayfarer's Bauble
 1 Gruul Signet
 1 Talisman of Impulse
+1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
-1 Birds of Paradise
 1 Harmonize
 1 Sylvan Library
 1 Faithless Looting

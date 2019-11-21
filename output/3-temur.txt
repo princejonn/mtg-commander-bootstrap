@@ -41,13 +41,13 @@ Creatures: 3
 1 Chromatic Lantern
 1 Expedition Map
 1 Wayfarer's Bauble
+1 Temur Banner
 1 Gruul Signet
 1 Izzet Signet
 1 Simic Signet
-1 Temur Banner
+1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
-1 Birds of Paradise
 1 Brainstorm
 1 Rhystic Study
 1 Harmonize

@@ -2,7 +2,7 @@ import { TCardArray } from "../types";
 import { Color } from "../enums";
 import { Guild, Shard } from "../constants";
 
-export const DefaultArtifacts: TCardArray = [
+export const ArtifactRamp: TCardArray = [
   {
     name: "Sol Ring",
     casual: true,
@@ -131,7 +131,60 @@ export const DefaultArtifacts: TCardArray = [
   },
 ];
 
-export const Diamonds: TCardArray = [
+export const BannerRamp: TCardArray = [
+  {
+    name: "Sultai Banner",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 4,
+    colorIdentity: [
+      Shard.SULTAI,
+    ],
+  },
+  {
+    name: "Temur Banner",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 4,
+    colorIdentity: [
+      Shard.TEMUR,
+    ],
+  },
+  {
+    name: "Mardu Banner",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 4,
+    colorIdentity: [
+      Shard.MARDU,
+    ],
+  },
+  {
+    name: "Jeskai Banner",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 4,
+    colorIdentity: [
+      Shard.JESKAI,
+    ],
+  },
+  {
+    name: "Abzan Banner",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 4,
+    colorIdentity: [
+      Shard.ABZAN,
+    ],
+  },
+];
+
+export const DiamondRamp: TCardArray = [
   {
     name: "Marble Diamond",
     casual: true,
@@ -184,7 +237,7 @@ export const Diamonds: TCardArray = [
   },
 ];
 
-export const Medallions: TCardArray = [
+export const MedallionRamp: TCardArray = [
   {
     name: "Pearl Medallion",
     casual: true,
@@ -237,7 +290,60 @@ export const Medallions: TCardArray = [
   },
 ];
 
-export const Signets: TCardArray = [
+export const ObeliskRamp: TCardArray = [
+  {
+    name: "Obelisk of Jund",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.JUND,
+    ],
+  },
+  {
+    name: "Obelisk of Bant",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.BANT,
+    ],
+  },
+  {
+    name: "Obelisk of Naya",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.NAYA,
+    ],
+  },
+  {
+    name: "Obelisk of Grixis",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.GRIXIS,
+    ],
+  },
+  {
+    name: "Obelisk of Esper",
+    casual: true,
+    competitive: false,
+    minColors: 3,
+    maxColors: 5,
+    colorIdentity: [
+      Shard.ESPER,
+    ],
+  },
+];
+
+export const SignetRamp: TCardArray = [
   {
     name: "Azorius Signet",
     casual: true,
@@ -340,7 +446,7 @@ export const Signets: TCardArray = [
   },
 ];
 
-export const Talismans: TCardArray = [
+export const TalismanRamp: TCardArray = [
   {
     name: "Talisman of Progress",
     casual: true,
@@ -439,112 +545,6 @@ export const Talismans: TCardArray = [
     maxColors: 2,
     colorIdentity: [
       Guild.SIMIC,
-    ],
-  },
-];
-
-export const Obelisks: TCardArray = [
-  {
-    name: "Obelisk of Jund",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.JUND,
-    ],
-  },
-  {
-    name: "Obelisk of Bant",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.BANT,
-    ],
-  },
-  {
-    name: "Obelisk of Naya",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.NAYA,
-    ],
-  },
-  {
-    name: "Obelisk of Grixis",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.GRIXIS,
-    ],
-  },
-  {
-    name: "Obelisk of Esper",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 5,
-    colorIdentity: [
-      Shard.ESPER,
-    ],
-  },
-];
-
-export const Banners: TCardArray = [
-  {
-    name: "Sultai Banner",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.SULTAI,
-    ],
-  },
-  {
-    name: "Temur Banner",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.TEMUR,
-    ],
-  },
-  {
-    name: "Mardu Banner",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.MARDU,
-    ],
-  },
-  {
-    name: "Jeskai Banner",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.JESKAI,
-    ],
-  },
-  {
-    name: "Abzan Banner",
-    casual: true,
-    competitive: false,
-    minColors: 3,
-    maxColors: 4,
-    colorIdentity: [
-      Shard.ABZAN,
     ],
   },
 ];

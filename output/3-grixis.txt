@@ -44,10 +44,10 @@ Creatures: 3
 1 Chromatic Lantern
 1 Expedition Map
 1 Wayfarer's Bauble
+1 Obelisk of Grixis
 1 Dimir Signet
 1 Rakdos Signet
 1 Izzet Signet
-1 Obelisk of Grixis
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper

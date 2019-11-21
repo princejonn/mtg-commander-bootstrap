@@ -41,9 +41,9 @@ Creatures: 2
 1 Wayfarer's Bauble
 1 Golgari Signet
 1 Talisman of Curiosity
+1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
-1 Birds of Paradise
 1 Night's Whisper
 1 Sign in Blood
 1 Phyrexian Arena
