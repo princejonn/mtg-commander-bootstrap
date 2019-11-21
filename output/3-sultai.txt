@@ -1,9 +1,9 @@
-Lands: 34
-Mana Ramp: 12
-Card Draw: 11
+Lands: 31
+Mana Ramp: 15
+Card Draw: 9
 Removals: 10
 Utility: 7
-Creatures: 4
+Creatures: 3
 
 1 Morphic Pool
 1 Dimir Aqueduct
@@ -34,9 +34,8 @@ Creatures: 4
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
-2 Island
-2 Swamp
-1 Forest
+1 Island
+1 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -49,6 +48,9 @@ Creatures: 4
 1 Golgari Signet
 1 Simic Signet
 1 Sultai Banner
+1 Cultivate
+1 Kodama's Reach
+1 Birds of Paradise
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper
@@ -58,8 +60,6 @@ Creatures: 4
 1 Mystical Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
-1 Kodama's Reach
-1 Cultivate
 1 Pongify
 1 Rapid Hybridization
 1 Hero's Downfall
@@ -78,6 +78,5 @@ Creatures: 4
 1 Mana Drain
 1 Swan Song
 1 Mulldrifter
-1 Birds of Paradise
 1 Solemn Simulacrum
 1 Burnished Hart

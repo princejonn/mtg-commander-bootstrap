@@ -1,9 +1,9 @@
-Lands: 30
-Mana Ramp: 16
-Card Draw: 10
+Lands: 27
+Mana Ramp: 19
+Card Draw: 8
 Removals: 7
 Utility: 3
-Creatures: 3
+Creatures: 2
 
 1 Morphic Pool
 1 Luxury Suite
@@ -56,6 +56,9 @@ Creatures: 3
 1 Obelisk of Grixis
 1 Sultai Banner
 1 Temur Banner
+1 Cultivate
+1 Kodama's Reach
+1 Birds of Paradise
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper
@@ -64,8 +67,6 @@ Creatures: 3
 1 Mystical Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
-1 Kodama's Reach
-1 Cultivate
 1 Hero's Downfall
 1 Murder
 1 Beast Within
@@ -76,6 +77,5 @@ Creatures: 3
 1 Counterspell
 1 Mana Drain
 1 Swan Song
-1 Birds of Paradise
 1 Solemn Simulacrum
 1 Burnished Hart

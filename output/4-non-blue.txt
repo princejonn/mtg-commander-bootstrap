@@ -1,9 +1,9 @@
-Lands: 29
-Mana Ramp: 17
-Card Draw: 7
+Lands: 26
+Mana Ramp: 20
+Card Draw: 5
 Removals: 9
 Utility: 1
-Creatures: 3
+Creatures: 2
 
 1 Luxury Suite
 1 Spire Garden
@@ -58,13 +58,14 @@ Creatures: 3
 1 Mardu Banner
 1 Abzan Banner
 1 Land Tax
+1 Cultivate
+1 Kodama's Reach
+1 Birds of Paradise
 1 Night's Whisper
 1 Harmonize
 1 Faithless Looting
 1 Demonic Tutor
 1 Vampiric Tutor
-1 Kodama's Reach
-1 Cultivate
 1 Path to Exile
 1 Swords to Plowshares
 1 Hero's Downfall
@@ -75,6 +76,5 @@ Creatures: 3
 1 Wrath of God
 1 Damnation
 1 Teferi's Protection
-1 Birds of Paradise
 1 Solemn Simulacrum
 1 Burnished Hart

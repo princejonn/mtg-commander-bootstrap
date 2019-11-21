@@ -24,16 +24,6 @@ export const Creatures: TCardArray = [
 
   // GREEN
 
-  {
-    name: "Birds of Paradise",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
 
   // RED
 
@@ -68,6 +58,40 @@ export const Creatures: TCardArray = [
       [ Color.RED ],
     ],
   },
+
+  // MULTI-COLORED
+
+];
+
+export const CreatureRamp: TCardArray = [
+
+  // WHITE
+
+
+  // BLUE
+
+
+  // BLACK
+
+
+  // GREEN
+
+  {
+    name: "Birds of Paradise",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+
+  // RED
+
+
+  // UNCOLORED
+
 
   // MULTI-COLORED
 

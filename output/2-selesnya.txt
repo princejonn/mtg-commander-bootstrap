@@ -1,9 +1,9 @@
-Lands: 35
-Mana Ramp: 11
-Card Draw: 5
+Lands: 32
+Mana Ramp: 14
+Card Draw: 3
 Removals: 10
 Utility: 6
-Creatures: 3
+Creatures: 2
 
 1 Bountiful Promenade
 1 Selesnya Sanctuary
@@ -30,8 +30,8 @@ Creatures: 3
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-5 Plains
-5 Forest
+4 Plains
+3 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -43,10 +43,11 @@ Creatures: 3
 1 Talisman of Unity
 1 Land Tax
 1 Smothering Tithe
+1 Cultivate
+1 Kodama's Reach
+1 Birds of Paradise
 1 Harmonize
 1 Sylvan Library
-1 Kodama's Reach
-1 Cultivate
 1 Eladamri's Call
 1 Path to Exile
 1 Swords to Plowshares
@@ -64,6 +65,5 @@ Creatures: 3
 1 Teferi's Protection
 1 Legion's Landing
 1 Growing Rites of Itlimoc
-1 Birds of Paradise
 1 Solemn Simulacrum
 1 Burnished Hart

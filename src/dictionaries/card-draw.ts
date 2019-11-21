@@ -264,26 +264,6 @@ export const Tutors: TCardArray = [
   // GREEN
 
   {
-    name: "Kodama's Reach",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
-  {
-    name: "Cultivate",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
-  {
     name: "Fauna Shaman",
     casual: true,
     competitive: false,

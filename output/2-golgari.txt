@@ -1,9 +1,9 @@
-Lands: 37
-Mana Ramp: 9
-Card Draw: 9
+Lands: 34
+Mana Ramp: 12
+Card Draw: 7
 Removals: 10
 Utility: 6
-Creatures: 3
+Creatures: 2
 
 1 Golgari Rot Farm
 1 Prismatic Vista
@@ -30,8 +30,8 @@ Creatures: 3
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-6 Swamp
-6 Forest
+5 Swamp
+4 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -41,6 +41,9 @@ Creatures: 3
 1 Wayfarer's Bauble
 1 Golgari Signet
 1 Talisman of Curiosity
+1 Cultivate
+1 Kodama's Reach
+1 Birds of Paradise
 1 Night's Whisper
 1 Sign in Blood
 1 Phyrexian Arena
@@ -48,8 +51,6 @@ Creatures: 3
 1 Sylvan Library
 1 Demonic Tutor
 1 Vampiric Tutor
-1 Kodama's Reach
-1 Cultivate
 1 Hero's Downfall
 1 Murder
 1 Beast Within
@@ -66,6 +67,5 @@ Creatures: 3
 1 Golgari Charm
 1 Growing Rites of Itlimoc
 1 Journey to Eternity BG
-1 Birds of Paradise
 1 Solemn Simulacrum
 1 Burnished Hart

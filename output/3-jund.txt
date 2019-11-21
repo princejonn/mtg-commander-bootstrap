@@ -1,9 +1,9 @@
-Lands: 34
-Mana Ramp: 12
-Card Draw: 9
+Lands: 31
+Mana Ramp: 15
+Card Draw: 7
 Removals: 9
 Utility: 4
-Creatures: 3
+Creatures: 2
 
 1 Luxury Suite
 1 Spire Garden
@@ -35,9 +35,7 @@ Creatures: 3
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-2 Swamp
-1 Forest
-1 Mountain
+1 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -50,6 +48,9 @@ Creatures: 3
 1 Gruul Signet
 1 Golgari Signet
 1 Obelisk of Jund
+1 Cultivate
+1 Kodama's Reach
+1 Birds of Paradise
 1 Night's Whisper
 1 Sign in Blood
 1 Harmonize
@@ -57,8 +58,6 @@ Creatures: 3
 1 Faithless Looting
 1 Demonic Tutor
 1 Vampiric Tutor
-1 Kodama's Reach
-1 Cultivate
 1 Hero's Downfall
 1 Murder
 1 Beast Within
@@ -72,6 +71,5 @@ Creatures: 3
 1 Eternal Witness
 1 Regrowth
 1 Jund Charm
-1 Birds of Paradise
 1 Solemn Simulacrum
 1 Burnished Hart
