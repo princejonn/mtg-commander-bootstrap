@@ -1,18 +1,19 @@
-Lands: 31
-Mana Ramp: 15
-Card Draw: 9
+Lands: 32
+Mana Ramp: 13
+Card Draw: 11
 Removals: 10
 Utility: 7
-Creatures: 3
+Creatures: 1
 
+1 Sunken Hollow
 1 Morphic Pool
 1 Dimir Aqueduct
 1 Golgari Rot Farm
 1 Simic Growth Chamber
-1 Prismatic Vista
-1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
+1 Fetid Pools
+1 Polluted Delta
+1 Verdant Catacombs
+1 Misty Rainforest
 1 Mosswort Bridge
 1 Urborg, Tomb of Yawgmoth
 1 Gaea's Cradle
@@ -22,8 +23,6 @@ Creatures: 3
 1 Watery Grave
 1 Overgrown Tomb
 1 Breeding Pool
-1 Tainted Isle
-1 Tainted Wood
 1 Cavern of Souls
 1 Path of Ancestry
 1 Unclaimed Territory
@@ -33,16 +32,14 @@ Creatures: 3
 1 Reliquary Tower
 1 Tolaria West
 2 Island
-1 Swamp
-1 Forest
+2 Swamp
+2 Forest
 1 Sol Ring
-1 Mind Stone
-1 Thought Vessel
 1 Arcane Signet
+1 Fellwar Stone
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
-1 Wayfarer's Bauble
 1 Sultai Banner
 1 Dimir Signet
 1 Golgari Signet
@@ -56,6 +53,8 @@ Creatures: 3
 1 Sign in Blood
 1 Harmonize
 1 Sylvan Library
+1 Momentous Fall
+1 Lifecrafter's Bestiary
 1 Mystical Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
@@ -76,6 +75,4 @@ Creatures: 3
 1 Counterspell
 1 Mana Drain
 1 Swan Song
-1 Mulldrifter
 1 Solemn Simulacrum
-1 Burnished Hart

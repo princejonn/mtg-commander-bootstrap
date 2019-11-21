@@ -200,7 +200,17 @@ export const CardDraw: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Lifecrafter's Bestiary",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
     colorIdentity: [
       [ Color.GREEN ],
     ],

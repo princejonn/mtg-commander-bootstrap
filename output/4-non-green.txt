@@ -1,20 +1,15 @@
-Lands: 29
+Lands: 28
 Mana Ramp: 17
 Card Draw: 7
 Removals: 8
 Utility: 5
-Creatures: 2
+Creatures: 0
 
 1 Sea of Clouds
 1 Morphic Pool
 1 Luxury Suite
-1 Prismatic Vista
-1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
 1 Shimmering Grotto
 1 Unknown Shores
-1 Crypt of the Eternals
 1 Windbrisk Heights
 1 Spinerock Knoll
 1 Urborg, Tomb of Yawgmoth
@@ -37,12 +32,13 @@ Creatures: 2
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
+1 Plains
 1 Sol Ring
-1 Mind Stone
-1 Thought Vessel
 1 Arcane Signet
+1 Fellwar Stone
 1 Commander's Sphere
 1 Chromatic Lantern
+1 Expedition Map
 1 Mardu Banner
 1 Jeskai Banner
 1 Obelisk of Grixis
@@ -74,5 +70,3 @@ Creatures: 2
 1 Mana Drain
 1 Swan Song
 1 Dovin's Veto
-1 Solemn Simulacrum
-1 Burnished Hart

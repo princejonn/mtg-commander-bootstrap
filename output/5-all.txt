@@ -1,22 +1,17 @@
-Lands: 28
-Mana Ramp: 18
-Card Draw: 7
+Lands: 25
+Mana Ramp: 20
+Card Draw: 8
 Removals: 9
 Utility: 5
-Creatures: 2
+Creatures: 0
 
 1 Sea of Clouds
 1 Morphic Pool
 1 Luxury Suite
 1 Spire Garden
 1 Bountiful Promenade
-1 Prismatic Vista
-1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
 1 Shimmering Grotto
 1 Unknown Shores
-1 Crypt of the Eternals
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Spinerock Knoll
@@ -43,8 +38,10 @@ Creatures: 2
 1 Reliquary Tower
 1 Sol Ring
 1 Arcane Signet
+1 Fellwar Stone
 1 Commander's Sphere
 1 Chromatic Lantern
+1 Expedition Map
 1 Obelisk of Jund
 1 Obelisk of Bant
 1 Obelisk of Naya
@@ -62,6 +59,7 @@ Creatures: 2
 1 Brainstorm
 1 Night's Whisper
 1 Harmonize
+1 Lifecrafter's Bestiary
 1 Faithless Looting
 1 Mystical Tutor
 1 Demonic Tutor
@@ -80,5 +78,3 @@ Creatures: 2
 1 Mana Drain
 1 Swan Song
 1 Dovin's Veto
-1 Solemn Simulacrum
-1 Burnished Hart

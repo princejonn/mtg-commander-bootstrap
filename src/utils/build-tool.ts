@@ -125,22 +125,24 @@ export const getCardText = (cardList: TSimpleCardList): Array<string> => {
 
 export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
   const landList: TSimpleCardList = [
+    ...getMatchingCards(colorList, lands.ArtifactLands),
+    ...getMatchingCards(colorList, lands.BattleLands),
     ...getMatchingCards(colorList, lands.BondLands),
     ...getMatchingCards(colorList, lands.BounceLands),
+    ...getMatchingCards(colorList, lands.CyclingLands),
     ...getMatchingCards(colorList, lands.DualLands),
     ...getMatchingCards(colorList, lands.FetchLands),
-    ...getMatchingCards(colorList, lands.FetchLandsGuild),
-    ...getMatchingCards(colorList, lands.FetchLandsShard),
+    ...getMatchingCards(colorList, lands.FetchLandsOnslaught),
+    ...getMatchingCards(colorList, lands.FetchLandsPanorama),
+    ...getMatchingCards(colorList, lands.FetchLandsZendikar),
     ...getMatchingCards(colorList, lands.FilterLands),
     ...getMatchingCards(colorList, lands.FilterLandsEventide),
     ...getMatchingCards(colorList, lands.FilterLandsShadowmoor),
-    ...getMatchingCards(colorList, lands.GuildHalls),
     ...getMatchingCards(colorList, lands.HideawayLands),
     ...getMatchingCards(colorList, lands.LegendaryLands),
     ...getMatchingCards(colorList, lands.MultiColoredLands),
     ...getMatchingCards(colorList, lands.ShardLands),
     ...getMatchingCards(colorList, lands.ShockLands),
-    ...getMatchingCards(colorList, lands.TaintedLands),
     ...getMatchingCards(colorList, lands.TribalLands),
     ...getMatchingCards(colorList, lands.UncoloredLands),
     ...getMatchingCards(colorList, lands.UtilityLands),
@@ -163,7 +165,7 @@ export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
   ];
 
   const total = landList.length + artifactRampList.length + spellRamp.length;
-  const missingBasicLands = 46 - total;
+  const missingBasicLands = 45 - total;
 
   const cardDrawList: TSimpleCardList = [
     ...getMatchingCards(colorList, utility.CardDraw),

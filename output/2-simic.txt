@@ -1,18 +1,17 @@
-Lands: 34
-Mana Ramp: 12
-Card Draw: 6
+Lands: 35
+Mana Ramp: 10
+Card Draw: 8
 Removals: 7
 Utility: 10
-Creatures: 3
+Creatures: 1
 
+1 Seat of the Synod
+1 Great Furnace
 1 Simic Growth Chamber
 1 Prismatic Vista
 1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
 1 Misty Rainforest
 1 Flooded Grove
-1 Novijen, Heart of Progress
 1 Mosswort Bridge
 1 Minamo, School at Water's Edge
 1 Academy Ruins
@@ -27,15 +26,13 @@ Creatures: 3
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
-6 Island
-6 Forest
+7 Island
+7 Forest
 1 Sol Ring
-1 Mind Stone
-1 Thought Vessel
 1 Arcane Signet
+1 Fellwar Stone
 1 Commander's Sphere
 1 Expedition Map
-1 Wayfarer's Bauble
 1 Simic Signet
 1 Talisman of Conviction
 1 Birds of Paradise
@@ -45,6 +42,8 @@ Creatures: 3
 1 Rhystic Study
 1 Harmonize
 1 Sylvan Library
+1 Momentous Fall
+1 Lifecrafter's Bestiary
 1 Mystical Tutor
 1 Merchant Scroll
 1 Pongify
@@ -64,6 +63,4 @@ Creatures: 3
 1 Search for Azcanta
 1 Growing Rites of Itlimoc
 1 Hadana's Climb UG
-1 Mulldrifter
 1 Solemn Simulacrum
-1 Burnished Hart

@@ -8,16 +8,6 @@ export const Creatures: TCardArray = [
 
   // BLUE
 
-  {
-    name: "Mulldrifter",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 3,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
 
   // BLACK
 
@@ -35,21 +25,7 @@ export const Creatures: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Burnished Hart",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
+    maxColors: 3,
     colorIdentity: [
       [ Color.WHITE ],
       [ Color.BLUE ],

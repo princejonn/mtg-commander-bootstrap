@@ -1,18 +1,19 @@
-Lands: 31
-Mana Ramp: 15
-Card Draw: 6
+Lands: 32
+Mana Ramp: 13
+Card Draw: 8
 Removals: 7
 Utility: 6
-Creatures: 3
+Creatures: 1
 
+1 Cinder Glade
 1 Spire Garden
 1 Gruul Turf
 1 Izzet Boilerworks
 1 Simic Growth Chamber
-1 Prismatic Vista
-1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
+1 Sheltered Thicket
+1 Wooded Foothills
+1 Scalding Tarn
+1 Misty Rainforest
 1 Mosswort Bridge
 1 Spinerock Knoll
 1 Gaea's Cradle
@@ -33,13 +34,11 @@ Creatures: 3
 2 Forest
 2 Mountain
 1 Sol Ring
-1 Mind Stone
-1 Thought Vessel
 1 Arcane Signet
+1 Fellwar Stone
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
-1 Wayfarer's Bauble
 1 Temur Banner
 1 Gruul Signet
 1 Izzet Signet
@@ -51,6 +50,8 @@ Creatures: 3
 1 Rhystic Study
 1 Harmonize
 1 Sylvan Library
+1 Momentous Fall
+1 Lifecrafter's Bestiary
 1 Faithless Looting
 1 Mystical Tutor
 1 Pongify
@@ -66,6 +67,4 @@ Creatures: 3
 1 Counterspell
 1 Mana Drain
 1 Swan Song
-1 Mulldrifter
 1 Solemn Simulacrum
-1 Burnished Hart

@@ -1,18 +1,17 @@
-Lands: 34
-Mana Ramp: 12
-Card Draw: 7
+Lands: 35
+Mana Ramp: 10
+Card Draw: 9
 Removals: 10
 Utility: 6
-Creatures: 2
+Creatures: 1
 
+1 Vault of Whispers
+1 Great Furnace
 1 Golgari Rot Farm
 1 Prismatic Vista
 1 Myriad Landscape
-1 Terramorphic Expanse
-1 Evolving Wilds
 1 Verdant Catacombs
 1 Twilight Mire
-1 Svogthos, the Restless Tomb
 1 Mosswort Bridge
 1 Phyrexian Tower
 1 Shizo, Death's Storehouse
@@ -21,7 +20,6 @@ Creatures: 2
 1 Okina, Temple to the Grandfathers
 1 Command Tower
 1 Overgrown Tomb
-1 Tainted Wood
 1 Cavern of Souls
 1 Path of Ancestry
 1 Unclaimed Territory
@@ -29,15 +27,13 @@ Creatures: 2
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-5 Swamp
-5 Forest
+7 Swamp
+6 Forest
 1 Sol Ring
-1 Mind Stone
-1 Thought Vessel
 1 Arcane Signet
+1 Fellwar Stone
 1 Commander's Sphere
 1 Expedition Map
-1 Wayfarer's Bauble
 1 Golgari Signet
 1 Talisman of Curiosity
 1 Birds of Paradise
@@ -48,6 +44,8 @@ Creatures: 2
 1 Phyrexian Arena
 1 Harmonize
 1 Sylvan Library
+1 Momentous Fall
+1 Lifecrafter's Bestiary
 1 Demonic Tutor
 1 Vampiric Tutor
 1 Hero's Downfall
@@ -67,4 +65,3 @@ Creatures: 2
 1 Growing Rites of Itlimoc
 1 Journey to Eternity BG
 1 Solemn Simulacrum
-1 Burnished Hart
