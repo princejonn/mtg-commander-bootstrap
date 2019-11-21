@@ -49,5 +49,5 @@ Creatures: 1
 1 Teferi's Protection
 1 Legion's Landing
 1 Vance's Blasting Cannons
-1 Path of Mettle WR
+1 Path of Mettle
 1 Solemn Simulacrum

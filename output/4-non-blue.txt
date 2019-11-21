@@ -3,7 +3,7 @@ Mana Ramp: 20
 Card Draw: 6
 Removals: 9
 Utility: 1
-Creatures: 0
+Creatures: 1
 
 1 Luxury Suite
 1 Spire Garden
@@ -71,3 +71,4 @@ Creatures: 0
 1 Wrath of God
 1 Damnation
 1 Teferi's Protection
+1 Solemn Simulacrum

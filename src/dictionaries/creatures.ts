@@ -25,7 +25,7 @@ export const Creatures: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 3,
+    maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
       [ Color.BLUE ],

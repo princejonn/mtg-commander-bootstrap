@@ -3,7 +3,7 @@ Mana Ramp: 20
 Card Draw: 6
 Removals: 7
 Utility: 5
-Creatures: 0
+Creatures: 1
 
 1 Sea of Clouds
 1 Spire Garden
@@ -71,3 +71,4 @@ Creatures: 0
 1 Mana Drain
 1 Swan Song
 1 Dovin's Veto
+1 Solemn Simulacrum

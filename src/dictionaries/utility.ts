@@ -645,7 +645,7 @@ export const TransformLand: TCardArray = [
     ],
   },
   {
-    name: "Journey to Eternity BG",
+    name: "Journey to Eternity",
     casual: true,
     competitive: false,
     minColors: 1,
@@ -655,7 +655,7 @@ export const TransformLand: TCardArray = [
     ],
   },
   {
-    name: "Hadana's Climb UG",
+    name: "Hadana's Climb",
     casual: true,
     competitive: false,
     minColors: 1,
@@ -665,7 +665,7 @@ export const TransformLand: TCardArray = [
     ],
   },
   {
-    name: "Storm the Vault UR",
+    name: "Storm the Vault",
     casual: true,
     competitive: false,
     minColors: 1,
@@ -675,7 +675,7 @@ export const TransformLand: TCardArray = [
     ],
   },
   {
-    name: "Path of Mettle WR",
+    name: "Path of Mettle",
     casual: true,
     competitive: false,
     minColors: 1,

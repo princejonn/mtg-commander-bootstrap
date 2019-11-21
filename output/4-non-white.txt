@@ -3,7 +3,7 @@ Mana Ramp: 19
 Card Draw: 9
 Removals: 7
 Utility: 3
-Creatures: 0
+Creatures: 1
 
 1 Morphic Pool
 1 Luxury Suite
@@ -72,3 +72,4 @@ Creatures: 0
 1 Counterspell
 1 Mana Drain
 1 Swan Song
+1 Solemn Simulacrum

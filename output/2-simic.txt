@@ -62,5 +62,5 @@ Creatures: 1
 1 Negate
 1 Search for Azcanta
 1 Growing Rites of Itlimoc
-1 Hadana's Climb UG
+1 Hadana's Climb
 1 Solemn Simulacrum

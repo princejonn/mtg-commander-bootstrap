@@ -65,5 +65,5 @@ Creatures: 1
 1 Regrowth
 1 Golgari Charm
 1 Growing Rites of Itlimoc
-1 Journey to Eternity BG
+1 Journey to Eternity
 1 Solemn Simulacrum
