@@ -11,6 +11,7 @@ Creatures: 1
 1 Orzhov Basilica
 1 Boros Garrison
 1 Canyon Slough
+1 Prismatic Vista
 1 Bloodstained Mire
 1 Marsh Flats
 1 Arid Mesa
@@ -31,7 +32,7 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 3 Plains
-3 Swamp
+2 Swamp
 2 Mountain
 1 Sol Ring
 1 Arcane Signet

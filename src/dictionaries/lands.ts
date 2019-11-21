@@ -2,59 +2,6 @@ import { TCardArray } from "../types";
 import { Color } from "../enums";
 import { Guild, Shard } from "../constants";
 
-export const ArtifactLands: TCardArray = [
-  {
-    name: "Ancient Den",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.WHITE ],
-    ],
-  },
-  {
-    name: "Seat of the Synod",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLUE ],
-    ],
-  },
-  {
-    name: "Vault of Whispers",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.BLACK ],
-    ],
-  },
-  {
-    name: "Great Furnace",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
-  {
-    name: "Tree of Tales",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.RED ],
-    ],
-  },
-];
-
 export const BasicLands: TCardArray = [
   {
     name: "Plains",
@@ -475,11 +422,39 @@ export const DualLands: TCardArray = [
 
 export const FetchLands: TCardArray = [
   {
+    name: "Evolving Wilds",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Terramorphic Expanse",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
     name: "Prismatic Vista",
     casual: true,
     competitive: false,
-    minColors: 1,
-    maxColors: 2,
+    minColors: 2,
+    maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
       [ Color.BLUE ],
@@ -1328,6 +1303,26 @@ export const UtilityLands: TCardArray = [
     competitive: false,
     minColors: 1,
     maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Crypt of Agadeem",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Nephalia Drownyard",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.BLACK ],
     ],

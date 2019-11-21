@@ -11,6 +11,7 @@ Creatures: 1
 1 Orzhov Basilica
 1 Golgari Rot Farm
 1 Scattered Groves
+1 Prismatic Vista
 1 Windswept Heath
 1 Marsh Flats
 1 Verdant Catacombs
@@ -31,7 +32,7 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-2 Plains
+1 Plains
 1 Swamp
 1 Forest
 1 Sol Ring

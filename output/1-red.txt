@@ -5,8 +5,6 @@ Removals: 3
 Utility: 1
 Creatures: 1
 
-1 Tree of Tales
-1 Prismatic Vista
 1 Myriad Landscape
 1 Spinerock Knoll
 1 Shinka, the Bloodsoaked Keep
@@ -15,7 +13,7 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Nykthos, Shrine to Nyx
-30 Mountain
+32 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

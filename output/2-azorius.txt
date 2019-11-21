@@ -5,12 +5,12 @@ Removals: 9
 Utility: 9
 Creatures: 1
 
-1 Ancient Den
-1 Seat of the Synod
 1 Prairie Stream
 1 Sea of Clouds
 1 Azorius Chancery
 1 Irrigated Farmland
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Flooded Strand

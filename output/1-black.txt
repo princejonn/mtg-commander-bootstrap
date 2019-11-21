@@ -5,8 +5,6 @@ Removals: 7
 Utility: 1
 Creatures: 1
 
-1 Vault of Whispers
-1 Prismatic Vista
 1 Myriad Landscape
 1 Phyrexian Tower
 1 Shizo, Death's Storehouse
@@ -20,6 +18,8 @@ Creatures: 1
 1 Nykthos, Shrine to Nyx
 1 Cabal Stronghold
 1 Cabal Coffers
+1 Crypt of Agadeem
+1 Nephalia Drownyard
 24 Swamp
 1 Sol Ring
 1 Arcane Signet

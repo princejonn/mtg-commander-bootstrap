@@ -5,9 +5,9 @@ Removals: 7
 Utility: 10
 Creatures: 1
 
-1 Seat of the Synod
-1 Great Furnace
 1 Simic Growth Chamber
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Misty Rainforest

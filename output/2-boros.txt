@@ -5,9 +5,9 @@ Removals: 8
 Utility: 5
 Creatures: 1
 
-1 Ancient Den
-1 Tree of Tales
 1 Boros Garrison
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Arid Mesa

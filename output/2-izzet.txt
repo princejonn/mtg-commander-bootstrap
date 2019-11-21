@@ -5,9 +5,9 @@ Removals: 5
 Utility: 8
 Creatures: 1
 
-1 Seat of the Synod
-1 Tree of Tales
 1 Izzet Boilerworks
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Scalding Tarn

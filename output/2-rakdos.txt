@@ -5,12 +5,12 @@ Removals: 8
 Utility: 3
 Creatures: 1
 
-1 Vault of Whispers
-1 Tree of Tales
 1 Smoldering Marsh
 1 Luxury Suite
 1 Rakdos Carnarium
 1 Canyon Slough
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Bloodstained Mire
@@ -29,8 +29,10 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-7 Swamp
-7 Mountain
+1 Crypt of Agadeem
+1 Nephalia Drownyard
+6 Swamp
+6 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

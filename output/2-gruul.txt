@@ -5,12 +5,12 @@ Removals: 6
 Utility: 5
 Creatures: 1
 
-1 Great Furnace
-1 Tree of Tales
 1 Cinder Glade
 1 Spire Garden
 1 Gruul Turf
 1 Sheltered Thicket
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Wooded Foothills

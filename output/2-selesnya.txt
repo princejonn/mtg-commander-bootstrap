@@ -5,12 +5,12 @@ Removals: 10
 Utility: 6
 Creatures: 1
 
-1 Ancient Den
-1 Great Furnace
 1 Canopy Vista
 1 Bountiful Promenade
 1 Selesnya Sanctuary
 1 Scattered Groves
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Windswept Heath

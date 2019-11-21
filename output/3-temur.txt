@@ -11,6 +11,7 @@ Creatures: 1
 1 Izzet Boilerworks
 1 Simic Growth Chamber
 1 Sheltered Thicket
+1 Prismatic Vista
 1 Wooded Foothills
 1 Scalding Tarn
 1 Misty Rainforest
@@ -30,7 +31,7 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
-3 Island
+2 Island
 2 Forest
 2 Mountain
 1 Sol Ring

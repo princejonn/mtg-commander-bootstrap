@@ -10,6 +10,7 @@ Creatures: 0
 1 Luxury Suite
 1 Spire Garden
 1 Bountiful Promenade
+1 Prismatic Vista
 1 Shimmering Grotto
 1 Unknown Shores
 1 Windbrisk Heights

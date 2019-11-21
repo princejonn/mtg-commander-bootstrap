@@ -125,7 +125,6 @@ export const getCardText = (cardList: TSimpleCardList): Array<string> => {
 
 export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
   const landList: TSimpleCardList = [
-    ...getMatchingCards(colorList, lands.ArtifactLands),
     ...getMatchingCards(colorList, lands.BattleLands),
     ...getMatchingCards(colorList, lands.BondLands),
     ...getMatchingCards(colorList, lands.BounceLands),

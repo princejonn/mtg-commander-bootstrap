@@ -14,6 +14,7 @@ Creatures: 1
 1 Simic Growth Chamber
 1 Irrigated Farmland
 1 Scattered Groves
+1 Prismatic Vista
 1 Flooded Strand
 1 Windswept Heath
 1 Bant Panorama
@@ -34,7 +35,6 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
-1 Plains
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

@@ -5,9 +5,9 @@ Removals: 13
 Utility: 5
 Creatures: 1
 
-1 Ancient Den
-1 Vault of Whispers
 1 Orzhov Basilica
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Marsh Flats
@@ -26,8 +26,10 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-8 Plains
-7 Swamp
+1 Crypt of Agadeem
+1 Nephalia Drownyard
+7 Plains
+6 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
