@@ -1298,8 +1298,8 @@ export const TribalLands: TCardArray = [
 export const UncoloredLands: TCardArray = [
   {
     name: "Ancient Tomb",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 1,
     maxColors: 5,
     colorIdentity: [

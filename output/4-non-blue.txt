@@ -36,7 +36,6 @@ Creatures: 2
 1 Cavern of Souls
 1 Path of Ancestry
 1 Unclaimed Territory
-1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin
 1 Rogue's Passage

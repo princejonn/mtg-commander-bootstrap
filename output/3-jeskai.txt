@@ -24,14 +24,13 @@ Creatures: 3
 1 Cavern of Souls
 1 Path of Ancestry
 1 Unclaimed Territory
-1 Ancient Tomb
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
 3 Plains
 3 Island
-2 Mountain
+3 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
