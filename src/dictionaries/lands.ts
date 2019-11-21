@@ -371,16 +371,6 @@ export const FetchLands: TCardArray = [
       [ Color.RED ],
     ],
   },
-  {
-    name: "Blighted Woodland",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.GREEN ],
-    ],
-  },
 ];
 
 export const FetchLandsGuild: TCardArray = [
@@ -631,59 +621,6 @@ export const FilterLandsEventide: TCardArray = [
     maxColors: 2,
     colorIdentity: [
       Guild.SIMIC,
-    ],
-  },
-];
-
-export const FilterLandsOdyssey: TCardArray = [
-  {
-    name: "Skycloud Expanse",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.AZORIUS,
-    ],
-  },
-  {
-    name: "Darkwater Catacombs",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.DIMIR,
-    ],
-  },
-  {
-    name: "Shadowblood Ridge",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.RAKDOS,
-    ],
-  },
-  {
-    name: "Mossfire Valley",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GRUUL,
-    ],
-  },
-  {
-    name: "Sungrass Prairie",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SELESNYA,
     ],
   },
 ];

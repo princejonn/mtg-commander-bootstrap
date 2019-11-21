@@ -10,7 +10,6 @@ Creatures: 3
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
-1 Blighted Woodland
 1 Misty Rainforest
 1 Flooded Grove
 1 Novijen, Heart of Progress
@@ -29,7 +28,7 @@ Creatures: 3
 1 Reliquary Tower
 1 Tolaria West
 6 Island
-5 Forest
+6 Forest
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
