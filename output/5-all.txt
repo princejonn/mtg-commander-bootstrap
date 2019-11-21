@@ -25,7 +25,6 @@ Creatures: 3
 1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
-1 Cavern of Souls
 1 Savage Lands
 1 Seaside Citadel
 1 Jungle Shrine
@@ -36,6 +35,9 @@ Creatures: 3
 1 Nomad Outpost
 1 Mystic Monastery
 1 Sandsteppe Citadel
+1 Cavern of Souls
+1 Path of Ancestry
+1 Unclaimed Territory
 1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin

@@ -20,7 +20,6 @@ Creatures: 2
 1 Urborg, Tomb of Yawgmoth
 1 Command Tower
 1 Exotic Orchard
-1 Cavern of Souls
 1 Crumbling Necropolis
 1 Arcane Sanctum
 1 Nomad Outpost
@@ -31,6 +30,9 @@ Creatures: 2
 1 Godless Shrine
 1 Steam Vents
 1 Sacred Foundry
+1 Cavern of Souls
+1 Path of Ancestry
+1 Unclaimed Territory
 1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin

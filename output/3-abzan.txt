@@ -20,20 +20,22 @@ Creatures: 3
 1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
-1 Cavern of Souls
 1 Sandsteppe Citadel
 1 Temple Garden
 1 Godless Shrine
 1 Overgrown Tomb
 1 Tainted Field
 1 Tainted Wood
+1 Cavern of Souls
+1 Path of Ancestry
+1 Unclaimed Territory
 1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-2 Plains
-2 Swamp
+1 Plains
+1 Swamp
 1 Forest
 1 Sol Ring
 1 Mind Stone

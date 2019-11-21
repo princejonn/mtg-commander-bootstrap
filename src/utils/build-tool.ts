@@ -133,6 +133,9 @@ export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
     ...getMatchingCards(colorList, lands.FetchLandsGuild),
     ...getMatchingCards(colorList, lands.FetchLandsShard),
     ...getMatchingCards(colorList, lands.FilterLands),
+    ...getMatchingCards(colorList, lands.FilterLandsEventide),
+    ...getMatchingCards(colorList, lands.FilterLandsOdyssey),
+    ...getMatchingCards(colorList, lands.FilterLandsShadowmoor),
     ...getMatchingCards(colorList, lands.GuildHalls),
     ...getMatchingCards(colorList, lands.HideawayLands),
     ...getMatchingCards(colorList, lands.LegendaryLands),
@@ -140,6 +143,7 @@ export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
     ...getMatchingCards(colorList, lands.ShardLands),
     ...getMatchingCards(colorList, lands.ShockLands),
     ...getMatchingCards(colorList, lands.TaintedLands),
+    ...getMatchingCards(colorList, lands.TribalLands),
     ...getMatchingCards(colorList, lands.UncoloredLands),
     ...getMatchingCards(colorList, lands.UtilityLands),
   ];

@@ -541,55 +541,48 @@ export const FetchLandsShard: TCardArray = [
 
 export const FilterLands: TCardArray = [
   {
-    name: "Mystic Gate",
+    name: "Shimmering Grotto",
     casual: true,
     competitive: false,
-    minColors: 2,
-    maxColors: 2,
+    minColors: 4,
+    maxColors: 5,
     colorIdentity: [
-      Guild.AZORIUS,
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
     ],
   },
   {
-    name: "Sunken Ruins",
+    name: "Unknown Shores",
     casual: true,
     competitive: false,
-    minColors: 2,
-    maxColors: 2,
+    minColors: 4,
+    maxColors: 5,
     colorIdentity: [
-      Guild.DIMIR,
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
     ],
   },
   {
-    name: "Graven Cairns",
+    name: "Crypt of the Eternals",
     casual: true,
     competitive: false,
-    minColors: 2,
-    maxColors: 2,
+    minColors: 4,
+    maxColors: 5,
     colorIdentity: [
-      Guild.RAKDOS,
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.RED ],
     ],
   },
-  {
-    name: "Fire-lit Thicket",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.GRUUL,
-    ],
-  },
-  {
-    name: "Wooded Bastion",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      Guild.SELESNYA,
-    ],
-  },
+];
+
+export const FilterLandsEventide: TCardArray = [
   {
     name: "Fetid Heath",
     casual: true,
@@ -640,44 +633,110 @@ export const FilterLands: TCardArray = [
       Guild.SIMIC,
     ],
   },
+];
+
+export const FilterLandsOdyssey: TCardArray = [
   {
-    name: "Shimmering Grotto",
+    name: "Skycloud Expanse",
     casual: true,
     competitive: false,
-    minColors: 4,
-    maxColors: 5,
+    minColors: 2,
+    maxColors: 2,
     colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
+      Guild.AZORIUS,
     ],
   },
   {
-    name: "Unknown Shores",
+    name: "Darkwater Catacombs",
     casual: true,
     competitive: false,
-    minColors: 4,
-    maxColors: 5,
+    minColors: 2,
+    maxColors: 2,
     colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
+      Guild.DIMIR,
     ],
   },
   {
-    name: "Crypt of the Eternals",
+    name: "Shadowblood Ridge",
     casual: true,
     competitive: false,
-    minColors: 4,
-    maxColors: 5,
+    minColors: 2,
+    maxColors: 2,
     colorIdentity: [
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.RED ],
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Mossfire Valley",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Sungrass Prairie",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+];
+
+export const FilterLandsShadowmoor: TCardArray = [
+  {
+    name: "Mystic Gate",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Sunken Ruins",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Graven Cairns",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Fire-lit Thicket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Wooded Bastion",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SELESNYA,
     ],
   },
 ];
@@ -950,20 +1009,6 @@ export const MultiColoredLands: TCardArray = [
       [ Color.RED ],
     ],
   },
-  {
-    name: "Cavern of Souls",
-    casual: true,
-    competitive: false,
-    minColors: 1,
-    maxColors: 5,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
 ];
 
 export const ShardLands: TCardArray = [
@@ -1211,6 +1256,51 @@ export const TaintedLands: TCardArray = [
     maxColors: 3,
     colorIdentity: [
       Guild.GOLGARI,
+    ],
+  },
+];
+
+export const TribalLands: TCardArray = [
+  {
+    name: "Cavern of Souls",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Path of Ancestry",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Unclaimed Territory",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
     ],
   },
 ];

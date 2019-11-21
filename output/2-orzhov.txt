@@ -19,16 +19,18 @@ Creatures: 2
 1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
 1 Command Tower
-1 Cavern of Souls
 1 Godless Shrine
 1 Tainted Field
+1 Cavern of Souls
+1 Path of Ancestry
+1 Unclaimed Territory
 1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-7 Plains
-6 Swamp
+6 Plains
+5 Swamp
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel

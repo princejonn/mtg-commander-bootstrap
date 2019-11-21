@@ -22,7 +22,6 @@ Creatures: 3
 1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
-1 Cavern of Souls
 1 Seaside Citadel
 1 Jungle Shrine
 1 Frontier Bivouac
@@ -33,6 +32,9 @@ Creatures: 3
 1 Steam Vents
 1 Sacred Foundry
 1 Breeding Pool
+1 Cavern of Souls
+1 Path of Ancestry
+1 Unclaimed Territory
 1 Ancient Tomb
 1 Buried Ruin
 1 Rogue's Passage

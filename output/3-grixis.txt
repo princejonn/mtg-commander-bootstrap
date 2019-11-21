@@ -18,21 +18,23 @@ Creatures: 3
 1 Urborg, Tomb of Yawgmoth
 1 Command Tower
 1 Exotic Orchard
-1 Cavern of Souls
 1 Crumbling Necropolis
 1 Watery Grave
 1 Blood Crypt
 1 Steam Vents
 1 Tainted Isle
 1 Tainted Peak
+1 Cavern of Souls
+1 Path of Ancestry
+1 Unclaimed Territory
 1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
-3 Island
-3 Swamp
+2 Island
+2 Swamp
 2 Mountain
 1 Sol Ring
 1 Mind Stone

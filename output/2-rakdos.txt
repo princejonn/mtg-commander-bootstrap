@@ -11,6 +11,7 @@ Creatures: 2
 1 Myriad Landscape
 1 Terramorphic Expanse
 1 Evolving Wilds
+1 Shadowblood Ridge
 1 Graven Cairns
 1 Rix Maadi, Dungeon Palace
 1 Spinerock Knoll
@@ -19,16 +20,18 @@ Creatures: 2
 1 Urborg, Tomb of Yawgmoth
 1 Shinka, the Bloodsoaked Keep
 1 Command Tower
-1 Cavern of Souls
 1 Blood Crypt
 1 Tainted Peak
+1 Cavern of Souls
+1 Path of Ancestry
+1 Unclaimed Territory
 1 Ancient Tomb
 1 Bojuka Bog
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-8 Swamp
-7 Mountain
+6 Swamp
+6 Mountain
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
