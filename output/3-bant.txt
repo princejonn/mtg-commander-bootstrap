@@ -35,6 +35,7 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
+1 Halimar Depths
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

@@ -1,21 +1,23 @@
-Lands: 38
-Mana Ramp: 7
+Lands: 36
+Mana Ramp: 9
 Card Draw: 3
 Removals: 7
 Utility: 2
 Creatures: 1
 
+1 Secluded Steppe
 1 Myriad Landscape
 1 Windbrisk Heights
 1 Eiganjo Castle
-1 Cavern of Souls
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
 1 Nykthos, Shrine to Nyx
-30 Plains
+28 Plains
 1 Sol Ring
 1 Arcane Signet
+1 Mind Stone
+1 Thought Vessel
 1 Expedition Map
 1 Marble Diamond
 1 Pearl Medallion

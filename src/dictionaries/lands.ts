@@ -264,7 +264,60 @@ export const BounceLands: TCardArray = [
   },
 ];
 
-export const CyclingLands: TCardArray = [
+export const CyclingLandsMono: TCardArray = [
+  {
+    name: "Secluded Steppe",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Lonely Sandbar",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Barren Moor",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Tranquil Thicket",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Forgotten Cave",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+];
+
+export const CyclingLandsDual: TCardArray = [
   {
     name: "Irrigated Farmland",
     casual: true,
@@ -901,6 +954,19 @@ export const LegendaryLands: TCardArray = [
   },
 ];
 
+export const ManLands: TCardArray = [
+  {
+    name: "Creeping Tar Pit",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+];
+
 export const MultiColoredLands: TCardArray = [
   {
     name: "Command Tower",
@@ -1143,7 +1209,7 @@ export const TribalLands: TCardArray = [
     name: "Cavern of Souls",
     casual: true,
     competitive: false,
-    minColors: 1,
+    minColors: 2,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -1321,10 +1387,20 @@ export const UtilityLands: TCardArray = [
     name: "Nephalia Drownyard",
     casual: true,
     competitive: false,
-    minColors: 1,
+    minColors: 2,
     maxColors: 2,
     colorIdentity: [
-      [ Color.BLACK ],
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Halimar Depths",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 3,
+    colorIdentity: [
+      [ Color.BLUE ],
     ],
   },
 ];

@@ -28,9 +28,8 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Crypt of Agadeem
-1 Nephalia Drownyard
 6 Swamp
-5 Forest
+6 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

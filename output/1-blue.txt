@@ -1,22 +1,25 @@
-Lands: 40
-Mana Ramp: 5
+Lands: 38
+Mana Ramp: 7
 Card Draw: 6
 Removals: 3
 Utility: 5
 Creatures: 1
 
+1 Lonely Sandbar
 1 Myriad Landscape
 1 Minamo, School at Water's Edge
 1 Academy Ruins
-1 Cavern of Souls
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
 1 Tolaria West
 1 Nykthos, Shrine to Nyx
-31 Island
+1 Halimar Depths
+28 Island
 1 Sol Ring
 1 Arcane Signet
+1 Mind Stone
+1 Thought Vessel
 1 Expedition Map
 1 Sky Diamond
 1 Sapphire Medallion

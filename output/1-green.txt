@@ -1,22 +1,24 @@
-Lands: 37
-Mana Ramp: 8
+Lands: 35
+Mana Ramp: 10
 Card Draw: 7
 Removals: 5
 Utility: 3
 Creatures: 1
 
+1 Tranquil Thicket
 1 Myriad Landscape
 1 Mosswort Bridge
 1 Gaea's Cradle
 1 Okina, Temple to the Grandfathers
-1 Cavern of Souls
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
 1 Nykthos, Shrine to Nyx
-28 Forest
+26 Forest
 1 Sol Ring
 1 Arcane Signet
+1 Mind Stone
+1 Thought Vessel
 1 Expedition Map
 1 Moss Diamond
 1 Emerald Medallion
