@@ -5,6 +5,8 @@ Removals: 5
 Utility: 3
 Creatures: 1
 
+1 Great Furnace
+1 Darksteel Citadel
 1 Tranquil Thicket
 1 Myriad Landscape
 1 Mosswort Bridge
@@ -14,7 +16,7 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Nykthos, Shrine to Nyx
-26 Forest
+24 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone

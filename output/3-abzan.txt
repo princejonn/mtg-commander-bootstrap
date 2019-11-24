@@ -7,9 +7,6 @@ Creatures: 1
 
 1 Canopy Vista
 1 Bountiful Promenade
-1 Selesnya Sanctuary
-1 Orzhov Basilica
-1 Golgari Rot Farm
 1 Scattered Groves
 1 Prismatic Vista
 1 Windswept Heath
@@ -32,9 +29,9 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-1 Plains
-1 Swamp
-1 Forest
+2 Plains
+2 Swamp
+2 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

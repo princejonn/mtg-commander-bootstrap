@@ -7,9 +7,6 @@ Creatures: 1
 
 1 Smoldering Marsh
 1 Luxury Suite
-1 Rakdos Carnarium
-1 Orzhov Basilica
-1 Boros Garrison
 1 Canyon Slough
 1 Prismatic Vista
 1 Bloodstained Mire
@@ -31,9 +28,9 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-3 Plains
-2 Swamp
-2 Mountain
+4 Plains
+3 Swamp
+3 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

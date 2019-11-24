@@ -5,6 +5,8 @@ Removals: 3
 Utility: 1
 Creatures: 1
 
+1 Tree of Tales
+1 Darksteel Citadel
 1 Forgotten Cave
 1 Myriad Landscape
 1 Spinerock Knoll
@@ -13,7 +15,7 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Nykthos, Shrine to Nyx
-30 Mountain
+28 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone

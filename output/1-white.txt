@@ -5,6 +5,8 @@ Removals: 7
 Utility: 2
 Creatures: 1
 
+1 Ancient Den
+1 Darksteel Citadel
 1 Secluded Steppe
 1 Myriad Landscape
 1 Windbrisk Heights
@@ -13,7 +15,7 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Nykthos, Shrine to Nyx
-28 Plains
+26 Plains
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone

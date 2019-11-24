@@ -9,9 +9,6 @@ Creatures: 1
 1 Cinder Glade
 1 Luxury Suite
 1 Spire Garden
-1 Rakdos Carnarium
-1 Gruul Turf
-1 Golgari Rot Farm
 1 Canyon Slough
 1 Sheltered Thicket
 1 Prismatic Vista
@@ -36,7 +33,9 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-1 Swamp
+2 Swamp
+1 Forest
+1 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

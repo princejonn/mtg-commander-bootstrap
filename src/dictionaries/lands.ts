@@ -2,6 +2,73 @@ import { TCardArray } from "../types";
 import { Color } from "../enums";
 import { Guild, Shard } from "../constants";
 
+export const ArtifactLands: TCardArray = [
+  {
+    name: "Ancient Den",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.WHITE ],
+    ],
+  },
+  {
+    name: "Seat of the Synod",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLUE ],
+    ],
+  },
+  {
+    name: "Vault of Whispers",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.BLACK ],
+    ],
+  },
+  {
+    name: "Great Furnace",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
+  {
+    name: "Tree of Tales",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Darksteel Citadel",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 1,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+];
+
 export const BasicLands: TCardArray = [
   {
     name: "Plains",
@@ -167,7 +234,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.AZORIUS,
     ],
@@ -177,7 +244,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.DIMIR,
     ],
@@ -187,7 +254,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.RAKDOS,
     ],
@@ -197,7 +264,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.GRUUL,
     ],
@@ -207,7 +274,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.SELESNYA,
     ],
@@ -217,7 +284,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.ORZHOV,
     ],
@@ -227,7 +294,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.IZZET,
     ],
@@ -237,7 +304,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.GOLGARI,
     ],
@@ -247,7 +314,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.BOROS,
     ],
@@ -257,7 +324,7 @@ export const BounceLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 2,
-    maxColors: 3,
+    maxColors: 2,
     colorIdentity: [
       Guild.SIMIC,
     ],

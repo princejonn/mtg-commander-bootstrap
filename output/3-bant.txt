@@ -9,9 +9,6 @@ Creatures: 1
 1 Canopy Vista
 1 Sea of Clouds
 1 Bountiful Promenade
-1 Azorius Chancery
-1 Selesnya Sanctuary
-1 Simic Growth Chamber
 1 Irrigated Farmland
 1 Scattered Groves
 1 Prismatic Vista
@@ -36,6 +33,8 @@ Creatures: 1
 1 Reliquary Tower
 1 Tolaria West
 1 Halimar Depths
+1 Plains
+1 Island
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

@@ -7,9 +7,6 @@ Creatures: 1
 
 1 Sunken Hollow
 1 Morphic Pool
-1 Dimir Aqueduct
-1 Golgari Rot Farm
-1 Simic Growth Chamber
 1 Fetid Pools
 1 Prismatic Vista
 1 Polluted Delta
@@ -33,9 +30,9 @@ Creatures: 1
 1 Reliquary Tower
 1 Tolaria West
 1 Halimar Depths
-2 Island
-1 Swamp
-1 Forest
+3 Island
+2 Swamp
+2 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

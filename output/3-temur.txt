@@ -7,9 +7,6 @@ Creatures: 1
 
 1 Cinder Glade
 1 Spire Garden
-1 Gruul Turf
-1 Izzet Boilerworks
-1 Simic Growth Chamber
 1 Sheltered Thicket
 1 Prismatic Vista
 1 Wooded Foothills
@@ -32,9 +29,9 @@ Creatures: 1
 1 Reliquary Tower
 1 Tolaria West
 1 Halimar Depths
-2 Island
-2 Forest
-1 Mountain
+3 Island
+3 Forest
+2 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
