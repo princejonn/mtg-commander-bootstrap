@@ -1,6 +1,6 @@
 Lands: 30
 Mana Ramp: 15
-Card Draw: 5
+Card Draw: 6
 Removals: 7
 Utility: 4
 Creatures: 1
@@ -55,6 +55,7 @@ Creatures: 1
 1 Momentous Fall
 1 Lifecrafter's Bestiary
 1 Faithless Looting
+1 Enlightened Tutor
 1 Path to Exile
 1 Swords to Plowshares
 1 Beast Within

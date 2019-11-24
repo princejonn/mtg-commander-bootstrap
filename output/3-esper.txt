@@ -1,6 +1,6 @@
 Lands: 33
 Mana Ramp: 12
-Card Draw: 7
+Card Draw: 8
 Removals: 10
 Utility: 7
 Creatures: 1
@@ -52,6 +52,7 @@ Creatures: 1
 1 Rhystic Study
 1 Night's Whisper
 1 Sign in Blood
+1 Enlightened Tutor
 1 Mystical Tutor
 1 Demonic Tutor
 1 Vampiric Tutor

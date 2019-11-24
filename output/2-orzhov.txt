@@ -1,6 +1,6 @@
 Lands: 36
 Mana Ramp: 9
-Card Draw: 5
+Card Draw: 6
 Removals: 13
 Utility: 5
 Creatures: 1
@@ -41,6 +41,7 @@ Creatures: 1
 1 Night's Whisper
 1 Sign in Blood
 1 Phyrexian Arena
+1 Enlightened Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
 1 Path to Exile

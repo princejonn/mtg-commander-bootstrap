@@ -1,6 +1,6 @@
 Lands: 25
 Mana Ramp: 20
-Card Draw: 6
+Card Draw: 7
 Removals: 9
 Utility: 1
 Creatures: 1
@@ -59,6 +59,7 @@ Creatures: 1
 1 Harmonize
 1 Lifecrafter's Bestiary
 1 Faithless Looting
+1 Enlightened Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
 1 Path to Exile

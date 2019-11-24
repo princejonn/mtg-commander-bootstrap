@@ -1,6 +1,6 @@
 Lands: 36
 Mana Ramp: 9
-Card Draw: 4
+Card Draw: 5
 Removals: 9
 Utility: 9
 Creatures: 1
@@ -42,6 +42,7 @@ Creatures: 1
 1 Smothering Tithe
 1 Brainstorm
 1 Rhystic Study
+1 Enlightened Tutor
 1 Mystical Tutor
 1 Merchant Scroll
 1 Path to Exile

@@ -1,6 +1,6 @@
 Lands: 30
 Mana Ramp: 15
-Card Draw: 8
+Card Draw: 9
 Removals: 11
 Utility: 5
 Creatures: 1
@@ -53,6 +53,7 @@ Creatures: 1
 1 Sylvan Library
 1 Momentous Fall
 1 Lifecrafter's Bestiary
+1 Enlightened Tutor
 1 Demonic Tutor
 1 Vampiric Tutor
 1 Path to Exile

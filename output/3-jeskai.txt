@@ -1,6 +1,6 @@
 Lands: 33
 Mana Ramp: 12
-Card Draw: 4
+Card Draw: 5
 Removals: 7
 Utility: 6
 Creatures: 1
@@ -46,6 +46,7 @@ Creatures: 1
 1 Brainstorm
 1 Rhystic Study
 1 Faithless Looting
+1 Enlightened Tutor
 1 Mystical Tutor
 1 Path to Exile
 1 Swords to Plowshares
