@@ -262,7 +262,7 @@ export const Targeted: TCardArray = [
     ],
   },
   {
-    name: "1x Despark",
+    name: "Despark",
     casual: true,
     competitive: false,
     minColors: 2,

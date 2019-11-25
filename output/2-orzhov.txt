@@ -52,7 +52,7 @@ Creatures: 1
 1 Vindicate
 1 Mortify
 1 Anguished Unmaking
-1 1x Despark
+1 Despark
 1 Wrath of God
 1 Day of Judgment
 1 Damnation
