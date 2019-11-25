@@ -17,7 +17,6 @@ Creatures: 1
 1 Sunken Ruins
 1 Minamo, School at Water's Edge
 1 Academy Ruins
-1 Phyrexian Tower
 1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
 1 Creeping Tar Pit
@@ -35,7 +34,7 @@ Creatures: 1
 1 Nephalia Drownyard
 1 Halimar Depths
 5 Island
-4 Swamp
+5 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

@@ -17,6 +17,7 @@ Creatures: 1
 1 Esper Panorama
 1 Marsh Flats
 1 Windbrisk Heights
+1 Academy Ruins
 1 Urborg, Tomb of Yawgmoth
 1 Command Tower
 1 Exotic Orchard
@@ -34,7 +35,7 @@ Creatures: 1
 1 Tolaria West
 1 Halimar Depths
 2 Plains
-2 Island
+1 Island
 1 Swamp
 1 Sol Ring
 1 Arcane Signet

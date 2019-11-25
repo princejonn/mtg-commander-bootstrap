@@ -13,6 +13,7 @@ Creatures: 1
 1 Verdant Catacombs
 1 Misty Rainforest
 1 Mosswort Bridge
+1 Academy Ruins
 1 Urborg, Tomb of Yawgmoth
 1 Gaea's Cradle
 1 Command Tower
@@ -30,7 +31,7 @@ Creatures: 1
 1 Reliquary Tower
 1 Tolaria West
 1 Halimar Depths
-3 Island
+2 Island
 2 Swamp
 2 Forest
 1 Sol Ring

@@ -13,7 +13,6 @@ Creatures: 1
 1 Verdant Catacombs
 1 Twilight Mire
 1 Mosswort Bridge
-1 Phyrexian Tower
 1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
 1 Gaea's Cradle
@@ -28,7 +27,7 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Crypt of Agadeem
-6 Swamp
+7 Swamp
 6 Forest
 1 Sol Ring
 1 Arcane Signet

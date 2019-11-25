@@ -17,6 +17,7 @@ Creatures: 1
 1 Grixis Panorama
 1 Scalding Tarn
 1 Spinerock Knoll
+1 Academy Ruins
 1 Urborg, Tomb of Yawgmoth
 1 Command Tower
 1 Exotic Orchard
@@ -33,7 +34,7 @@ Creatures: 1
 1 Reliquary Tower
 1 Tolaria West
 1 Halimar Depths
-3 Island
+2 Island
 2 Swamp
 2 Mountain
 1 Sol Ring

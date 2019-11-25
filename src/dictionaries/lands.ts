@@ -954,7 +954,7 @@ export const LegendaryLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 2,
+    maxColors: 3,
     colorIdentity: [
       [ Color.BLUE ],
     ],
@@ -964,7 +964,7 @@ export const LegendaryLands: TCardArray = [
     casual: true,
     competitive: false,
     minColors: 1,
-    maxColors: 2,
+    maxColors: 1,
     colorIdentity: [
       [ Color.BLACK ],
     ],

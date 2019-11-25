@@ -14,6 +14,7 @@ Creatures: 1
 1 Misty Rainforest
 1 Mosswort Bridge
 1 Spinerock Knoll
+1 Academy Ruins
 1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
@@ -30,7 +31,7 @@ Creatures: 1
 1 Tolaria West
 1 Halimar Depths
 3 Island
-3 Forest
+2 Forest
 2 Mountain
 1 Sol Ring
 1 Arcane Signet
