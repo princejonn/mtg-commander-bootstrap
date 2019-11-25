@@ -35,7 +35,7 @@ export const ArtifactRamp: TCardArray = [
     name: "Fellwar Stone",
     casual: true,
     competitive: true,
-    minColors: 2,
+    minColors: 3,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -64,7 +64,7 @@ export const ArtifactRamp: TCardArray = [
     casual: true,
     competitive: true,
     minColors: 1,
-    maxColors: 1,
+    maxColors: 2,
     colorIdentity: [
       [ Color.WHITE ],
       [ Color.BLUE ],
