@@ -33,9 +33,9 @@ Creatures: 1
 7 Mountain
 1 Sol Ring
 1 Arcane Signet
-1 Thought Vessel
-1 Commander's Sphere
 1 Expedition Map
+1 Rakdos Cluestone
+1 Rakdos Locket
 1 Rakdos Signet
 1 Talisman of Indulgence
 1 Night's Whisper

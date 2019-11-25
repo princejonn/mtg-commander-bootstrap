@@ -153,7 +153,9 @@ export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
   const artifactRampList: TSimpleCardList = [
     ...getMatchingCards(colorList, artifacts.ArtifactRamp),
     ...getMatchingCards(colorList, artifacts.BannerRamp),
+    ...getMatchingCards(colorList, artifacts.CluestoneRamp),
     ...getMatchingCards(colorList, artifacts.DiamondRamp),
+    ...getMatchingCards(colorList, artifacts.LocketRamp),
     ...getMatchingCards(colorList, artifacts.MedallionRamp),
     ...getMatchingCards(colorList, artifacts.ObeliskRamp),
     ...getMatchingCards(colorList, artifacts.SignetRamp),

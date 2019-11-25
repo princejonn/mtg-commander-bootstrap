@@ -32,9 +32,9 @@ Creatures: 1
 5 Forest
 1 Sol Ring
 1 Arcane Signet
-1 Thought Vessel
-1 Commander's Sphere
 1 Expedition Map
+1 Selesnya Cluestone
+1 Selesnya Locket
 1 Selesnya Signet
 1 Talisman of Unity
 1 Land Tax

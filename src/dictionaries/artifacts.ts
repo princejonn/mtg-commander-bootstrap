@@ -64,7 +64,7 @@ export const ArtifactRamp: TCardArray = [
     casual: true,
     competitive: true,
     minColors: 1,
-    maxColors: 2,
+    maxColors: 1,
     colorIdentity: [
       [ Color.WHITE ],
       [ Color.BLUE ],
@@ -77,7 +77,7 @@ export const ArtifactRamp: TCardArray = [
     name: "Commander's Sphere",
     casual: true,
     competitive: false,
-    minColors: 2,
+    minColors: 3,
     maxColors: 5,
     colorIdentity: [
       [ Color.WHITE ],
@@ -170,6 +170,109 @@ export const BannerRamp: TCardArray = [
   },
 ];
 
+export const CluestoneRamp: TCardArray = [
+  {
+    name: "Azorius Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Dimir Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Rakdos Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Gruul Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Selesnya Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+  {
+    name: "Orzhov Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "Izzet Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.IZZET,
+    ],
+  },
+  {
+    name: "Golgari Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GOLGARI,
+    ],
+  },
+  {
+    name: "Boros Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.BOROS,
+    ],
+  },
+  {
+    name: "Simic Cluestone",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SIMIC,
+    ],
+  },
+];
+
 export const DiamondRamp: TCardArray = [
   {
     name: "Marble Diamond",
@@ -219,6 +322,109 @@ export const DiamondRamp: TCardArray = [
     maxColors: 1,
     colorIdentity: [
       [ Color.RED ],
+    ],
+  },
+];
+
+export const LocketRamp: TCardArray = [
+  {
+    name: "Azorius Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.AZORIUS,
+    ],
+  },
+  {
+    name: "Dimir Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.DIMIR,
+    ],
+  },
+  {
+    name: "Rakdos Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.RAKDOS,
+    ],
+  },
+  {
+    name: "Gruul Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GRUUL,
+    ],
+  },
+  {
+    name: "Selesnya Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SELESNYA,
+    ],
+  },
+  {
+    name: "Orzhov Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "Izzet Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.IZZET,
+    ],
+  },
+  {
+    name: "Golgari Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.GOLGARI,
+    ],
+  },
+  {
+    name: "Boros Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.BOROS,
+    ],
+  },
+  {
+    name: "Simic Locket",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.SIMIC,
     ],
   },
 ];

@@ -37,9 +37,9 @@ Creatures: 1
 5 Swamp
 1 Sol Ring
 1 Arcane Signet
-1 Thought Vessel
-1 Commander's Sphere
 1 Expedition Map
+1 Dimir Cluestone
+1 Dimir Locket
 1 Dimir Signet
 1 Talisman of Dominance
 1 Brainstorm

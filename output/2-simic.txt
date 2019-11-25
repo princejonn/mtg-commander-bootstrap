@@ -31,9 +31,9 @@ Creatures: 1
 6 Forest
 1 Sol Ring
 1 Arcane Signet
-1 Thought Vessel
-1 Commander's Sphere
 1 Expedition Map
+1 Simic Cluestone
+1 Simic Locket
 1 Simic Signet
 1 Talisman of Conviction
 1 Birds of Paradise

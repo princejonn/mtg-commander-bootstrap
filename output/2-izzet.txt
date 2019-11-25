@@ -30,9 +30,9 @@ Creatures: 1
 8 Mountain
 1 Sol Ring
 1 Arcane Signet
-1 Thought Vessel
-1 Commander's Sphere
 1 Expedition Map
+1 Izzet Cluestone
+1 Izzet Locket
 1 Izzet Signet
 1 Talisman of Resilience
 1 Brainstorm
