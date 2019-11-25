@@ -251,6 +251,26 @@ export const Targeted: TCardArray = [
       Guild.RAKDOS,
     ],
   },
+  {
+    name: "Anguished Unmaking",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
+  {
+    name: "1x Despark",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 2,
+    colorIdentity: [
+      Guild.ORZHOV,
+    ],
+  },
 ];
 
 export const Board: TCardArray = [
