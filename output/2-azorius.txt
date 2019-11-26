@@ -8,7 +8,9 @@ Creatures: 1
 1 Prairie Stream
 1 Sea of Clouds
 1 Azorius Chancery
+1 Seachrome Coast
 1 Irrigated Farmland
+1 Glacial Fortress
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Prismatic Vista
@@ -20,6 +22,7 @@ Creatures: 1
 1 Minamo, School at Water's Edge
 1 Academy Ruins
 1 Command Tower
+1 Port Town
 1 Hallowed Fountain
 1 Cavern of Souls
 1 Path of Ancestry
@@ -28,8 +31,8 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-7 Plains
-6 Island
+5 Plains
+5 Island
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

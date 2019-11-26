@@ -8,7 +8,9 @@ Creatures: 1
 1 Cinder Glade
 1 Spire Garden
 1 Gruul Turf
+1 Copperline Gorge
 1 Sheltered Thicket
+1 Rootbound Crag
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Prismatic Vista
@@ -21,6 +23,7 @@ Creatures: 1
 1 Okina, Temple to the Grandfathers
 1 Shinka, the Bloodsoaked Keep
 1 Command Tower
+1 Game Trail
 1 Stomping Ground
 1 Cavern of Souls
 1 Path of Ancestry
@@ -28,8 +31,8 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-6 Forest
-6 Mountain
+5 Forest
+4 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

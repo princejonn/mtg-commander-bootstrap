@@ -6,6 +6,8 @@ Utility: 6
 Creatures: 1
 
 1 Golgari Rot Farm
+1 Blooming Marsh
+1 Woodland Cemetery
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Prismatic Vista
@@ -27,8 +29,8 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Crypt of Agadeem
-7 Swamp
-6 Forest
+6 Swamp
+5 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

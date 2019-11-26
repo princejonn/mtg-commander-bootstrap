@@ -6,6 +6,8 @@ Utility: 10
 Creatures: 1
 
 1 Simic Growth Chamber
+1 Botanical Sanctum
+1 Hinterland Harbor
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Prismatic Vista
@@ -26,8 +28,8 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-7 Island
-7 Forest
+6 Island
+6 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

@@ -6,6 +6,8 @@ Utility: 8
 Creatures: 1
 
 1 Izzet Boilerworks
+1 Spirebluff Canal
+1 Sulfur Falls
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Prismatic Vista
@@ -25,8 +27,8 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-9 Island
-9 Mountain
+8 Island
+8 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

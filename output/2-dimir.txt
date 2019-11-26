@@ -8,7 +8,9 @@ Creatures: 1
 1 Sunken Hollow
 1 Morphic Pool
 1 Dimir Aqueduct
+1 Darkslick Shores
 1 Fetid Pools
+1 Drowned Catacomb
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Prismatic Vista
@@ -21,6 +23,7 @@ Creatures: 1
 1 Urborg, Tomb of Yawgmoth
 1 Creeping Tar Pit
 1 Command Tower
+1 Choked Estuary
 1 Watery Grave
 1 Cavern of Souls
 1 Path of Ancestry
@@ -32,8 +35,8 @@ Creatures: 1
 1 Crypt of Agadeem
 1 Nephalia Drownyard
 1 Halimar Depths
-6 Island
-5 Swamp
+4 Island
+4 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map
