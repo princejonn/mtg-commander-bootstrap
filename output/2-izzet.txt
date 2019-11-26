@@ -24,10 +24,9 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-1 Tolaria West
 1 Halimar Depths
 9 Island
-8 Mountain
+9 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

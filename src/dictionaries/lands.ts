@@ -1388,10 +1388,10 @@ export const UtilityLands: TCardArray = [
   },
   {
     name: "Tolaria West",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 1,
-    maxColors: 3,
+    maxColors: 5,
     colorIdentity: [
       [ Color.BLUE ],
     ],

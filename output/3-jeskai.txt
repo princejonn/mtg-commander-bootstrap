@@ -27,9 +27,8 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-1 Tolaria West
 1 Halimar Depths
-3 Plains
+4 Plains
 3 Island
 3 Mountain
 1 Sol Ring
