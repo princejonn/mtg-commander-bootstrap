@@ -35,7 +35,7 @@ Creatures: 1
 1 Izzet Cluestone
 1 Izzet Locket
 1 Izzet Signet
-1 Talisman of Resilience
+1 Talisman of Creativity
 1 Brainstorm
 1 Rhystic Study
 1 Faithless Looting

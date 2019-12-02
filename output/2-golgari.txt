@@ -37,7 +37,7 @@ Creatures: 1
 1 Golgari Cluestone
 1 Golgari Locket
 1 Golgari Signet
-1 Talisman of Curiosity
+1 Talisman of Resilience
 1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach

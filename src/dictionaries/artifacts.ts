@@ -700,7 +700,7 @@ export const TalismanRamp: TCardArray = [
     ],
   },
   {
-    name: "Talisman of Resilience",
+    name: "Talisman of Creativity",
     casual: true,
     competitive: false,
     minColors: 2,
@@ -710,7 +710,7 @@ export const TalismanRamp: TCardArray = [
     ],
   },
   {
-    name: "Talisman of Curiosity",
+    name: "Talisman of Resilience",
     casual: true,
     competitive: false,
     minColors: 2,
@@ -720,7 +720,7 @@ export const TalismanRamp: TCardArray = [
     ],
   },
   {
-    name: "Talisman of Creativity",
+    name: "Talisman of Conviction",
     casual: true,
     competitive: false,
     minColors: 2,
@@ -730,7 +730,7 @@ export const TalismanRamp: TCardArray = [
     ],
   },
   {
-    name: "Talisman of Conviction",
+    name: "Talisman of Curiosity",
     casual: true,
     competitive: false,
     minColors: 2,

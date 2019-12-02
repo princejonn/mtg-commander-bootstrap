@@ -36,7 +36,7 @@ Creatures: 1
 1 Simic Cluestone
 1 Simic Locket
 1 Simic Signet
-1 Talisman of Conviction
+1 Talisman of Curiosity
 1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
