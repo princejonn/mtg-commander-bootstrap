@@ -1,15 +1,13 @@
-Lands: 36
-Mana Ramp: 9
+Lands: 33
+Mana Ramp: 12
 Card Draw: 6
 Removals: 15
 Utility: 5
-Creatures: 1
+Creatures: 0
 
 1 Orzhov Basilica
 1 Concealed Courtyard
 1 Isolated Chapel
-1 Evolving Wilds
-1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Marsh Flats
@@ -28,17 +26,20 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Crypt of Agadeem
-7 Plains
+6 Plains
 6 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Orzhov Cluestone
 1 Orzhov Locket
 1 Orzhov Signet
 1 Talisman of Hierarchy
 1 Land Tax
 1 Smothering Tithe
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Phyrexian Arena
@@ -65,4 +66,3 @@ Creatures: 1
 1 Teferi's Protection
 1 Legion's Landing
 1 Profane Procession
-1 Solemn Simulacrum

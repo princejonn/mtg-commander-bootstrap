@@ -1,15 +1,13 @@
-Lands: 36
-Mana Ramp: 9
+Lands: 33
+Mana Ramp: 12
 Card Draw: 3
 Removals: 8
 Utility: 5
-Creatures: 1
+Creatures: 0
 
 1 Boros Garrison
 1 Inspiring Vantage
 1 Clifftop Retreat
-1 Evolving Wilds
-1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Arid Mesa
@@ -26,17 +24,20 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-8 Plains
+7 Plains
 7 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Boros Cluestone
 1 Boros Locket
 1 Boros Signet
 1 Talisman of Conviction
 1 Land Tax
 1 Smothering Tithe
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Faithless Looting
 1 Cathartic Reunion
 1 Enlightened Tutor
@@ -53,4 +54,3 @@ Creatures: 1
 1 Legion's Landing
 1 Vance's Blasting Cannons
 1 Path of Mettle
-1 Solemn Simulacrum

@@ -1,9 +1,9 @@
-Lands: 25
-Mana Ramp: 20
+Lands: 22
+Mana Ramp: 23
 Card Draw: 7
 Removals: 9
 Utility: 1
-Creatures: 1
+Creatures: 0
 
 1 Luxury Suite
 1 Spire Garden
@@ -41,6 +41,7 @@ Creatures: 1
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Mardu Banner
 1 Abzan Banner
 1 Obelisk of Jund
@@ -52,9 +53,11 @@ Creatures: 1
 1 Golgari Signet
 1 Boros Signet
 1 Land Tax
-1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Night's Whisper
 1 Harmonize
 1 Lifecrafter's Bestiary
@@ -72,4 +75,3 @@ Creatures: 1
 1 Wrath of God
 1 Damnation
 1 Teferi's Protection
-1 Solemn Simulacrum

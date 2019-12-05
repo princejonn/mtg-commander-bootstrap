@@ -1,9 +1,9 @@
-Lands: 32
-Mana Ramp: 13
+Lands: 29
+Mana Ramp: 16
 Card Draw: 8
 Removals: 7
 Utility: 6
-Creatures: 1
+Creatures: 0
 
 1 Cinder Glade
 1 Spire Garden
@@ -29,22 +29,25 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-3 Island
-3 Forest
-2 Mountain
+2 Island
+2 Forest
+1 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Temur Banner
 1 Gruul Signet
 1 Izzet Signet
 1 Simic Signet
-1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Harmonize
@@ -66,4 +69,3 @@ Creatures: 1
 1 Counterspell
 1 Mana Drain
 1 Swan Song
-1 Solemn Simulacrum

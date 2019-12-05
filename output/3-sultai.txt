@@ -1,9 +1,9 @@
-Lands: 32
-Mana Ramp: 13
+Lands: 29
+Mana Ramp: 16
 Card Draw: 11
 Removals: 10
 Utility: 7
-Creatures: 1
+Creatures: 0
 
 1 Sunken Hollow
 1 Morphic Pool
@@ -30,22 +30,25 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-3 Island
-2 Swamp
-2 Forest
+2 Island
+1 Swamp
+1 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Sultai Banner
 1 Dimir Signet
 1 Golgari Signet
 1 Simic Signet
-1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper
@@ -74,4 +77,3 @@ Creatures: 1
 1 Counterspell
 1 Mana Drain
 1 Swan Song
-1 Solemn Simulacrum

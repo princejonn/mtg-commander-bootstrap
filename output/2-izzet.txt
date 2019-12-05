@@ -1,15 +1,13 @@
-Lands: 38
-Mana Ramp: 7
+Lands: 35
+Mana Ramp: 10
 Card Draw: 6
 Removals: 5
 Utility: 8
-Creatures: 1
+Creatures: 0
 
 1 Izzet Boilerworks
 1 Spirebluff Canal
 1 Sulfur Falls
-1 Evolving Wilds
-1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Scalding Tarn
@@ -28,14 +26,17 @@ Creatures: 1
 1 Reliquary Tower
 1 Halimar Depths
 8 Island
-8 Mountain
+7 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Izzet Cluestone
 1 Izzet Locket
 1 Izzet Signet
 1 Talisman of Creativity
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Faithless Looting
@@ -55,4 +56,3 @@ Creatures: 1
 1 Search for Azcanta
 1 Vance's Blasting Cannons
 1 Storm the Vault
-1 Solemn Simulacrum

@@ -748,34 +748,6 @@ export const FastLands: TCardArray = [
 
 export const FetchLands: TCardArray = [
   {
-    name: "Evolving Wilds",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
-    name: "Terramorphic Expanse",
-    casual: true,
-    competitive: false,
-    minColors: 2,
-    maxColors: 2,
-    colorIdentity: [
-      [ Color.WHITE ],
-      [ Color.BLUE ],
-      [ Color.BLACK ],
-      [ Color.GREEN ],
-      [ Color.RED ],
-    ],
-  },
-  {
     name: "Prismatic Vista",
     casual: true,
     competitive: false,

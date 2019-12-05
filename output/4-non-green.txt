@@ -1,9 +1,9 @@
-Lands: 28
-Mana Ramp: 17
+Lands: 25
+Mana Ramp: 20
 Card Draw: 8
 Removals: 8
 Utility: 5
-Creatures: 1
+Creatures: 0
 
 1 Sea of Clouds
 1 Morphic Pool
@@ -39,6 +39,7 @@ Creatures: 1
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Mardu Banner
 1 Jeskai Banner
 1 Obelisk of Grixis
@@ -50,6 +51,8 @@ Creatures: 1
 1 Izzet Signet
 1 Boros Signet
 1 Land Tax
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper
@@ -71,4 +74,3 @@ Creatures: 1
 1 Mana Drain
 1 Swan Song
 1 Dovin's Veto
-1 Solemn Simulacrum

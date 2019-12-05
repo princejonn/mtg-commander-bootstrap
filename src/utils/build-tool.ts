@@ -155,6 +155,7 @@ export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
 
   const artifactRampList: TSimpleCardList = [
     ...getMatchingCards(colorList, artifacts.ArtifactRamp),
+    ...getMatchingCards(colorList, artifacts.ArtifactFetchRamp),
     ...getMatchingCards(colorList, artifacts.BannerRamp),
     ...getMatchingCards(colorList, artifacts.CluestoneRamp),
     ...getMatchingCards(colorList, artifacts.DiamondRamp),
@@ -167,8 +168,8 @@ export const buildCardList = (colorList: TColorArray): TBuildCardListResult => {
 
   const spellRamp: TSimpleCardList = [
     ...getMatchingCards(colorList, enchantments.EnchantmentRamp),
-    ...getMatchingCards(colorList, creatures.CreatureRamp),
     ...getMatchingCards(colorList, utility.SpellRamp),
+    ...getMatchingCards(colorList, creatures.CreatureRamp),
   ];
 
   const total = landList.length + artifactRampList.length + spellRamp.length;

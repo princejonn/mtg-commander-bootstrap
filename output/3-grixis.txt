@@ -1,9 +1,9 @@
-Lands: 35
-Mana Ramp: 10
+Lands: 32
+Mana Ramp: 13
 Card Draw: 8
 Removals: 8
 Utility: 5
-Creatures: 1
+Creatures: 0
 
 1 Sunken Hollow
 1 Smoldering Marsh
@@ -33,19 +33,22 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-3 Island
-2 Swamp
-2 Mountain
+2 Island
+1 Swamp
+1 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Obelisk of Grixis
 1 Dimir Signet
 1 Rakdos Signet
 1 Izzet Signet
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper
@@ -67,4 +70,3 @@ Creatures: 1
 1 Counterspell
 1 Mana Drain
 1 Swan Song
-1 Solemn Simulacrum

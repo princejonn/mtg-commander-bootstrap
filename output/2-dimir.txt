@@ -1,9 +1,9 @@
-Lands: 38
-Mana Ramp: 7
+Lands: 35
+Mana Ramp: 10
 Card Draw: 9
 Removals: 7
 Utility: 7
-Creatures: 1
+Creatures: 0
 
 1 Sunken Hollow
 1 Morphic Pool
@@ -11,8 +11,6 @@ Creatures: 1
 1 Darkslick Shores
 1 Fetid Pools
 1 Drowned Catacomb
-1 Evolving Wilds
-1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Polluted Delta
@@ -36,14 +34,17 @@ Creatures: 1
 1 Nephalia Drownyard
 1 Halimar Depths
 4 Island
-4 Swamp
+3 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Dimir Cluestone
 1 Dimir Locket
 1 Dimir Signet
 1 Talisman of Dominance
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper
@@ -67,4 +68,3 @@ Creatures: 1
 1 Swan Song
 1 Negate
 1 Search for Azcanta
-1 Solemn Simulacrum

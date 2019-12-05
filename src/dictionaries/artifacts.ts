@@ -101,8 +101,25 @@ export const ArtifactRamp: TCardArray = [
       [ Color.RED ],
     ],
   },
+];
+
+export const ArtifactFetchRamp: TCardArray = [
   {
     name: "Expedition Map",
+    casual: true,
+    competitive: false,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Wayfarer's Bauble",
     casual: true,
     competitive: false,
     minColors: 1,

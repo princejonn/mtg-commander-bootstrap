@@ -1,9 +1,9 @@
-Lands: 38
-Mana Ramp: 7
+Lands: 35
+Mana Ramp: 10
 Card Draw: 7
 Removals: 8
 Utility: 3
-Creatures: 1
+Creatures: 0
 
 1 Smoldering Marsh
 1 Luxury Suite
@@ -11,8 +11,6 @@ Creatures: 1
 1 Blackcleave Cliffs
 1 Canyon Slough
 1 Dragonskull Summit
-1 Evolving Wilds
-1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Bloodstained Mire
@@ -32,15 +30,18 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Crypt of Agadeem
-6 Swamp
+5 Swamp
 5 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Rakdos Cluestone
 1 Rakdos Locket
 1 Rakdos Signet
 1 Talisman of Indulgence
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Phyrexian Arena
@@ -59,4 +60,3 @@ Creatures: 1
 1 Dread Return
 1 Rakdos Charm
 1 Vance's Blasting Cannons
-1 Solemn Simulacrum

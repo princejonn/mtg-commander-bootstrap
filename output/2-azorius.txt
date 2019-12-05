@@ -1,9 +1,9 @@
-Lands: 36
-Mana Ramp: 9
+Lands: 33
+Mana Ramp: 12
 Card Draw: 5
 Removals: 9
 Utility: 9
-Creatures: 1
+Creatures: 0
 
 1 Prairie Stream
 1 Sea of Clouds
@@ -11,8 +11,6 @@ Creatures: 1
 1 Seachrome Coast
 1 Irrigated Farmland
 1 Glacial Fortress
-1 Evolving Wilds
-1 Terramorphic Expanse
 1 Prismatic Vista
 1 Myriad Landscape
 1 Flooded Strand
@@ -32,16 +30,19 @@ Creatures: 1
 1 Reliquary Tower
 1 Halimar Depths
 5 Plains
-5 Island
+4 Island
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Azorius Cluestone
 1 Azorius Locket
 1 Azorius Signet
 1 Talisman of Progress
 1 Land Tax
 1 Smothering Tithe
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Enlightened Tutor
@@ -65,4 +66,3 @@ Creatures: 1
 1 Dovin's Veto
 1 Legion's Landing
 1 Search for Azcanta
-1 Solemn Simulacrum

@@ -1,9 +1,9 @@
-Lands: 26
-Mana Ramp: 19
+Lands: 23
+Mana Ramp: 22
 Card Draw: 9
 Removals: 7
 Utility: 3
-Creatures: 1
+Creatures: 0
 
 1 Morphic Pool
 1 Luxury Suite
@@ -40,6 +40,7 @@ Creatures: 1
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Sultai Banner
 1 Temur Banner
 1 Obelisk of Jund
@@ -50,9 +51,11 @@ Creatures: 1
 1 Izzet Signet
 1 Golgari Signet
 1 Simic Signet
-1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Night's Whisper
@@ -72,4 +75,3 @@ Creatures: 1
 1 Counterspell
 1 Mana Drain
 1 Swan Song
-1 Solemn Simulacrum

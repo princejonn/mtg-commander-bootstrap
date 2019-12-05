@@ -1,9 +1,9 @@
-Lands: 33
-Mana Ramp: 12
+Lands: 30
+Mana Ramp: 15
 Card Draw: 5
 Removals: 7
 Utility: 6
-Creatures: 1
+Creatures: 0
 
 1 Prairie Stream
 1 Sea of Clouds
@@ -28,21 +28,24 @@ Creatures: 1
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-4 Plains
-3 Island
-3 Mountain
+3 Plains
+2 Island
+2 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Jeskai Banner
 1 Azorius Signet
 1 Izzet Signet
 1 Boros Signet
 1 Land Tax
 1 Smothering Tithe
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Brainstorm
 1 Rhystic Study
 1 Faithless Looting
@@ -61,4 +64,3 @@ Creatures: 1
 1 Mana Drain
 1 Swan Song
 1 Dovin's Veto
-1 Solemn Simulacrum

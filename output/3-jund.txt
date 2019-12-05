@@ -1,9 +1,9 @@
-Lands: 32
-Mana Ramp: 13
+Lands: 29
+Mana Ramp: 16
 Card Draw: 9
 Removals: 9
 Utility: 4
-Creatures: 1
+Creatures: 0
 
 1 Smoldering Marsh
 1 Cinder Glade
@@ -33,22 +33,23 @@ Creatures: 1
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-2 Swamp
-1 Forest
-1 Mountain
+1 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
 1 Commander's Sphere
 1 Chromatic Lantern
 1 Expedition Map
+1 Wayfarer's Bauble
 1 Obelisk of Jund
 1 Rakdos Signet
 1 Gruul Signet
 1 Golgari Signet
-1 Birds of Paradise
 1 Cultivate
 1 Kodama's Reach
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Burnished Hart
 1 Night's Whisper
 1 Sign in Blood
 1 Harmonize
@@ -71,4 +72,3 @@ Creatures: 1
 1 Eternal Witness
 1 Regrowth
 1 Jund Charm
-1 Solemn Simulacrum
