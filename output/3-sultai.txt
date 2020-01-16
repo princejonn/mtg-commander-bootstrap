@@ -1,5 +1,5 @@
-Lands: 29
-Mana Ramp: 16
+Lands: 28
+Mana Ramp: 17
 Card Draw: 11
 Removals: 10
 Utility: 7
@@ -30,7 +30,7 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-2 Island
+1 Island
 1 Swamp
 1 Forest
 1 Sol Ring
@@ -44,6 +44,7 @@ Creatures: 0
 1 Dimir Signet
 1 Golgari Signet
 1 Simic Signet
+1 Burgeoning
 1 Cultivate
 1 Kodama's Reach
 1 Birds of Paradise

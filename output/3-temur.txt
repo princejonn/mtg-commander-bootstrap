@@ -1,5 +1,5 @@
-Lands: 29
-Mana Ramp: 16
+Lands: 28
+Mana Ramp: 17
 Card Draw: 8
 Removals: 7
 Utility: 6
@@ -30,7 +30,7 @@ Creatures: 0
 1 Reliquary Tower
 1 Halimar Depths
 2 Island
-2 Forest
+1 Forest
 1 Mountain
 1 Sol Ring
 1 Arcane Signet
@@ -43,6 +43,7 @@ Creatures: 0
 1 Gruul Signet
 1 Izzet Signet
 1 Simic Signet
+1 Burgeoning
 1 Cultivate
 1 Kodama's Reach
 1 Birds of Paradise

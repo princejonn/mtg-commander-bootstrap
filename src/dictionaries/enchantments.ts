@@ -44,6 +44,16 @@ export const EnchantmentRamp: TCardArray = [
 
   // GREEN
 
+  {
+    name: "Burgeoning",
+    casual: true,
+    competitive: true,
+    minColors: 1,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.GREEN ],
+    ],
+  },
 
   // RED
 

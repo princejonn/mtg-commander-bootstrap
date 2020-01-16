@@ -1,5 +1,5 @@
-Lands: 22
-Mana Ramp: 23
+Lands: 21
+Mana Ramp: 24
 Card Draw: 7
 Removals: 7
 Utility: 5
@@ -51,6 +51,7 @@ Creatures: 0
 1 Boros Signet
 1 Simic Signet
 1 Land Tax
+1 Burgeoning
 1 Cultivate
 1 Kodama's Reach
 1 Birds of Paradise

@@ -1,5 +1,5 @@
-Lands: 29
-Mana Ramp: 16
+Lands: 28
+Mana Ramp: 17
 Card Draw: 7
 Removals: 5
 Utility: 3
@@ -16,7 +16,7 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Nykthos, Shrine to Nyx
-18 Forest
+17 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -25,6 +25,7 @@ Creatures: 0
 1 Wayfarer's Bauble
 1 Moss Diamond
 1 Emerald Medallion
+1 Burgeoning
 1 Cultivate
 1 Kodama's Reach
 1 Birds of Paradise

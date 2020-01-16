@@ -1,5 +1,5 @@
-Lands: 23
-Mana Ramp: 22
+Lands: 22
+Mana Ramp: 23
 Card Draw: 9
 Removals: 7
 Utility: 3
@@ -51,6 +51,7 @@ Creatures: 0
 1 Izzet Signet
 1 Golgari Signet
 1 Simic Signet
+1 Burgeoning
 1 Cultivate
 1 Kodama's Reach
 1 Birds of Paradise

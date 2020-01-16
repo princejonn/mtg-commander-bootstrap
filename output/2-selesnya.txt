@@ -1,5 +1,5 @@
-Lands: 27
-Mana Ramp: 18
+Lands: 26
+Mana Ramp: 19
 Card Draw: 6
 Removals: 10
 Utility: 6
@@ -29,7 +29,7 @@ Creatures: 0
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-2 Plains
+1 Plains
 1 Forest
 1 Sol Ring
 1 Arcane Signet
@@ -41,6 +41,7 @@ Creatures: 0
 1 Talisman of Unity
 1 Land Tax
 1 Smothering Tithe
+1 Burgeoning
 1 Cultivate
 1 Kodama's Reach
 1 Birds of Paradise
