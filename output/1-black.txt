@@ -10,7 +10,6 @@ Creatures: 0
 1 Barren Moor
 1 Myriad Landscape
 1 Phyrexian Tower
-1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
 1 Bojuka Bog
 1 Buried Ruin
@@ -21,7 +20,7 @@ Creatures: 0
 1 Cabal Stronghold
 1 Cabal Coffers
 1 Crypt of Agadeem
-18 Swamp
+19 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone

@@ -8,15 +8,13 @@ Creatures: 0
 1 Golgari Rot Farm
 1 Blooming Marsh
 1 Woodland Cemetery
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Myriad Landscape
 1 Verdant Catacombs
 1 Twilight Mire
 1 Mosswort Bridge
-1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
-1 Gaea's Cradle
-1 Okina, Temple to the Grandfathers
 1 Command Tower
 1 Overgrown Tomb
 1 Cavern of Souls
@@ -27,8 +25,8 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Crypt of Agadeem
-3 Swamp
-3 Forest
+4 Swamp
+4 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

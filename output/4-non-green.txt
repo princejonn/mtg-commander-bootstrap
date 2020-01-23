@@ -8,7 +8,8 @@ Creatures: 0
 1 Sea of Clouds
 1 Morphic Pool
 1 Luxury Suite
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Shimmering Grotto
 1 Unknown Shores
 1 Windbrisk Heights

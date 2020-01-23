@@ -8,13 +8,13 @@ Creatures: 0
 1 Morphic Pool
 1 Luxury Suite
 1 Spire Garden
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Shimmering Grotto
 1 Unknown Shores
 1 Mosswort Bridge
 1 Spinerock Knoll
 1 Urborg, Tomb of Yawgmoth
-1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
 1 Savage Lands

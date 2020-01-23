@@ -8,14 +8,14 @@ Creatures: 0
 1 Canopy Vista
 1 Bountiful Promenade
 1 Scattered Groves
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Windswept Heath
 1 Marsh Flats
 1 Verdant Catacombs
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Urborg, Tomb of Yawgmoth
-1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
 1 Sandsteppe Citadel

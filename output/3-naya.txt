@@ -11,7 +11,8 @@ Creatures: 0
 1 Bountiful Promenade
 1 Sheltered Thicket
 1 Scattered Groves
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Wooded Foothills
 1 Windswept Heath
 1 Naya Panorama
@@ -19,7 +20,6 @@ Creatures: 0
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Spinerock Knoll
-1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
 1 Jungle Shrine

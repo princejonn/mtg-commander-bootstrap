@@ -11,14 +11,13 @@ Creatures: 0
 1 Blackcleave Cliffs
 1 Canyon Slough
 1 Dragonskull Summit
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Myriad Landscape
 1 Bloodstained Mire
 1 Graven Cairns
 1 Spinerock Knoll
-1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
-1 Shinka, the Bloodsoaked Keep
 1 Command Tower
 1 Foreboding Ruins
 1 Blood Crypt
@@ -30,7 +29,7 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Crypt of Agadeem
-5 Swamp
+6 Swamp
 5 Mountain
 1 Sol Ring
 1 Arcane Signet

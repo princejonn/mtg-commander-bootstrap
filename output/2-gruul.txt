@@ -11,15 +11,13 @@ Creatures: 0
 1 Copperline Gorge
 1 Sheltered Thicket
 1 Rootbound Crag
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Myriad Landscape
 1 Wooded Foothills
 1 Fire-lit Thicket
 1 Mosswort Bridge
 1 Spinerock Knoll
-1 Gaea's Cradle
-1 Okina, Temple to the Grandfathers
-1 Shinka, the Bloodsoaked Keep
 1 Command Tower
 1 Game Trail
 1 Stomping Ground
@@ -29,8 +27,8 @@ Creatures: 0
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-2 Forest
-2 Mountain
+3 Forest
+3 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

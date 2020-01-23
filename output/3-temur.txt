@@ -8,14 +8,14 @@ Creatures: 0
 1 Cinder Glade
 1 Spire Garden
 1 Sheltered Thicket
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Wooded Foothills
 1 Scalding Tarn
 1 Misty Rainforest
 1 Mosswort Bridge
 1 Spinerock Knoll
 1 Academy Ruins
-1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
 1 Frontier Bivouac

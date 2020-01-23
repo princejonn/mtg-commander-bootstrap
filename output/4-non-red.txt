@@ -8,13 +8,13 @@ Creatures: 0
 1 Sea of Clouds
 1 Morphic Pool
 1 Bountiful Promenade
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Shimmering Grotto
 1 Unknown Shores
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Urborg, Tomb of Yawgmoth
-1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
 1 Seaside Citadel

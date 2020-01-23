@@ -11,13 +11,12 @@ Creatures: 0
 1 Darkslick Shores
 1 Fetid Pools
 1 Drowned Catacomb
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Myriad Landscape
 1 Polluted Delta
 1 Sunken Ruins
-1 Minamo, School at Water's Edge
 1 Academy Ruins
-1 Shizo, Death's Storehouse
 1 Urborg, Tomb of Yawgmoth
 1 Creeping Tar Pit
 1 Command Tower
@@ -34,7 +33,7 @@ Creatures: 0
 1 Nephalia Drownyard
 1 Halimar Depths
 4 Island
-3 Swamp
+4 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

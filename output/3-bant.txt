@@ -11,7 +11,8 @@ Creatures: 0
 1 Bountiful Promenade
 1 Irrigated Farmland
 1 Scattered Groves
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Flooded Strand
 1 Windswept Heath
 1 Bant Panorama
@@ -19,7 +20,6 @@ Creatures: 0
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Academy Ruins
-1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
 1 Seaside Citadel

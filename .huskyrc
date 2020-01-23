@@ -1,6 +1,6 @@
 {
   "hooks": {
-    "pre-commit": "lint-staged",
-    "pre-push": "npm test && tsc -p tsconfig.json --noEmit && npm run build && npm start && git add output"
+    "pre-commit": "lint-staged && npm run build && npm start && git add output",
+    "pre-push": "npm test && tsc -p tsconfig.json --noEmit"
   }
 }

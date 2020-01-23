@@ -10,12 +10,11 @@ Creatures: 0
 1 Forgotten Cave
 1 Myriad Landscape
 1 Spinerock Knoll
-1 Shinka, the Bloodsoaked Keep
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
 1 Nykthos, Shrine to Nyx
-25 Mountain
+26 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone

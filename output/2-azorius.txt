@@ -11,13 +11,12 @@ Creatures: 0
 1 Seachrome Coast
 1 Irrigated Farmland
 1 Glacial Fortress
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Myriad Landscape
 1 Flooded Strand
 1 Mystic Gate
 1 Windbrisk Heights
-1 Eiganjo Castle
-1 Minamo, School at Water's Edge
 1 Academy Ruins
 1 Command Tower
 1 Port Town
@@ -30,7 +29,7 @@ Creatures: 0
 1 Reliquary Tower
 1 Halimar Depths
 5 Plains
-4 Island
+5 Island
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

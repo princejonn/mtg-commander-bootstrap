@@ -8,14 +8,14 @@ Creatures: 0
 1 Sunken Hollow
 1 Morphic Pool
 1 Fetid Pools
-1 Prismatic Vista
+1 Evolving Wilds
+1 Terramorphic Expanse
 1 Polluted Delta
 1 Verdant Catacombs
 1 Misty Rainforest
 1 Mosswort Bridge
 1 Academy Ruins
 1 Urborg, Tomb of Yawgmoth
-1 Gaea's Cradle
 1 Command Tower
 1 Exotic Orchard
 1 Opulent Palace
