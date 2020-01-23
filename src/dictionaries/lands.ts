@@ -748,9 +748,37 @@ export const FastLands: TCardArray = [
 
 export const FetchLands: TCardArray = [
   {
-    name: "Prismatic Vista",
+    name: "Evolving Wilds",
     casual: true,
     competitive: false,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Terramorphic Expanse",
+    casual: true,
+    competitive: false,
+    minColors: 2,
+    maxColors: 5,
+    colorIdentity: [
+      [ Color.WHITE ],
+      [ Color.BLUE ],
+      [ Color.BLACK ],
+      [ Color.GREEN ],
+      [ Color.RED ],
+    ],
+  },
+  {
+    name: "Prismatic Vista",
+    casual: false,
+    competitive: true,
     minColors: 2,
     maxColors: 5,
     colorIdentity: [
@@ -1109,8 +1137,8 @@ export const HideawayLands: TCardArray = [
 export const LegendaryLands: TCardArray = [
   {
     name: "Eiganjo Castle",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 1,
     maxColors: 2,
     colorIdentity: [
@@ -1119,8 +1147,8 @@ export const LegendaryLands: TCardArray = [
   },
   {
     name: "Minamo, School at Water's Edge",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 1,
     maxColors: 2,
     colorIdentity: [
@@ -1149,8 +1177,8 @@ export const LegendaryLands: TCardArray = [
   },
   {
     name: "Shizo, Death's Storehouse",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 1,
     maxColors: 2,
     colorIdentity: [
@@ -1169,8 +1197,8 @@ export const LegendaryLands: TCardArray = [
   },
   {
     name: "Gaea's Cradle",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 1,
     maxColors: 5,
     colorIdentity: [
@@ -1179,8 +1207,8 @@ export const LegendaryLands: TCardArray = [
   },
   {
     name: "Okina, Temple to the Grandfathers",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 1,
     maxColors: 2,
     colorIdentity: [
@@ -1189,8 +1217,8 @@ export const LegendaryLands: TCardArray = [
   },
   {
     name: "Shinka, the Bloodsoaked Keep",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 1,
     maxColors: 2,
     colorIdentity: [
