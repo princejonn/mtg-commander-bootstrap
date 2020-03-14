@@ -13,12 +13,8 @@ Creatures: 0
 1 Canyon Slough
 1 Evolving Wilds
 1 Terramorphic Expanse
-1 Polluted Delta
-1 Bloodstained Mire
 1 Grixis Panorama
-1 Scalding Tarn
 1 Spinerock Knoll
-1 Academy Ruins
 1 Urborg, Tomb of Yawgmoth
 1 Command Tower
 1 Exotic Orchard
@@ -34,9 +30,9 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-1 Island
-1 Swamp
-1 Mountain
+3 Island
+2 Swamp
+2 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

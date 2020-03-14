@@ -11,7 +11,6 @@ Creatures: 0
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Myriad Landscape
-1 Marsh Flats
 1 Fetid Heath
 1 Windbrisk Heights
 1 Urborg, Tomb of Yawgmoth
@@ -26,7 +25,7 @@ Creatures: 0
 1 Reliquary Tower
 1 Crypt of Agadeem
 7 Plains
-6 Swamp
+7 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

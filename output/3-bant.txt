@@ -13,13 +13,9 @@ Creatures: 0
 1 Scattered Groves
 1 Evolving Wilds
 1 Terramorphic Expanse
-1 Flooded Strand
-1 Windswept Heath
 1 Bant Panorama
-1 Misty Rainforest
 1 Windbrisk Heights
 1 Mosswort Bridge
-1 Academy Ruins
 1 Command Tower
 1 Exotic Orchard
 1 Seaside Citadel
@@ -33,6 +29,8 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
+1 Plains
+1 Island
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

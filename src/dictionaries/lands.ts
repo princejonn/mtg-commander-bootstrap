@@ -808,7 +808,7 @@ export const FetchLands: TCardArray = [
 export const FetchLandsOnslaught: TCardArray = [
   {
     name: "Flooded Strand",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -818,7 +818,7 @@ export const FetchLandsOnslaught: TCardArray = [
   },
   {
     name: "Polluted Delta",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -828,7 +828,7 @@ export const FetchLandsOnslaught: TCardArray = [
   },
   {
     name: "Bloodstained Mire",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -838,7 +838,7 @@ export const FetchLandsOnslaught: TCardArray = [
   },
   {
     name: "Wooded Foothills",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -848,7 +848,7 @@ export const FetchLandsOnslaught: TCardArray = [
   },
   {
     name: "Windswept Heath",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -914,7 +914,7 @@ export const FetchLandsPanorama: TCardArray = [
 export const FetchLandsZendikar: TCardArray = [
   {
     name: "Marsh Flats",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -924,7 +924,7 @@ export const FetchLandsZendikar: TCardArray = [
   },
   {
     name: "Scalding Tarn",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -934,7 +934,7 @@ export const FetchLandsZendikar: TCardArray = [
   },
   {
     name: "Verdant Catacombs",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -944,7 +944,7 @@ export const FetchLandsZendikar: TCardArray = [
   },
   {
     name: "Arid Mesa",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -954,7 +954,7 @@ export const FetchLandsZendikar: TCardArray = [
   },
   {
     name: "Misty Rainforest",
-    casual: true,
+    casual: false,
     competitive: true,
     minColors: 2,
     maxColors: 3,
@@ -1157,8 +1157,8 @@ export const LegendaryLands: TCardArray = [
   },
   {
     name: "Academy Ruins",
-    casual: true,
-    competitive: false,
+    casual: false,
+    competitive: true,
     minColors: 1,
     maxColors: 3,
     colorIdentity: [
@@ -1167,7 +1167,7 @@ export const LegendaryLands: TCardArray = [
   },
   {
     name: "Phyrexian Tower",
-    casual: true,
+    casual: false,
     competitive: false,
     minColors: 1,
     maxColors: 1,

@@ -13,12 +13,8 @@ Creatures: 0
 1 Fetid Pools
 1 Evolving Wilds
 1 Terramorphic Expanse
-1 Flooded Strand
-1 Polluted Delta
 1 Esper Panorama
-1 Marsh Flats
 1 Windbrisk Heights
-1 Academy Ruins
 1 Urborg, Tomb of Yawgmoth
 1 Command Tower
 1 Exotic Orchard
@@ -34,7 +30,9 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-1 Plains
+2 Plains
+2 Island
+1 Swamp
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

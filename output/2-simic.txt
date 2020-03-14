@@ -11,10 +11,8 @@ Creatures: 0
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Myriad Landscape
-1 Misty Rainforest
 1 Flooded Grove
 1 Mosswort Bridge
-1 Academy Ruins
 1 Command Tower
 1 Breeding Pool
 1 Cavern of Souls
@@ -24,8 +22,8 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-5 Island
-4 Forest
+6 Island
+5 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

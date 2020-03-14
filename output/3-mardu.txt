@@ -10,9 +10,6 @@ Creatures: 0
 1 Canyon Slough
 1 Evolving Wilds
 1 Terramorphic Expanse
-1 Bloodstained Mire
-1 Marsh Flats
-1 Arid Mesa
 1 Windbrisk Heights
 1 Spinerock Knoll
 1 Urborg, Tomb of Yawgmoth
@@ -29,9 +26,9 @@ Creatures: 0
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-2 Plains
-2 Swamp
-2 Mountain
+3 Plains
+3 Swamp
+3 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

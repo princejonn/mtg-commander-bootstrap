@@ -10,9 +10,6 @@ Creatures: 0
 1 Scattered Groves
 1 Evolving Wilds
 1 Terramorphic Expanse
-1 Windswept Heath
-1 Marsh Flats
-1 Verdant Catacombs
 1 Windbrisk Heights
 1 Mosswort Bridge
 1 Urborg, Tomb of Yawgmoth
@@ -29,8 +26,9 @@ Creatures: 0
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
-1 Plains
-1 Swamp
+2 Plains
+2 Swamp
+1 Forest
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

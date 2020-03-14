@@ -10,12 +10,8 @@ Creatures: 0
 1 Sheltered Thicket
 1 Evolving Wilds
 1 Terramorphic Expanse
-1 Wooded Foothills
-1 Scalding Tarn
-1 Misty Rainforest
 1 Mosswort Bridge
 1 Spinerock Knoll
-1 Academy Ruins
 1 Command Tower
 1 Exotic Orchard
 1 Frontier Bivouac
@@ -29,9 +25,9 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-2 Island
-1 Forest
-1 Mountain
+3 Island
+3 Forest
+2 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

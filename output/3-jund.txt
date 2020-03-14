@@ -13,10 +13,7 @@ Creatures: 0
 1 Sheltered Thicket
 1 Evolving Wilds
 1 Terramorphic Expanse
-1 Bloodstained Mire
-1 Wooded Foothills
 1 Jund Panorama
-1 Verdant Catacombs
 1 Mosswort Bridge
 1 Spinerock Knoll
 1 Urborg, Tomb of Yawgmoth
@@ -33,6 +30,9 @@ Creatures: 0
 1 Buried Ruin
 1 Rogue's Passage
 1 Reliquary Tower
+1 Swamp
+1 Forest
+1 Mountain
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone

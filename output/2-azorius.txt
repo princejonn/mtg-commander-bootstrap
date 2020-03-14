@@ -14,10 +14,8 @@ Creatures: 0
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Myriad Landscape
-1 Flooded Strand
 1 Mystic Gate
 1 Windbrisk Heights
-1 Academy Ruins
 1 Command Tower
 1 Port Town
 1 Hallowed Fountain
@@ -28,8 +26,8 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Halimar Depths
-5 Plains
-5 Island
+6 Plains
+6 Island
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map

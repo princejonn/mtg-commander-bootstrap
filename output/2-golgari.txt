@@ -11,7 +11,6 @@ Creatures: 0
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Myriad Landscape
-1 Verdant Catacombs
 1 Twilight Mire
 1 Mosswort Bridge
 1 Urborg, Tomb of Yawgmoth
@@ -25,7 +24,7 @@ Creatures: 0
 1 Rogue's Passage
 1 Reliquary Tower
 1 Crypt of Agadeem
-4 Swamp
+5 Swamp
 4 Forest
 1 Sol Ring
 1 Arcane Signet
